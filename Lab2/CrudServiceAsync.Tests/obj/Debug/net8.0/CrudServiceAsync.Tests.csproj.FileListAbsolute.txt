@@ -1,0 +1,7 @@
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_CrudServiceAsync.Tests
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_CrudServiceAsync.Tests
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\obj\Debug\net8.0\CrudServiceAsync.Tests.csproj.AssemblyReference.cache
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\obj\Debug\net8.0\CrudServiceAsync.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\obj\Debug\net8.0\CrudServiceAsync.Tests.AssemblyInfoInputs.cache
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\obj\Debug\net8.0\CrudServiceAsync.Tests.AssemblyInfo.cs
+C:\Users\rgoro\OneDrive\Рабочий стол\Lab2\Lab2\CrudServiceAsync.Tests\obj\Debug\net8.0\CrudServiceAsync.Tests.csproj.CoreCompileInputs.cache

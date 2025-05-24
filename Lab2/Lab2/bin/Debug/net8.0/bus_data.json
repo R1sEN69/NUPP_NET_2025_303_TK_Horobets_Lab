@@ -1,0 +1,6995 @@
+[
+  {
+    "Model": "Bus_Model_1ec9",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 28.12,
+    "PassengerCapacity": 93,
+    "Id": "e3d83798-0ce7-43fc-bc4b-3942e58a7c23"
+  },
+  {
+    "Model": "Bus_Model_6613",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 20.75,
+    "PassengerCapacity": 47,
+    "Id": "1aead625-0c0b-4314-bfed-2db0b5bcd6b8"
+  },
+  {
+    "Model": "Bus_Model_2d92",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 21.23,
+    "PassengerCapacity": 83,
+    "Id": "b5bd6cb5-d569-4fef-bf9e-6a4c23ee6c69"
+  },
+  {
+    "Model": "Bus_Model_5e28",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 27.1,
+    "PassengerCapacity": 35,
+    "Id": "8820b6bb-175a-4fe4-98b3-3d99f150ea38"
+  },
+  {
+    "Model": "Bus_Model_04fd",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 21.1,
+    "PassengerCapacity": 75,
+    "Id": "94c996cd-767c-4cb6-b9eb-27419983d090"
+  },
+  {
+    "Model": "Bus_Model_eca4",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 20.01,
+    "PassengerCapacity": 96,
+    "Id": "423faf24-4357-4110-b53f-475d70897b58"
+  },
+  {
+    "Model": "Bus_Model_d8fc",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.3,
+    "PassengerCapacity": 20,
+    "Id": "0653660a-d9bc-4cd8-bc0c-12eb5220f5a2"
+  },
+  {
+    "Model": "Bus_Model_cf51",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 15.57,
+    "PassengerCapacity": 79,
+    "Id": "df9703a3-d1c7-4613-b1af-d90e4b3bab14"
+  },
+  {
+    "Model": "Bus_Model_5c14",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 15.31,
+    "PassengerCapacity": 88,
+    "Id": "e628c779-5245-4e84-9b0b-9de795c6c5bd"
+  },
+  {
+    "Model": "Bus_Model_b4d2",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 28.46,
+    "PassengerCapacity": 32,
+    "Id": "bb807ad1-d714-4bc9-a0c8-98eb45adc059"
+  },
+  {
+    "Model": "Bus_Model_8a84",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 20,
+    "PassengerCapacity": 57,
+    "Id": "40a6dd8c-b472-48e4-bcbd-2937fd239cf7"
+  },
+  {
+    "Model": "Bus_Model_df1c",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 25.64,
+    "PassengerCapacity": 21,
+    "Id": "1193301f-b6e2-4e7e-9124-ae73cd74b756"
+  },
+  {
+    "Model": "Bus_Model_8455",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 28.09,
+    "PassengerCapacity": 40,
+    "Id": "30f3c793-05b2-4bce-a3e7-920f1e499e5d"
+  },
+  {
+    "Model": "Bus_Model_7d57",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 29.97,
+    "PassengerCapacity": 32,
+    "Id": "7d8724a1-a883-4dc9-81cb-2f24b91a502e"
+  },
+  {
+    "Model": "Bus_Model_ba77",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 21,
+    "PassengerCapacity": 33,
+    "Id": "78eaec8a-362a-4e91-b499-d533a1c3ed1a"
+  },
+  {
+    "Model": "Bus_Model_5ab4",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 28.55,
+    "PassengerCapacity": 27,
+    "Id": "04da464c-dfcf-4bcf-b85d-2d1ea4d80618"
+  },
+  {
+    "Model": "Bus_Model_66f6",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 18.3,
+    "PassengerCapacity": 50,
+    "Id": "4c6e6b16-48a1-42fe-9498-340c3919a8ca"
+  },
+  {
+    "Model": "Bus_Model_503f",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 27.32,
+    "PassengerCapacity": 57,
+    "Id": "0724a985-8635-4dea-8c50-6d1f34bb5b70"
+  },
+  {
+    "Model": "Bus_Model_6597",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 28.87,
+    "PassengerCapacity": 76,
+    "Id": "dc5c4a2c-7dc8-45d1-8718-3245abfd3ffb"
+  },
+  {
+    "Model": "Bus_Model_4d3e",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 16.76,
+    "PassengerCapacity": 28,
+    "Id": "3522a056-578c-486e-9d16-14bd91aa8843"
+  },
+  {
+    "Model": "Bus_Model_b99c",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.04,
+    "PassengerCapacity": 78,
+    "Id": "2e26eb99-a708-46aa-88a4-7f30dd20c9be"
+  },
+  {
+    "Model": "Bus_Model_7ec9",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 20.4,
+    "PassengerCapacity": 39,
+    "Id": "bf5ea1ec-819a-4e26-8e6f-74db267b3bc0"
+  },
+  {
+    "Model": "Bus_Model_1775",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 23.29,
+    "PassengerCapacity": 46,
+    "Id": "58c6a0f2-642d-4ef6-9dd9-4550ecabde6e"
+  },
+  {
+    "Model": "Bus_Model_19c6",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 20.8,
+    "PassengerCapacity": 83,
+    "Id": "540f19cf-ad77-43cc-83a4-e79f7381276e"
+  },
+  {
+    "Model": "Bus_Model_8a26",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 17.27,
+    "PassengerCapacity": 56,
+    "Id": "f26e3fc1-65fa-45a0-8b07-b29a5dc02519"
+  },
+  {
+    "Model": "Bus_Model_5e8d",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 29.18,
+    "PassengerCapacity": 35,
+    "Id": "dbff85ee-0c5e-482a-951f-ced29ceab52a"
+  },
+  {
+    "Model": "Bus_Model_589d",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 18.3,
+    "PassengerCapacity": 49,
+    "Id": "842b5c70-8018-4d77-bb01-da40f792b6f3"
+  },
+  {
+    "Model": "Bus_Model_9299",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 29.98,
+    "PassengerCapacity": 31,
+    "Id": "0ef2142f-7563-4866-bc40-5977b486529b"
+  },
+  {
+    "Model": "Bus_Model_bd02",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 29.58,
+    "PassengerCapacity": 57,
+    "Id": "bdc89203-6ba0-4373-9afb-560865fd87be"
+  },
+  {
+    "Model": "Bus_Model_0279",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 23.37,
+    "PassengerCapacity": 62,
+    "Id": "9c9ee369-1294-471a-9632-d8e8ac2f9e34"
+  },
+  {
+    "Model": "Bus_Model_6a30",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 25.68,
+    "PassengerCapacity": 87,
+    "Id": "390f3f3e-1d6e-4fa9-8c7a-d6c08a1f147a"
+  },
+  {
+    "Model": "Bus_Model_1e9f",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 20.17,
+    "PassengerCapacity": 80,
+    "Id": "a888a209-454c-4c14-a6cd-d6db7efdf791"
+  },
+  {
+    "Model": "Bus_Model_bd8f",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 15.67,
+    "PassengerCapacity": 22,
+    "Id": "6010a417-0326-4300-933c-f07d82455e49"
+  },
+  {
+    "Model": "Bus_Model_3238",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.43,
+    "PassengerCapacity": 30,
+    "Id": "06084e86-c5c5-4290-a7d6-170c3f745f5f"
+  },
+  {
+    "Model": "Bus_Model_f2b8",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 23.52,
+    "PassengerCapacity": 88,
+    "Id": "abe61a9f-b184-4b72-8e99-112ab28f2b2f"
+  },
+  {
+    "Model": "Bus_Model_b506",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 16.46,
+    "PassengerCapacity": 57,
+    "Id": "1a05573b-a163-4848-8cd1-1837fce847bf"
+  },
+  {
+    "Model": "Bus_Model_f898",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 27.46,
+    "PassengerCapacity": 38,
+    "Id": "67f1bdb2-923e-408f-957c-d06bd97b37f0"
+  },
+  {
+    "Model": "Bus_Model_4dc7",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 20.6,
+    "PassengerCapacity": 52,
+    "Id": "35edffaf-54c0-4fd2-9b35-60057a5b6cfe"
+  },
+  {
+    "Model": "Bus_Model_c863",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 20.6,
+    "PassengerCapacity": 35,
+    "Id": "be9264cb-5e88-4e5d-afc4-af0d251b49b1"
+  },
+  {
+    "Model": "Bus_Model_e772",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 18.54,
+    "PassengerCapacity": 64,
+    "Id": "220578ac-d23a-43b9-b632-18d0163b10c6"
+  },
+  {
+    "Model": "Bus_Model_d317",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 22.33,
+    "PassengerCapacity": 28,
+    "Id": "beb3ff13-df4f-4f8e-b2f6-1be874bf9505"
+  },
+  {
+    "Model": "Bus_Model_14e4",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 20.7,
+    "PassengerCapacity": 63,
+    "Id": "72e43eba-e736-47c2-863c-0244f3834aa1"
+  },
+  {
+    "Model": "Bus_Model_b595",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 28.33,
+    "PassengerCapacity": 32,
+    "Id": "17ce6b17-7f23-438a-bb37-18a5352e8915"
+  },
+  {
+    "Model": "Bus_Model_d50b",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 27.89,
+    "PassengerCapacity": 57,
+    "Id": "a83662d7-12e0-4c51-a09e-568f28d56543"
+  },
+  {
+    "Model": "Bus_Model_a67d",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 21.66,
+    "PassengerCapacity": 86,
+    "Id": "111b60e5-6248-4565-837e-b9acad07078f"
+  },
+  {
+    "Model": "Bus_Model_d43c",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 25.97,
+    "PassengerCapacity": 49,
+    "Id": "aeff185f-a3f8-4f48-9de4-716bbd9754b6"
+  },
+  {
+    "Model": "Bus_Model_6112",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 16.1,
+    "PassengerCapacity": 84,
+    "Id": "02b52d67-be8a-4e5e-ba3a-3a3bfd922f3f"
+  },
+  {
+    "Model": "Bus_Model_9534",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 28.1,
+    "PassengerCapacity": 89,
+    "Id": "dc172e9c-5335-47f2-a990-a492ba75b5b9"
+  },
+  {
+    "Model": "Bus_Model_aedc",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 24.26,
+    "PassengerCapacity": 79,
+    "Id": "9212c96d-c25a-4b23-9358-4fb478972e00"
+  },
+  {
+    "Model": "Bus_Model_d57e",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 27.42,
+    "PassengerCapacity": 68,
+    "Id": "089f8371-619b-4bd6-9da5-12e5703507be"
+  },
+  {
+    "Model": "Bus_Model_bb2a",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.18,
+    "PassengerCapacity": 53,
+    "Id": "e3906094-8631-421d-a4fc-76cc5becde9b"
+  },
+  {
+    "Model": "Bus_Model_8ded",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 28.24,
+    "PassengerCapacity": 90,
+    "Id": "91a2a1b5-5e40-4e6a-93ef-06aab2e1144c"
+  },
+  {
+    "Model": "Bus_Model_abc7",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 26.38,
+    "PassengerCapacity": 71,
+    "Id": "8114c26d-9ba4-4054-b9d9-3047f637dfef"
+  },
+  {
+    "Model": "Bus_Model_b2b3",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 19.25,
+    "PassengerCapacity": 34,
+    "Id": "787d3844-7668-4433-a5c7-2b0e08097b84"
+  },
+  {
+    "Model": "Bus_Model_2535",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 23.15,
+    "PassengerCapacity": 71,
+    "Id": "b2b1c53f-0b42-4c5c-9178-8d7b274cfc98"
+  },
+  {
+    "Model": "Bus_Model_7a6b",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 27.3,
+    "PassengerCapacity": 25,
+    "Id": "8e263333-1517-48c1-9c6e-ba56bf52941c"
+  },
+  {
+    "Model": "Bus_Model_3d68",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 19.48,
+    "PassengerCapacity": 60,
+    "Id": "9f7e0eb1-4470-48d8-9b39-dfddd62129a4"
+  },
+  {
+    "Model": "Bus_Model_d223",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 18.91,
+    "PassengerCapacity": 33,
+    "Id": "e02fe0c4-8524-4543-820b-517d8dde07de"
+  },
+  {
+    "Model": "Bus_Model_6163",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 29.19,
+    "PassengerCapacity": 86,
+    "Id": "699e164c-4843-4c23-a8a1-c1a161bc14df"
+  },
+  {
+    "Model": "Bus_Model_1a75",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 27.57,
+    "PassengerCapacity": 39,
+    "Id": "30e2c369-2a96-40c3-a426-8d5258a0339d"
+  },
+  {
+    "Model": "Bus_Model_edf0",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.39,
+    "PassengerCapacity": 38,
+    "Id": "81c06813-af24-4086-ab5b-3f9eab088ea1"
+  },
+  {
+    "Model": "Bus_Model_5ace",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 24.42,
+    "PassengerCapacity": 81,
+    "Id": "ecb196e4-f0cf-4365-9321-5b4a86acea28"
+  },
+  {
+    "Model": "Bus_Model_662d",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 21.54,
+    "PassengerCapacity": 33,
+    "Id": "ff8308c3-443f-43fd-847e-163cfcfd0a54"
+  },
+  {
+    "Model": "Bus_Model_00b4",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 28.63,
+    "PassengerCapacity": 61,
+    "Id": "afea9727-42c9-448b-a7b7-09977b5296b9"
+  },
+  {
+    "Model": "Bus_Model_50b6",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 23.41,
+    "PassengerCapacity": 96,
+    "Id": "d4ad81e3-d4dc-47b8-84a2-fabe20983bdf"
+  },
+  {
+    "Model": "Bus_Model_29a0",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 26.53,
+    "PassengerCapacity": 31,
+    "Id": "07568733-7794-4394-b847-c37825f60f5f"
+  },
+  {
+    "Model": "Bus_Model_ff13",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 22.02,
+    "PassengerCapacity": 67,
+    "Id": "8974bf2c-f6cc-4203-9660-1608a69070e0"
+  },
+  {
+    "Model": "Bus_Model_0be1",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 21.55,
+    "PassengerCapacity": 58,
+    "Id": "9f24df13-b075-43cd-9f0b-d7551a18dbd9"
+  },
+  {
+    "Model": "Bus_Model_16fe",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 23.2,
+    "PassengerCapacity": 91,
+    "Id": "759bee61-7aa8-409c-9bf5-fe1772debd17"
+  },
+  {
+    "Model": "Bus_Model_b454",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 21.95,
+    "PassengerCapacity": 44,
+    "Id": "073e9178-1a9a-4020-ad73-d52136875453"
+  },
+  {
+    "Model": "Bus_Model_d89d",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 28.67,
+    "PassengerCapacity": 98,
+    "Id": "ed3a1b9d-4827-4438-b291-edd4a0fde54b"
+  },
+  {
+    "Model": "Bus_Model_6924",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 21.08,
+    "PassengerCapacity": 62,
+    "Id": "ef07cebb-6e86-4dc6-a2d8-5a7e877034c2"
+  },
+  {
+    "Model": "Bus_Model_75bd",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 22.88,
+    "PassengerCapacity": 39,
+    "Id": "8fa7ad6f-121d-429c-96c8-512d88ce476d"
+  },
+  {
+    "Model": "Bus_Model_532e",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 23.26,
+    "PassengerCapacity": 77,
+    "Id": "71478dd6-3513-4513-a432-488dfc709a94"
+  },
+  {
+    "Model": "Bus_Model_ddfa",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 16.19,
+    "PassengerCapacity": 69,
+    "Id": "7ed505e8-1bb8-4573-a0d7-60a378328980"
+  },
+  {
+    "Model": "Bus_Model_3c6f",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 25.46,
+    "PassengerCapacity": 70,
+    "Id": "b53c783b-5761-4e97-98c4-4430b0b1a237"
+  },
+  {
+    "Model": "Bus_Model_5241",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 22.21,
+    "PassengerCapacity": 47,
+    "Id": "26330772-825d-4044-bdcb-4ac7b3100f57"
+  },
+  {
+    "Model": "Bus_Model_4a4d",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 27.11,
+    "PassengerCapacity": 42,
+    "Id": "42dec873-aa3a-44fe-bed9-3cb5be4591af"
+  },
+  {
+    "Model": "Bus_Model_5158",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 24.45,
+    "PassengerCapacity": 63,
+    "Id": "62e1ca9d-7346-4cc5-810f-738b2367de26"
+  },
+  {
+    "Model": "Bus_Model_bca2",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 24.61,
+    "PassengerCapacity": 68,
+    "Id": "ae5d53ec-310c-4858-b070-16aa326b476e"
+  },
+  {
+    "Model": "Bus_Model_2a25",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 22.4,
+    "PassengerCapacity": 92,
+    "Id": "7c4a6794-f0dc-4ea7-bc85-ce1fbe70808d"
+  },
+  {
+    "Model": "Bus_Model_c7ff",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 15.79,
+    "PassengerCapacity": 96,
+    "Id": "6b11e4e9-0453-463f-ab31-89c7ac3b2e9e"
+  },
+  {
+    "Model": "Bus_Model_fe85",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 18.35,
+    "PassengerCapacity": 70,
+    "Id": "0c3c4131-8414-4d5a-8383-28ce8abf76ac"
+  },
+  {
+    "Model": "Bus_Model_c2dd",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 19.94,
+    "PassengerCapacity": 93,
+    "Id": "f5ad9624-244a-4986-9788-af875b9b776b"
+  },
+  {
+    "Model": "Bus_Model_88e2",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 24.76,
+    "PassengerCapacity": 73,
+    "Id": "94b4f28e-7284-4643-aa93-afc68eb14b92"
+  },
+  {
+    "Model": "Bus_Model_c28b",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 18.34,
+    "PassengerCapacity": 26,
+    "Id": "eb13941c-6969-457d-b8c9-805938fea225"
+  },
+  {
+    "Model": "Bus_Model_004f",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 28.66,
+    "PassengerCapacity": 92,
+    "Id": "380f10ab-6f66-4fd3-a061-b8ac1ade583f"
+  },
+  {
+    "Model": "Bus_Model_fc6e",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 27.04,
+    "PassengerCapacity": 75,
+    "Id": "c3738ba3-f287-4658-a75b-b3183ba17b9a"
+  },
+  {
+    "Model": "Bus_Model_5748",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 29.77,
+    "PassengerCapacity": 84,
+    "Id": "cfccea65-02a4-4eee-a694-905adda738f5"
+  },
+  {
+    "Model": "Bus_Model_a723",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 22.1,
+    "PassengerCapacity": 30,
+    "Id": "198f7158-54ba-4650-896d-07db08b85ffe"
+  },
+  {
+    "Model": "Bus_Model_8fb8",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 22.51,
+    "PassengerCapacity": 32,
+    "Id": "d7fccbdc-9502-46ea-8c49-976f442d7d02"
+  },
+  {
+    "Model": "Bus_Model_f24e",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 20.22,
+    "PassengerCapacity": 65,
+    "Id": "11ddb8af-0394-4930-b4e7-4ed69600b2ec"
+  },
+  {
+    "Model": "Bus_Model_7087",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 23.54,
+    "PassengerCapacity": 77,
+    "Id": "0b53e725-6335-4bb9-bcec-f4d8431b27f8"
+  },
+  {
+    "Model": "Bus_Model_52f2",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 27.23,
+    "PassengerCapacity": 32,
+    "Id": "bfbd03f8-a0f7-49d3-8925-94faeb0a44e0"
+  },
+  {
+    "Model": "Bus_Model_5283",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 25.78,
+    "PassengerCapacity": 29,
+    "Id": "d459a3e4-c4aa-4782-b879-ee619fcd0a4b"
+  },
+  {
+    "Model": "Bus_Model_3b0f",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 24.07,
+    "PassengerCapacity": 59,
+    "Id": "28ff60b1-04b5-4bba-8ae3-849c8509a380"
+  },
+  {
+    "Model": "Bus_Model_5ccf",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 15.18,
+    "PassengerCapacity": 36,
+    "Id": "ac2ed1c5-534a-4ffc-9d53-9c823b573771"
+  },
+  {
+    "Model": "Bus_Model_eaf9",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 20.19,
+    "PassengerCapacity": 39,
+    "Id": "662e696a-a5c5-465d-b346-1d7a6217988c"
+  },
+  {
+    "Model": "Bus_Model_24e5",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 24.48,
+    "PassengerCapacity": 97,
+    "Id": "57a3249e-6e63-4e04-a7f7-933670c9c7e9"
+  },
+  {
+    "Model": "Bus_Model_9053",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 17.31,
+    "PassengerCapacity": 33,
+    "Id": "26fc754d-97f2-444b-82e6-f004b060fdd2"
+  },
+  {
+    "Model": "Bus_Model_cf24",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 20.05,
+    "PassengerCapacity": 66,
+    "Id": "6675c332-ab41-46b1-948c-5a1b4e7ac314"
+  },
+  {
+    "Model": "Bus_Model_18fd",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 25.94,
+    "PassengerCapacity": 53,
+    "Id": "dc6f4f5a-ee1b-4002-af77-f62319ac406c"
+  },
+  {
+    "Model": "Bus_Model_8216",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 22.56,
+    "PassengerCapacity": 38,
+    "Id": "c322d637-1113-4b35-90ff-7fde2ecdea43"
+  },
+  {
+    "Model": "Bus_Model_6c46",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 16.61,
+    "PassengerCapacity": 85,
+    "Id": "c0b723a9-de28-45bf-97fc-02909c4940e2"
+  },
+  {
+    "Model": "Bus_Model_d2de",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 29.56,
+    "PassengerCapacity": 30,
+    "Id": "a1e37e73-2a07-4137-b648-b87c6b0664f4"
+  },
+  {
+    "Model": "Bus_Model_3bfb",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 27.91,
+    "PassengerCapacity": 32,
+    "Id": "fb4f332b-a871-49f6-84c7-261d622361b1"
+  },
+  {
+    "Model": "Bus_Model_e45b",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 27.51,
+    "PassengerCapacity": 35,
+    "Id": "2b84ecf2-43ba-4bfb-b957-cc63a0ba5f97"
+  },
+  {
+    "Model": "Bus_Model_b232",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 29.07,
+    "PassengerCapacity": 70,
+    "Id": "35141d49-b173-453e-b28b-6d5f23f4d095"
+  },
+  {
+    "Model": "Bus_Model_8d9d",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 20.71,
+    "PassengerCapacity": 79,
+    "Id": "c493c918-66ed-44d7-9af7-5ef1e6771c42"
+  },
+  {
+    "Model": "Bus_Model_244f",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 18.37,
+    "PassengerCapacity": 28,
+    "Id": "59617089-2bb9-41f8-be33-59e2581a04ab"
+  },
+  {
+    "Model": "Bus_Model_d501",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 27.98,
+    "PassengerCapacity": 22,
+    "Id": "aaad0543-82bc-4e50-8b12-df12ed3132ec"
+  },
+  {
+    "Model": "Bus_Model_db7d",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 15.5,
+    "PassengerCapacity": 77,
+    "Id": "bfc4b104-8103-4f5f-aa18-1c6a518ec38e"
+  },
+  {
+    "Model": "Bus_Model_676d",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 23.51,
+    "PassengerCapacity": 44,
+    "Id": "f93e7c06-d524-4c93-b8eb-5b1c4397e4f8"
+  },
+  {
+    "Model": "Bus_Model_bb51",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 24.88,
+    "PassengerCapacity": 28,
+    "Id": "c9148156-1a4e-4a19-bd0c-96072d2820cb"
+  },
+  {
+    "Model": "Bus_Model_90f3",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 24.65,
+    "PassengerCapacity": 77,
+    "Id": "e3914cfb-2704-4807-9432-6a6d184a0785"
+  },
+  {
+    "Model": "Bus_Model_b26e",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 15.47,
+    "PassengerCapacity": 44,
+    "Id": "5bfd7847-1d43-41e3-911e-0d36ad66eaa4"
+  },
+  {
+    "Model": "Bus_Model_9a89",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 28.11,
+    "PassengerCapacity": 27,
+    "Id": "b5522670-b38e-41bd-9f49-db229aca9ee7"
+  },
+  {
+    "Model": "Bus_Model_4e7d",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 28.96,
+    "PassengerCapacity": 45,
+    "Id": "cb8fb893-80cd-4d9d-818d-f1450c4c6772"
+  },
+  {
+    "Model": "Bus_Model_680d",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 22.63,
+    "PassengerCapacity": 89,
+    "Id": "d657d453-8a82-457a-b0ba-9b27bb3f97ba"
+  },
+  {
+    "Model": "Bus_Model_e565",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 27.72,
+    "PassengerCapacity": 72,
+    "Id": "98ebe7e7-1e54-481d-8b65-890a2d0cee39"
+  },
+  {
+    "Model": "Bus_Model_4859",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 25.09,
+    "PassengerCapacity": 27,
+    "Id": "8c482352-3a97-47be-b105-9f72e9925398"
+  },
+  {
+    "Model": "Bus_Model_7d3e",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 16.22,
+    "PassengerCapacity": 92,
+    "Id": "f17fbc6f-d32b-4b61-8ca7-ad1c629e0c41"
+  },
+  {
+    "Model": "Bus_Model_136b",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 23.96,
+    "PassengerCapacity": 42,
+    "Id": "ee0672c6-fe6b-4478-b805-092d0af8c70b"
+  },
+  {
+    "Model": "Bus_Model_fec6",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 22.79,
+    "PassengerCapacity": 80,
+    "Id": "cfc40e57-bc58-40e7-9dbd-ad24c0027515"
+  },
+  {
+    "Model": "Bus_Model_f6eb",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 20.21,
+    "PassengerCapacity": 41,
+    "Id": "b147e318-301c-49e2-a70b-c81da3708dc3"
+  },
+  {
+    "Model": "Bus_Model_e558",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 23.47,
+    "PassengerCapacity": 90,
+    "Id": "8b764963-a627-45e5-a943-15db87786578"
+  },
+  {
+    "Model": "Bus_Model_0c94",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 23.35,
+    "PassengerCapacity": 20,
+    "Id": "41b10a02-80ef-49f8-8a15-22d5f665a74e"
+  },
+  {
+    "Model": "Bus_Model_e4ef",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 28,
+    "PassengerCapacity": 35,
+    "Id": "745a4f9f-f2aa-4761-8b98-071b7409f71f"
+  },
+  {
+    "Model": "Bus_Model_819e",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.71,
+    "PassengerCapacity": 40,
+    "Id": "4b5c860b-b8cb-4722-a00f-ed8961159384"
+  },
+  {
+    "Model": "Bus_Model_d607",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 19.15,
+    "PassengerCapacity": 22,
+    "Id": "88a506e2-4ab0-492f-a41c-b9cd53d3efce"
+  },
+  {
+    "Model": "Bus_Model_7312",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 16.28,
+    "PassengerCapacity": 59,
+    "Id": "2b8c48c1-47b9-454e-9607-291f3cb206c7"
+  },
+  {
+    "Model": "Bus_Model_8763",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 17.87,
+    "PassengerCapacity": 86,
+    "Id": "425a0dec-843d-475c-9faa-0d018ef39938"
+  },
+  {
+    "Model": "Bus_Model_9667",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 26.1,
+    "PassengerCapacity": 27,
+    "Id": "94df2b45-1d19-46b8-82d9-7bd7ad152a41"
+  },
+  {
+    "Model": "Bus_Model_9a58",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 29.69,
+    "PassengerCapacity": 44,
+    "Id": "a9ed1f05-f581-48ad-989d-53717b95f09e"
+  },
+  {
+    "Model": "Bus_Model_ec78",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 23.55,
+    "PassengerCapacity": 37,
+    "Id": "fdb2d0b0-39b7-4ccb-8dfe-a6fe7e366e70"
+  },
+  {
+    "Model": "Bus_Model_3e9b",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 18.71,
+    "PassengerCapacity": 82,
+    "Id": "8e925a8f-6ffe-4c7e-8a36-4cbd32744a67"
+  },
+  {
+    "Model": "Bus_Model_6820",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 20.4,
+    "PassengerCapacity": 22,
+    "Id": "2f9f619d-03ad-43ac-988b-4550030ae8bc"
+  },
+  {
+    "Model": "Bus_Model_2240",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 27.86,
+    "PassengerCapacity": 72,
+    "Id": "f631f98a-1293-4dec-af19-0bb3d4d771d4"
+  },
+  {
+    "Model": "Bus_Model_f37a",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 17.45,
+    "PassengerCapacity": 71,
+    "Id": "8e483551-2fc2-4944-8f44-1aac5791afb3"
+  },
+  {
+    "Model": "Bus_Model_18d6",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 27.98,
+    "PassengerCapacity": 92,
+    "Id": "9a28ccca-581a-477e-82cd-b34a70e55518"
+  },
+  {
+    "Model": "Bus_Model_ba75",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 27.51,
+    "PassengerCapacity": 28,
+    "Id": "5585f5b4-cf4e-41a7-b55c-d3771c3c2aa5"
+  },
+  {
+    "Model": "Bus_Model_5f2a",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 26.51,
+    "PassengerCapacity": 57,
+    "Id": "6678a480-f881-4bb1-b34a-eb42d52ea721"
+  },
+  {
+    "Model": "Bus_Model_d31d",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 27.51,
+    "PassengerCapacity": 31,
+    "Id": "8a50437e-6578-4e56-9d73-6a2d78e678ab"
+  },
+  {
+    "Model": "Bus_Model_a79b",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 26.86,
+    "PassengerCapacity": 63,
+    "Id": "0db9d394-cbbf-4945-b725-fc24d4964c2c"
+  },
+  {
+    "Model": "Bus_Model_5a6c",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 19.04,
+    "PassengerCapacity": 89,
+    "Id": "ad2ec73c-c718-49d6-84e9-d132717c1559"
+  },
+  {
+    "Model": "Bus_Model_a81a",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 20.74,
+    "PassengerCapacity": 37,
+    "Id": "5225a7f3-5675-4c51-b9aa-bfcbb160a070"
+  },
+  {
+    "Model": "Bus_Model_eec8",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 18.16,
+    "PassengerCapacity": 57,
+    "Id": "d9cd0496-0d2a-43c8-a579-9e9d05d99e2a"
+  },
+  {
+    "Model": "Bus_Model_5120",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 28.37,
+    "PassengerCapacity": 68,
+    "Id": "6fdd451b-e7c8-4e4f-b6c2-004ba5b6c074"
+  },
+  {
+    "Model": "Bus_Model_b526",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 18.16,
+    "PassengerCapacity": 56,
+    "Id": "169d4fab-6662-4173-becc-7bfb58a687a3"
+  },
+  {
+    "Model": "Bus_Model_63fb",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 21.95,
+    "PassengerCapacity": 29,
+    "Id": "3d489cad-191b-421b-b262-fd7ecb217d1f"
+  },
+  {
+    "Model": "Bus_Model_6d02",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 17.88,
+    "PassengerCapacity": 75,
+    "Id": "1e13465c-56e2-466b-be02-92f5d05493ec"
+  },
+  {
+    "Model": "Bus_Model_7727",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 19.2,
+    "PassengerCapacity": 77,
+    "Id": "2a6ebe98-0ee0-4ae8-86d7-c342e957fd19"
+  },
+  {
+    "Model": "Bus_Model_de72",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 15.99,
+    "PassengerCapacity": 98,
+    "Id": "4d33a1a6-33be-41de-883b-cbd17859d2c9"
+  },
+  {
+    "Model": "Bus_Model_bd33",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 18.69,
+    "PassengerCapacity": 21,
+    "Id": "941ce4e3-6d85-43e6-ba90-f3f3de4af916"
+  },
+  {
+    "Model": "Bus_Model_9cca",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 17.64,
+    "PassengerCapacity": 96,
+    "Id": "823ae0f9-07f0-42eb-b951-96592b1e4aae"
+  },
+  {
+    "Model": "Bus_Model_3c43",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 25.13,
+    "PassengerCapacity": 36,
+    "Id": "a8361a59-2ba3-4feb-b780-77db71cfa1e2"
+  },
+  {
+    "Model": "Bus_Model_5a66",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 19.35,
+    "PassengerCapacity": 52,
+    "Id": "a9d23c84-c84a-4a78-b4e4-817664ff329b"
+  },
+  {
+    "Model": "Bus_Model_6a85",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 19.14,
+    "PassengerCapacity": 26,
+    "Id": "00b10c98-8b67-46f2-b04f-a4b0a959eca8"
+  },
+  {
+    "Model": "Bus_Model_abe8",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.37,
+    "PassengerCapacity": 26,
+    "Id": "ee8c6f37-c073-43ad-ace3-bbbd7d415842"
+  },
+  {
+    "Model": "Bus_Model_8c2a",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 27.16,
+    "PassengerCapacity": 68,
+    "Id": "6a21809c-2584-435a-844e-26dfc0725955"
+  },
+  {
+    "Model": "Bus_Model_cc50",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 24.94,
+    "PassengerCapacity": 95,
+    "Id": "24c54f62-0250-45e8-93fb-346a6d371515"
+  },
+  {
+    "Model": "Bus_Model_08ab",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 23.03,
+    "PassengerCapacity": 85,
+    "Id": "23dc574d-3171-4ccf-a727-9a01c6bdaad8"
+  },
+  {
+    "Model": "Bus_Model_a6b7",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 19.18,
+    "PassengerCapacity": 69,
+    "Id": "c1a53275-4ac3-44b5-b7ea-31b09792ae4e"
+  },
+  {
+    "Model": "Bus_Model_b0b4",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 21.62,
+    "PassengerCapacity": 85,
+    "Id": "7e6ae189-fce7-42c6-8a9e-bbeb545e2767"
+  },
+  {
+    "Model": "Bus_Model_b12c",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 16.68,
+    "PassengerCapacity": 95,
+    "Id": "b60c18e2-190f-4426-a87c-d60279690ab2"
+  },
+  {
+    "Model": "Bus_Model_69a6",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 28.84,
+    "PassengerCapacity": 69,
+    "Id": "b007793a-35a1-4bea-ab15-7f0978c33171"
+  },
+  {
+    "Model": "Bus_Model_ce85",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 18.62,
+    "PassengerCapacity": 54,
+    "Id": "d88043f4-e377-4510-8266-56e62f85f547"
+  },
+  {
+    "Model": "Bus_Model_5685",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 26.35,
+    "PassengerCapacity": 95,
+    "Id": "35fe0624-c9f1-44ef-aca0-e9902209ddb0"
+  },
+  {
+    "Model": "Bus_Model_7c09",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.69,
+    "PassengerCapacity": 67,
+    "Id": "a83c9150-67ae-4036-a23f-59bebaaa94ba"
+  },
+  {
+    "Model": "Bus_Model_efa5",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 18.75,
+    "PassengerCapacity": 22,
+    "Id": "55916f85-f8e3-4ae2-b678-c399748a9d10"
+  },
+  {
+    "Model": "Bus_Model_6813",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 19.25,
+    "PassengerCapacity": 88,
+    "Id": "3a224342-6619-41c7-ac8e-2d9bdf413331"
+  },
+  {
+    "Model": "Bus_Model_5e85",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 25.64,
+    "PassengerCapacity": 66,
+    "Id": "4334ec1c-aad3-4f6f-8d55-e02c8dc6aef0"
+  },
+  {
+    "Model": "Bus_Model_0c59",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 29.09,
+    "PassengerCapacity": 22,
+    "Id": "98ae1603-2cc2-497d-ad59-e56730b7c6c3"
+  },
+  {
+    "Model": "Bus_Model_2f5d",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 19.45,
+    "PassengerCapacity": 92,
+    "Id": "c26c8b57-1c5e-4365-8477-59f1f51e82ca"
+  },
+  {
+    "Model": "Bus_Model_eaf2",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 21.24,
+    "PassengerCapacity": 53,
+    "Id": "b7ec0fbd-3ffa-41cc-a908-8d6c7781edf6"
+  },
+  {
+    "Model": "Bus_Model_8fd6",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 24.52,
+    "PassengerCapacity": 60,
+    "Id": "989184fe-11ee-4a58-80b0-914503470217"
+  },
+  {
+    "Model": "Bus_Model_b698",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 24.02,
+    "PassengerCapacity": 31,
+    "Id": "c8a4ea6b-bad2-4f71-9550-3ed06ef7c6f1"
+  },
+  {
+    "Model": "Bus_Model_2184",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 17.09,
+    "PassengerCapacity": 34,
+    "Id": "da500e5c-e44a-4883-9b55-8647df9ab027"
+  },
+  {
+    "Model": "Bus_Model_a070",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 15.24,
+    "PassengerCapacity": 78,
+    "Id": "9577610a-c046-4c1c-b6ed-59593dcec953"
+  },
+  {
+    "Model": "Bus_Model_58df",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 26.16,
+    "PassengerCapacity": 80,
+    "Id": "a9e2ef6c-5751-4fb9-a8bd-0aadb0a4e7d6"
+  },
+  {
+    "Model": "Bus_Model_1e89",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 28.35,
+    "PassengerCapacity": 79,
+    "Id": "cbb892dc-1e6f-4bf3-8fad-3a78ae40aebb"
+  },
+  {
+    "Model": "Bus_Model_1b1d",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 16.27,
+    "PassengerCapacity": 67,
+    "Id": "c7861f62-a41d-4b6b-b5a7-c77392e6de38"
+  },
+  {
+    "Model": "Bus_Model_ae4b",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 23.73,
+    "PassengerCapacity": 40,
+    "Id": "a0d9cc46-4085-4140-ac7c-0dcfb4a7857d"
+  },
+  {
+    "Model": "Bus_Model_c4d4",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 17.35,
+    "PassengerCapacity": 44,
+    "Id": "83064b4c-7736-46d1-934f-e59f02ebc5ad"
+  },
+  {
+    "Model": "Bus_Model_7090",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 29.95,
+    "PassengerCapacity": 92,
+    "Id": "f2da8536-a6b1-4ee3-9a4b-19dee80eaf01"
+  },
+  {
+    "Model": "Bus_Model_01a5",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 16.51,
+    "PassengerCapacity": 66,
+    "Id": "c3814481-c8c8-43d9-be0e-53eb4cf2c289"
+  },
+  {
+    "Model": "Bus_Model_7f8d",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 28.84,
+    "PassengerCapacity": 92,
+    "Id": "a5076410-5146-42a6-8dc7-7122d496b441"
+  },
+  {
+    "Model": "Bus_Model_d0cc",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 18.63,
+    "PassengerCapacity": 24,
+    "Id": "0f82ab66-c769-4b78-96b3-5415fa62f5fc"
+  },
+  {
+    "Model": "Bus_Model_5c99",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 26.57,
+    "PassengerCapacity": 74,
+    "Id": "e81b70b2-bd14-452a-92af-ffd3d39d4773"
+  },
+  {
+    "Model": "Bus_Model_05d7",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 27.75,
+    "PassengerCapacity": 61,
+    "Id": "3c75d215-d141-4b8a-b654-bff08361bb5e"
+  },
+  {
+    "Model": "Bus_Model_195e",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 24.6,
+    "PassengerCapacity": 23,
+    "Id": "f8a56c9b-cfe3-4d9f-ac02-ed91ccc3b225"
+  },
+  {
+    "Model": "Bus_Model_1900",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 16.33,
+    "PassengerCapacity": 72,
+    "Id": "3e2d3d8b-c9e2-4800-930f-e9685efb66e9"
+  },
+  {
+    "Model": "Bus_Model_bd00",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 20.74,
+    "PassengerCapacity": 91,
+    "Id": "b7ad9b7c-e0fd-475e-a7ea-312c4babe199"
+  },
+  {
+    "Model": "Bus_Model_b013",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 20.35,
+    "PassengerCapacity": 55,
+    "Id": "12b44718-731e-41f3-99d5-294b0eb6cee0"
+  },
+  {
+    "Model": "Bus_Model_e3c3",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 19.43,
+    "PassengerCapacity": 79,
+    "Id": "7303f3be-b671-4768-b1b3-5ee12614ccf5"
+  },
+  {
+    "Model": "Bus_Model_7a66",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 18.22,
+    "PassengerCapacity": 61,
+    "Id": "f40ca6d7-dc66-4c7d-9256-882159b61c29"
+  },
+  {
+    "Model": "Bus_Model_cff6",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 28.17,
+    "PassengerCapacity": 98,
+    "Id": "3842a1a4-cbbf-4dab-a1eb-574a58699276"
+  },
+  {
+    "Model": "Bus_Model_a3af",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.48,
+    "PassengerCapacity": 45,
+    "Id": "76289c43-0e2a-410a-bb26-c15270f09b9e"
+  },
+  {
+    "Model": "Bus_Model_2f6b",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 18.59,
+    "PassengerCapacity": 96,
+    "Id": "c6bbdb22-d671-4ba3-b3f5-846eefd8bf0f"
+  },
+  {
+    "Model": "Bus_Model_071b",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 21.17,
+    "PassengerCapacity": 21,
+    "Id": "1bbee28c-384d-421d-af70-5584b98f1562"
+  },
+  {
+    "Model": "Bus_Model_e492",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 19.61,
+    "PassengerCapacity": 31,
+    "Id": "b4411bbe-8393-435b-a91e-cfb88809fb50"
+  },
+  {
+    "Model": "Bus_Model_75fd",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 18.53,
+    "PassengerCapacity": 70,
+    "Id": "70af6309-9b26-432d-9870-1c46b83777a5"
+  },
+  {
+    "Model": "Bus_Model_efd9",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 24.47,
+    "PassengerCapacity": 76,
+    "Id": "b240845d-603f-47a3-88c7-3178e3d6b14c"
+  },
+  {
+    "Model": "Bus_Model_15e4",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 16.5,
+    "PassengerCapacity": 39,
+    "Id": "30dd894c-4e62-4dd6-96c9-694a3a9adc5c"
+  },
+  {
+    "Model": "Bus_Model_c51f",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 19.39,
+    "PassengerCapacity": 93,
+    "Id": "92ed98f9-25a3-4bca-b1f6-fe2a234a48d7"
+  },
+  {
+    "Model": "Bus_Model_35ed",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 21.23,
+    "PassengerCapacity": 98,
+    "Id": "9022fb62-2e5c-4eed-a0e6-7a73fe7bacf0"
+  },
+  {
+    "Model": "Bus_Model_20c6",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 20.52,
+    "PassengerCapacity": 54,
+    "Id": "96c0b921-7b0f-43c2-953a-c5e6451763f3"
+  },
+  {
+    "Model": "Bus_Model_c421",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 24.58,
+    "PassengerCapacity": 97,
+    "Id": "c21ee0ef-d365-43c2-af18-02e109b3df5e"
+  },
+  {
+    "Model": "Bus_Model_3974",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 28.45,
+    "PassengerCapacity": 37,
+    "Id": "e8cea983-b5ae-4f03-9bf6-c4aa0f7e9c83"
+  },
+  {
+    "Model": "Bus_Model_3718",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 16.78,
+    "PassengerCapacity": 31,
+    "Id": "1060c403-886f-415d-9670-096755c05b83"
+  },
+  {
+    "Model": "Bus_Model_3213",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 29.4,
+    "PassengerCapacity": 50,
+    "Id": "45ddb730-8c2d-4a85-b643-b1fc8c251e7c"
+  },
+  {
+    "Model": "Bus_Model_422f",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 18.14,
+    "PassengerCapacity": 91,
+    "Id": "7ff9ede0-f138-4392-975a-453b0c071a93"
+  },
+  {
+    "Model": "Bus_Model_d997",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 18.34,
+    "PassengerCapacity": 37,
+    "Id": "02c9b54f-3fe2-442e-898e-8bfd5f4b24b8"
+  },
+  {
+    "Model": "Bus_Model_0783",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 28.63,
+    "PassengerCapacity": 48,
+    "Id": "0964cdb2-3ce7-4936-8292-79fdba0039a9"
+  },
+  {
+    "Model": "Bus_Model_6c1e",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 22.56,
+    "PassengerCapacity": 27,
+    "Id": "54ea1a7f-f59e-4732-b48c-b7add2f786c6"
+  },
+  {
+    "Model": "Bus_Model_da24",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 16.55,
+    "PassengerCapacity": 80,
+    "Id": "dc053b99-c7e4-4491-b928-110b742df311"
+  },
+  {
+    "Model": "Bus_Model_1c19",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 26.32,
+    "PassengerCapacity": 81,
+    "Id": "690f021d-2067-44b3-a72d-e87e691fa9db"
+  },
+  {
+    "Model": "Bus_Model_455c",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 17.98,
+    "PassengerCapacity": 55,
+    "Id": "09091a8f-e98f-400e-b415-92699069252e"
+  },
+  {
+    "Model": "Bus_Model_64de",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 23.27,
+    "PassengerCapacity": 54,
+    "Id": "de24c4d6-82a6-48bc-ba80-716dc1550bcf"
+  },
+  {
+    "Model": "Bus_Model_71c1",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 18.27,
+    "PassengerCapacity": 81,
+    "Id": "74c5e7df-43c5-4a76-b736-06c4c20e0d03"
+  },
+  {
+    "Model": "Bus_Model_5548",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 24.6,
+    "PassengerCapacity": 95,
+    "Id": "a1250352-1746-42ed-8fb6-50384d6f738e"
+  },
+  {
+    "Model": "Bus_Model_53c7",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 23.62,
+    "PassengerCapacity": 88,
+    "Id": "46d4461b-5600-4d70-a1ec-01b5137ee889"
+  },
+  {
+    "Model": "Bus_Model_ce69",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 27.25,
+    "PassengerCapacity": 33,
+    "Id": "a6e355e9-3071-4b58-8442-a2b6c1945fad"
+  },
+  {
+    "Model": "Bus_Model_a515",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 18.88,
+    "PassengerCapacity": 82,
+    "Id": "f03d1117-3111-4158-9a22-a8c0d4d6e661"
+  },
+  {
+    "Model": "Bus_Model_ae83",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 16.89,
+    "PassengerCapacity": 25,
+    "Id": "14f17d60-3b8c-4d2f-9f2e-529c52f67a90"
+  },
+  {
+    "Model": "Bus_Model_74e0",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 25,
+    "PassengerCapacity": 44,
+    "Id": "4add39ec-2da4-4d15-a25e-0f592392bb36"
+  },
+  {
+    "Model": "Bus_Model_e0a1",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.4,
+    "PassengerCapacity": 32,
+    "Id": "2a745572-93c6-4ae4-b386-6f624c4d288c"
+  },
+  {
+    "Model": "Bus_Model_e71b",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 22.96,
+    "PassengerCapacity": 98,
+    "Id": "33fe4555-3054-4aca-858a-f4f0e004a919"
+  },
+  {
+    "Model": "Bus_Model_884b",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 27.93,
+    "PassengerCapacity": 61,
+    "Id": "3adccabe-f9b3-4283-a4b7-a37fe2a839db"
+  },
+  {
+    "Model": "Bus_Model_2d01",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 26.35,
+    "PassengerCapacity": 84,
+    "Id": "14962c54-3545-4415-b934-ccfaf7ad582a"
+  },
+  {
+    "Model": "Bus_Model_30b7",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 29.01,
+    "PassengerCapacity": 66,
+    "Id": "bffd072d-6b6f-4d26-b85b-d0789ec13626"
+  },
+  {
+    "Model": "Bus_Model_40ce",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 15.28,
+    "PassengerCapacity": 58,
+    "Id": "fa88b2c9-54c4-43d4-9905-75465a21b4f1"
+  },
+  {
+    "Model": "Bus_Model_209d",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 29.71,
+    "PassengerCapacity": 62,
+    "Id": "ace8e582-156e-4bd9-8d5e-f25d3bf79a88"
+  },
+  {
+    "Model": "Bus_Model_e0ea",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 16.41,
+    "PassengerCapacity": 71,
+    "Id": "4023f25b-1463-4a1e-b942-7f4930d18ed6"
+  },
+  {
+    "Model": "Bus_Model_e01e",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.51,
+    "PassengerCapacity": 79,
+    "Id": "945d68b3-f961-403a-b74e-92d8ef0a9a6b"
+  },
+  {
+    "Model": "Bus_Model_61b6",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 29.18,
+    "PassengerCapacity": 61,
+    "Id": "a6ef032d-259f-4625-9426-e3ed24f568af"
+  },
+  {
+    "Model": "Bus_Model_78a8",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 17.47,
+    "PassengerCapacity": 78,
+    "Id": "cb2138a5-60f6-488d-b789-c86d461b3537"
+  },
+  {
+    "Model": "Bus_Model_82f1",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 28.82,
+    "PassengerCapacity": 54,
+    "Id": "242606d5-91c9-4d9e-b977-a1660029a56a"
+  },
+  {
+    "Model": "Bus_Model_24dd",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 25.52,
+    "PassengerCapacity": 25,
+    "Id": "f0cbd282-2d90-4622-89d5-45ab3ed31717"
+  },
+  {
+    "Model": "Bus_Model_8676",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 25.42,
+    "PassengerCapacity": 44,
+    "Id": "21a419df-3e47-4793-8029-6bb51a2b2598"
+  },
+  {
+    "Model": "Bus_Model_1e42",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 21.18,
+    "PassengerCapacity": 59,
+    "Id": "dd2ccf08-54a7-433e-af16-da3e2264a351"
+  },
+  {
+    "Model": "Bus_Model_1f3b",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 23.86,
+    "PassengerCapacity": 21,
+    "Id": "7624c408-5b79-496a-960a-bb1aab272309"
+  },
+  {
+    "Model": "Bus_Model_d8f3",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 25.03,
+    "PassengerCapacity": 88,
+    "Id": "da93482f-0590-4d95-9170-0d8e39cc03d8"
+  },
+  {
+    "Model": "Bus_Model_09e2",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 18.29,
+    "PassengerCapacity": 42,
+    "Id": "4356ffb1-7eb5-4c89-90e0-97b5d274e8ad"
+  },
+  {
+    "Model": "Bus_Model_5a01",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 23.41,
+    "PassengerCapacity": 56,
+    "Id": "9d08217e-049a-4abf-9a8d-a004da61f1b2"
+  },
+  {
+    "Model": "Bus_Model_235c",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.79,
+    "PassengerCapacity": 31,
+    "Id": "5c63cc22-c259-461a-9f55-0f16cd85bd62"
+  },
+  {
+    "Model": "Bus_Model_3211",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 25.04,
+    "PassengerCapacity": 52,
+    "Id": "11261a71-6bce-4f95-9632-18ca3980dac1"
+  },
+  {
+    "Model": "Bus_Model_cb52",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 17.04,
+    "PassengerCapacity": 46,
+    "Id": "d257732f-7463-4ed4-adf2-08a4260a3a77"
+  },
+  {
+    "Model": "Bus_Model_fd2d",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 27.68,
+    "PassengerCapacity": 72,
+    "Id": "67a3ccdb-6bdd-4826-8ab1-f0927bf14318"
+  },
+  {
+    "Model": "Bus_Model_d42b",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 19.68,
+    "PassengerCapacity": 87,
+    "Id": "cb78a216-346c-4e22-963f-eaf7a5723250"
+  },
+  {
+    "Model": "Bus_Model_ebee",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 16.28,
+    "PassengerCapacity": 84,
+    "Id": "481c97f6-f039-4bb7-a7af-6d8ec9f689e7"
+  },
+  {
+    "Model": "Bus_Model_c4e6",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 22.42,
+    "PassengerCapacity": 87,
+    "Id": "55155875-9b2b-48d3-a92e-b01eedad7b25"
+  },
+  {
+    "Model": "Bus_Model_3645",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 20.82,
+    "PassengerCapacity": 20,
+    "Id": "2b79535b-6697-414e-9856-75d74efcc2ce"
+  },
+  {
+    "Model": "Bus_Model_e47d",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 18.91,
+    "PassengerCapacity": 91,
+    "Id": "79590a84-c413-4286-a355-861ed45b8234"
+  },
+  {
+    "Model": "Bus_Model_941c",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 20.67,
+    "PassengerCapacity": 43,
+    "Id": "bc0eb47c-1078-4828-81ea-39c9902e2769"
+  },
+  {
+    "Model": "Bus_Model_dc4d",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 19.57,
+    "PassengerCapacity": 66,
+    "Id": "1cde157b-f03a-490f-89e9-9222441dbb8d"
+  },
+  {
+    "Model": "Bus_Model_5d8d",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 24.87,
+    "PassengerCapacity": 52,
+    "Id": "b5d51667-5752-4cd1-9502-e5d824e2ec9a"
+  },
+  {
+    "Model": "Bus_Model_d0fc",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 26.2,
+    "PassengerCapacity": 94,
+    "Id": "fd906483-3b7e-49fd-b18c-3b99bb35e358"
+  },
+  {
+    "Model": "Bus_Model_41e3",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 27.87,
+    "PassengerCapacity": 94,
+    "Id": "1819c5e5-fd79-42a2-99da-33f6d9228c07"
+  },
+  {
+    "Model": "Bus_Model_f438",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 26.09,
+    "PassengerCapacity": 75,
+    "Id": "3861d541-4b61-447a-9583-66b79bafae29"
+  },
+  {
+    "Model": "Bus_Model_854a",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 25.36,
+    "PassengerCapacity": 95,
+    "Id": "ba0be07c-a24e-44df-b9f1-be47b5deef9e"
+  },
+  {
+    "Model": "Bus_Model_3101",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 26.89,
+    "PassengerCapacity": 79,
+    "Id": "bdad2daf-ff29-4a5d-807f-4a7b9389186b"
+  },
+  {
+    "Model": "Bus_Model_b75c",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.14,
+    "PassengerCapacity": 76,
+    "Id": "62399ba2-6485-4aed-b4ad-589fe043ceab"
+  },
+  {
+    "Model": "Bus_Model_26f9",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 24.61,
+    "PassengerCapacity": 84,
+    "Id": "d123b2d1-54bf-40f3-a8ff-82c999a8db7a"
+  },
+  {
+    "Model": "Bus_Model_ee56",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 25.48,
+    "PassengerCapacity": 46,
+    "Id": "2db2a2e0-90d0-44bd-a787-528e83a2a937"
+  },
+  {
+    "Model": "Bus_Model_5565",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 20.95,
+    "PassengerCapacity": 60,
+    "Id": "62ca6230-93b3-4fbb-871b-e5519b489226"
+  },
+  {
+    "Model": "Bus_Model_eca9",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 16.89,
+    "PassengerCapacity": 40,
+    "Id": "4578e963-49ef-4aa1-8b93-fc69b3e790a4"
+  },
+  {
+    "Model": "Bus_Model_735f",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 26.93,
+    "PassengerCapacity": 55,
+    "Id": "fe34bf96-c3f2-4c47-a60c-511d6ca3f191"
+  },
+  {
+    "Model": "Bus_Model_90c3",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 22.68,
+    "PassengerCapacity": 75,
+    "Id": "260bf184-e3b4-4a80-a00c-ea09edd32664"
+  },
+  {
+    "Model": "Bus_Model_f1b4",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 28.54,
+    "PassengerCapacity": 62,
+    "Id": "affdea6c-af5e-4ad4-a0d7-e8c0d88b9415"
+  },
+  {
+    "Model": "Bus_Model_a7aa",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 24.61,
+    "PassengerCapacity": 51,
+    "Id": "39736a87-74f7-4101-96f3-c2ccc8ac9e10"
+  },
+  {
+    "Model": "Bus_Model_31d5",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 16.83,
+    "PassengerCapacity": 38,
+    "Id": "66cef9fa-3731-4d39-8861-9ad88d3b69af"
+  },
+  {
+    "Model": "Bus_Model_1721",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 19.76,
+    "PassengerCapacity": 93,
+    "Id": "ada66b1b-e1ac-42da-ac57-4b93613c0c60"
+  },
+  {
+    "Model": "Bus_Model_016f",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 20.13,
+    "PassengerCapacity": 37,
+    "Id": "66283ef4-22f0-438b-b43e-01df244550d1"
+  },
+  {
+    "Model": "Bus_Model_c5ce",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 16.23,
+    "PassengerCapacity": 60,
+    "Id": "874727c7-fe54-43d1-bc8e-d678c9a06c82"
+  },
+  {
+    "Model": "Bus_Model_99c2",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 24.6,
+    "PassengerCapacity": 90,
+    "Id": "5b7f9f3c-7872-4039-8903-124356b1751e"
+  },
+  {
+    "Model": "Bus_Model_af24",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 15.71,
+    "PassengerCapacity": 41,
+    "Id": "ef308845-64e6-486f-8cb0-f4276c7e0432"
+  },
+  {
+    "Model": "Bus_Model_3233",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 17.3,
+    "PassengerCapacity": 96,
+    "Id": "cbeb5a5c-df91-4a1b-9677-e776ce7cc3dc"
+  },
+  {
+    "Model": "Bus_Model_e9cd",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 18.83,
+    "PassengerCapacity": 73,
+    "Id": "f84ad400-bc9b-4142-bd36-86e97eb32a74"
+  },
+  {
+    "Model": "Bus_Model_d416",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 19.51,
+    "PassengerCapacity": 41,
+    "Id": "a69c75b7-9e80-4464-94e7-7385bdeb1a60"
+  },
+  {
+    "Model": "Bus_Model_f909",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 15.09,
+    "PassengerCapacity": 83,
+    "Id": "0f368fde-8d47-4960-9392-17502d796d7e"
+  },
+  {
+    "Model": "Bus_Model_7dbc",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 22.86,
+    "PassengerCapacity": 98,
+    "Id": "50f197a3-4743-4914-ab1a-8f29e6c3f4c6"
+  },
+  {
+    "Model": "Bus_Model_4e87",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 26.4,
+    "PassengerCapacity": 92,
+    "Id": "bf652695-22b8-48bc-9c8a-5ba2707ff03b"
+  },
+  {
+    "Model": "Bus_Model_a414",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 17.8,
+    "PassengerCapacity": 92,
+    "Id": "c6d128b2-4012-4423-b084-49922c0fa1cd"
+  },
+  {
+    "Model": "Bus_Model_d7c0",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 20.36,
+    "PassengerCapacity": 83,
+    "Id": "f47b64d1-643a-48aa-b6ab-4fd554662bf1"
+  },
+  {
+    "Model": "Bus_Model_306b",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 23.54,
+    "PassengerCapacity": 98,
+    "Id": "cd86d15a-5c68-4b94-9d64-4b6a001aecc1"
+  },
+  {
+    "Model": "Bus_Model_dd48",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 20.98,
+    "PassengerCapacity": 27,
+    "Id": "808f120c-9df7-4dea-8f6d-81867df4fc30"
+  },
+  {
+    "Model": "Bus_Model_488c",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 23.84,
+    "PassengerCapacity": 24,
+    "Id": "f461d39c-7190-4211-b3a6-a01615d5804a"
+  },
+  {
+    "Model": "Bus_Model_e4de",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 17.33,
+    "PassengerCapacity": 78,
+    "Id": "03775a1b-9b31-4ba4-99fb-02ddb7ad6036"
+  },
+  {
+    "Model": "Bus_Model_a59f",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 29.38,
+    "PassengerCapacity": 27,
+    "Id": "1edf7091-6cf7-4281-828a-1392a0f4befe"
+  },
+  {
+    "Model": "Bus_Model_a074",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 21.61,
+    "PassengerCapacity": 28,
+    "Id": "6e51f591-ca73-42d2-ac8e-a4dbe677ae2e"
+  },
+  {
+    "Model": "Bus_Model_7b04",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 24.33,
+    "PassengerCapacity": 98,
+    "Id": "09320e91-a006-4fb0-88cb-ff71b2521eb8"
+  },
+  {
+    "Model": "Bus_Model_c291",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 16.32,
+    "PassengerCapacity": 69,
+    "Id": "67a9dff6-ea40-40be-985d-d36512eed151"
+  },
+  {
+    "Model": "Bus_Model_95c1",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 17.77,
+    "PassengerCapacity": 41,
+    "Id": "40a54b09-fa94-489a-a3cc-94dff360a6c3"
+  },
+  {
+    "Model": "Bus_Model_4fcc",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 22.61,
+    "PassengerCapacity": 98,
+    "Id": "ecbd754d-d038-4a45-91fe-2b7fa517499c"
+  },
+  {
+    "Model": "Bus_Model_7d21",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 23.45,
+    "PassengerCapacity": 26,
+    "Id": "9637b1b7-a8a5-4d33-9bff-89f1769953a6"
+  },
+  {
+    "Model": "Bus_Model_0e24",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 22.84,
+    "PassengerCapacity": 67,
+    "Id": "2d7e8ea7-93ca-4220-aef6-f6601ba0e386"
+  },
+  {
+    "Model": "Bus_Model_ff5f",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 27.32,
+    "PassengerCapacity": 59,
+    "Id": "ab91d206-33dd-4545-9dd8-c4fcc9cef78e"
+  },
+  {
+    "Model": "Bus_Model_d233",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 28.74,
+    "PassengerCapacity": 28,
+    "Id": "41dfe444-0d68-438a-94cf-aeda7c9f9ce0"
+  },
+  {
+    "Model": "Bus_Model_ec53",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 22.63,
+    "PassengerCapacity": 67,
+    "Id": "588d51d7-744e-471c-b40e-ccdd13a107f3"
+  },
+  {
+    "Model": "Bus_Model_0ed2",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 29.89,
+    "PassengerCapacity": 32,
+    "Id": "bba59ed4-bd39-4730-87e5-856d09f8f5d8"
+  },
+  {
+    "Model": "Bus_Model_6a3f",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 29.28,
+    "PassengerCapacity": 69,
+    "Id": "f72c6ba5-1819-4736-bf55-3b5edbac9c15"
+  },
+  {
+    "Model": "Bus_Model_0dea",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 19.18,
+    "PassengerCapacity": 34,
+    "Id": "e4b8fba3-5ce7-44de-8849-1c1bd079e7e4"
+  },
+  {
+    "Model": "Bus_Model_2412",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 18.66,
+    "PassengerCapacity": 24,
+    "Id": "f847c769-b159-4550-9e6c-41ce7a739de2"
+  },
+  {
+    "Model": "Bus_Model_109f",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 27.83,
+    "PassengerCapacity": 29,
+    "Id": "161ed206-959b-49c3-a5ef-3ce84a1d61a6"
+  },
+  {
+    "Model": "Bus_Model_5a44",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 29.35,
+    "PassengerCapacity": 78,
+    "Id": "02aa4a79-e214-40da-9f04-558e87b26457"
+  },
+  {
+    "Model": "Bus_Model_d5cb",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 25.68,
+    "PassengerCapacity": 21,
+    "Id": "eed5acdc-8d8d-4c72-b5ae-8057e23d3bd5"
+  },
+  {
+    "Model": "Bus_Model_b1f3",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 21.2,
+    "PassengerCapacity": 39,
+    "Id": "b819572b-62a4-48da-a514-57d9e6502bca"
+  },
+  {
+    "Model": "Bus_Model_9d64",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 28.54,
+    "PassengerCapacity": 38,
+    "Id": "e00fd97d-d8b7-4407-b038-3fc9388e0ced"
+  },
+  {
+    "Model": "Bus_Model_a26e",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 29.75,
+    "PassengerCapacity": 59,
+    "Id": "dd38335d-e30d-473d-ac20-0858b320a9d2"
+  },
+  {
+    "Model": "Bus_Model_25e3",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 29.07,
+    "PassengerCapacity": 90,
+    "Id": "c01e6800-c617-44d7-a9c7-e101888562d5"
+  },
+  {
+    "Model": "Bus_Model_cc5c",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 15.64,
+    "PassengerCapacity": 94,
+    "Id": "211a4fa7-e053-4855-9a08-ffad6d25fdae"
+  },
+  {
+    "Model": "Bus_Model_2d7a",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 27.98,
+    "PassengerCapacity": 73,
+    "Id": "05048936-c233-41da-b13c-ac26ba08fb46"
+  },
+  {
+    "Model": "Bus_Model_2dcf",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 15.21,
+    "PassengerCapacity": 38,
+    "Id": "0e8769dd-5446-43c1-ad24-72b7889bf85e"
+  },
+  {
+    "Model": "Bus_Model_a1c9",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 26.38,
+    "PassengerCapacity": 62,
+    "Id": "9d139ae7-2c94-4ddd-a825-eb6562f8cf37"
+  },
+  {
+    "Model": "Bus_Model_0ae9",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 16.46,
+    "PassengerCapacity": 35,
+    "Id": "7a9e1d1f-ea9d-422d-81bf-5e5fb6f2ce12"
+  },
+  {
+    "Model": "Bus_Model_538a",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 20.86,
+    "PassengerCapacity": 35,
+    "Id": "b6bb8f3a-1035-4be3-9e7e-96ffbb43563c"
+  },
+  {
+    "Model": "Bus_Model_6f1a",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 17.88,
+    "PassengerCapacity": 97,
+    "Id": "c8e05571-21d5-4753-b229-f563c0d9675c"
+  },
+  {
+    "Model": "Bus_Model_eb07",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 21.34,
+    "PassengerCapacity": 45,
+    "Id": "c3e613b4-62d7-4b5e-884c-e267c438a1d7"
+  },
+  {
+    "Model": "Bus_Model_af37",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 21.65,
+    "PassengerCapacity": 64,
+    "Id": "06d57bc2-95d1-4f20-96fd-118e72f10088"
+  },
+  {
+    "Model": "Bus_Model_166c",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 16.29,
+    "PassengerCapacity": 57,
+    "Id": "2a9357b7-3782-4688-b686-aeb448caacff"
+  },
+  {
+    "Model": "Bus_Model_b441",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 27.68,
+    "PassengerCapacity": 61,
+    "Id": "42998b44-4ddb-42d4-840a-a14e38980691"
+  },
+  {
+    "Model": "Bus_Model_c78f",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 15.95,
+    "PassengerCapacity": 64,
+    "Id": "2fe54c71-3b42-47d6-8af1-04e2cb582622"
+  },
+  {
+    "Model": "Bus_Model_7123",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 17.8,
+    "PassengerCapacity": 94,
+    "Id": "382dad15-8a6f-4e94-b2e8-34c33723a98b"
+  },
+  {
+    "Model": "Bus_Model_ed01",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 19.27,
+    "PassengerCapacity": 56,
+    "Id": "6fc5bcc9-9ae4-45af-84dd-688a1b273897"
+  },
+  {
+    "Model": "Bus_Model_43fa",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 25.47,
+    "PassengerCapacity": 81,
+    "Id": "d8a4d3c1-b34c-46fb-a42d-574af245b5a1"
+  },
+  {
+    "Model": "Bus_Model_4f47",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 28.88,
+    "PassengerCapacity": 66,
+    "Id": "db8911cb-2786-44bc-bbb4-cfd0c0df8e39"
+  },
+  {
+    "Model": "Bus_Model_d1f7",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 22.84,
+    "PassengerCapacity": 20,
+    "Id": "c5fc8a37-8320-4a66-a400-695811f8187a"
+  },
+  {
+    "Model": "Bus_Model_a1d7",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 19.83,
+    "PassengerCapacity": 99,
+    "Id": "aa401182-2f6e-42ae-9527-62988679cae4"
+  },
+  {
+    "Model": "Bus_Model_84cf",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 28.39,
+    "PassengerCapacity": 70,
+    "Id": "e0829b95-409e-43e1-93c0-5c69d7e24aa3"
+  },
+  {
+    "Model": "Bus_Model_e1ea",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 16.71,
+    "PassengerCapacity": 28,
+    "Id": "3f97faeb-8062-4a72-bc84-747c391a229b"
+  },
+  {
+    "Model": "Bus_Model_f0fc",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 29.03,
+    "PassengerCapacity": 52,
+    "Id": "4d4c21a0-f927-4027-9e1b-c0fbe03e5780"
+  },
+  {
+    "Model": "Bus_Model_b42b",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 28.89,
+    "PassengerCapacity": 91,
+    "Id": "425016fc-06c5-4018-93c8-0eca4ed89a9e"
+  },
+  {
+    "Model": "Bus_Model_751e",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 24.77,
+    "PassengerCapacity": 96,
+    "Id": "1933f1a1-c017-4b7d-96e6-e2cc06474898"
+  },
+  {
+    "Model": "Bus_Model_d292",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 19.77,
+    "PassengerCapacity": 49,
+    "Id": "f783fd55-7728-4d53-94b8-6fef4a16d129"
+  },
+  {
+    "Model": "Bus_Model_dbd1",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 25.14,
+    "PassengerCapacity": 66,
+    "Id": "10a250f6-29e7-4c9f-baa6-437aa31d62c1"
+  },
+  {
+    "Model": "Bus_Model_9af0",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 23.62,
+    "PassengerCapacity": 82,
+    "Id": "6180dddc-833b-4e26-b135-3e3e0bbff4d0"
+  },
+  {
+    "Model": "Bus_Model_b2cf",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 18.05,
+    "PassengerCapacity": 68,
+    "Id": "d5a2d9bc-966e-4829-b429-269879370003"
+  },
+  {
+    "Model": "Bus_Model_4514",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.26,
+    "PassengerCapacity": 87,
+    "Id": "a72e376d-ca4b-4c04-8075-62ca7734e153"
+  },
+  {
+    "Model": "Bus_Model_1e54",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 23.86,
+    "PassengerCapacity": 22,
+    "Id": "a5833884-c075-4d5f-a2a0-7502fecb80c2"
+  },
+  {
+    "Model": "Bus_Model_c999",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 16.57,
+    "PassengerCapacity": 65,
+    "Id": "3575e792-38ba-43fe-a886-51ecdf1c4c04"
+  },
+  {
+    "Model": "Bus_Model_2265",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 29.79,
+    "PassengerCapacity": 33,
+    "Id": "fa6fd478-2dea-44a4-aa4b-d982d6e95e39"
+  },
+  {
+    "Model": "Bus_Model_a21e",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 22.74,
+    "PassengerCapacity": 44,
+    "Id": "d4d3c9e0-6bbf-40ae-a0ee-ce1cddfa094e"
+  },
+  {
+    "Model": "Bus_Model_2781",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 22.94,
+    "PassengerCapacity": 55,
+    "Id": "1c0c6f7c-eb39-4196-bc94-8cd070e59852"
+  },
+  {
+    "Model": "Bus_Model_c2fb",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 28.96,
+    "PassengerCapacity": 51,
+    "Id": "79251be9-eaf4-4ad0-b909-759e21b9c281"
+  },
+  {
+    "Model": "Bus_Model_99a3",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 26.71,
+    "PassengerCapacity": 81,
+    "Id": "b4b07b42-c1fc-41be-8aa1-229b24f5d4c5"
+  },
+  {
+    "Model": "Bus_Model_e9af",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 25.81,
+    "PassengerCapacity": 98,
+    "Id": "76d37860-170b-4f79-ba5a-de9666bf979d"
+  },
+  {
+    "Model": "Bus_Model_06ba",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 29.2,
+    "PassengerCapacity": 94,
+    "Id": "254cfac1-6193-4554-8f63-b8a1f6793ada"
+  },
+  {
+    "Model": "Bus_Model_5db1",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 29.38,
+    "PassengerCapacity": 46,
+    "Id": "bbe07786-f0f7-4137-8710-0979f01826b7"
+  },
+  {
+    "Model": "Bus_Model_caef",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 21.22,
+    "PassengerCapacity": 62,
+    "Id": "4145ff00-30d5-43ba-b590-164e7985ba12"
+  },
+  {
+    "Model": "Bus_Model_ef6d",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 29.02,
+    "PassengerCapacity": 20,
+    "Id": "e851d120-9b0f-4ca8-9921-8ae1371710a6"
+  },
+  {
+    "Model": "Bus_Model_16f0",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 18.33,
+    "PassengerCapacity": 23,
+    "Id": "d8e1b587-5c29-4aa7-a58d-1ce1fc42a717"
+  },
+  {
+    "Model": "Bus_Model_b2c8",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 20.87,
+    "PassengerCapacity": 30,
+    "Id": "e587e659-8213-4a84-9e4a-27e6439ffdf6"
+  },
+  {
+    "Model": "Bus_Model_1259",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 27.43,
+    "PassengerCapacity": 82,
+    "Id": "635e1fa8-bdb3-4de4-83cd-f3b25451c427"
+  },
+  {
+    "Model": "Bus_Model_f9b4",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 22.11,
+    "PassengerCapacity": 88,
+    "Id": "cf3db8c4-f6bb-40c9-9319-40d2968a6f5c"
+  },
+  {
+    "Model": "Bus_Model_4454",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 19.58,
+    "PassengerCapacity": 40,
+    "Id": "8399630c-aa88-46c9-9d66-557bb787e5b3"
+  },
+  {
+    "Model": "Bus_Model_f7e1",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 19.93,
+    "PassengerCapacity": 70,
+    "Id": "0203021c-7016-4ce9-b91a-d041207dcb6f"
+  },
+  {
+    "Model": "Bus_Model_63a0",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 29.44,
+    "PassengerCapacity": 23,
+    "Id": "0a5b33be-a822-40f8-ad51-76aae4fc36a6"
+  },
+  {
+    "Model": "Bus_Model_84a9",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 21.69,
+    "PassengerCapacity": 91,
+    "Id": "c402b333-c273-4e0f-9346-daed59733f9c"
+  },
+  {
+    "Model": "Bus_Model_bdab",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 22.25,
+    "PassengerCapacity": 32,
+    "Id": "5d00260c-22ae-436b-ad78-a35d81987fb1"
+  },
+  {
+    "Model": "Bus_Model_0cfe",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 29.34,
+    "PassengerCapacity": 66,
+    "Id": "72ca08d4-fa8c-46a3-9328-4a81c79e20e5"
+  },
+  {
+    "Model": "Bus_Model_1075",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 22.71,
+    "PassengerCapacity": 38,
+    "Id": "9bf1cc0c-4053-4f4d-b4af-a134e21ed76e"
+  },
+  {
+    "Model": "Bus_Model_9e3d",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.05,
+    "PassengerCapacity": 95,
+    "Id": "cb734725-d039-49f9-9078-b5366de378a8"
+  },
+  {
+    "Model": "Bus_Model_ee7b",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 25.16,
+    "PassengerCapacity": 57,
+    "Id": "d64c2ffd-e235-4692-b148-c1a616318734"
+  },
+  {
+    "Model": "Bus_Model_ec8e",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 15.78,
+    "PassengerCapacity": 97,
+    "Id": "b96119ed-dea7-4a7e-9a6d-a02d42d372a6"
+  },
+  {
+    "Model": "Bus_Model_b736",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 28.64,
+    "PassengerCapacity": 91,
+    "Id": "fd0a8937-795f-4a26-a1ea-7be5a97f14a5"
+  },
+  {
+    "Model": "Bus_Model_3517",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 18.78,
+    "PassengerCapacity": 37,
+    "Id": "62f0241c-ba40-4a28-8bce-d9665b22c3dc"
+  },
+  {
+    "Model": "Bus_Model_bdd5",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 17.9,
+    "PassengerCapacity": 53,
+    "Id": "c99afdc5-8a87-429c-b87a-a4266fe4814f"
+  },
+  {
+    "Model": "Bus_Model_1a29",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 19.16,
+    "PassengerCapacity": 29,
+    "Id": "154d333d-562a-4214-8c00-07be28105c73"
+  },
+  {
+    "Model": "Bus_Model_3be5",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 27.43,
+    "PassengerCapacity": 51,
+    "Id": "da3c981c-e354-4c34-b9a0-c6733ded3444"
+  },
+  {
+    "Model": "Bus_Model_c516",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 18.86,
+    "PassengerCapacity": 65,
+    "Id": "3f1b5fe6-52f7-48e3-814d-4fd1f8b0e65d"
+  },
+  {
+    "Model": "Bus_Model_33ec",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 19.45,
+    "PassengerCapacity": 31,
+    "Id": "5a6486bb-5bba-4ddc-bc05-9003f270228b"
+  },
+  {
+    "Model": "Bus_Model_dca9",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 28.66,
+    "PassengerCapacity": 95,
+    "Id": "e5681229-5f7d-4173-940e-673ec916a5fc"
+  },
+  {
+    "Model": "Bus_Model_cc52",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 15.4,
+    "PassengerCapacity": 64,
+    "Id": "5ad163c0-1757-4883-b029-759baaab53a8"
+  },
+  {
+    "Model": "Bus_Model_155b",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 20.42,
+    "PassengerCapacity": 25,
+    "Id": "e0125277-f0b7-4d9b-b03b-1ad34e254a96"
+  },
+  {
+    "Model": "Bus_Model_f862",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 16.23,
+    "PassengerCapacity": 49,
+    "Id": "925331f4-b7d9-4d3d-b6e2-d7e11e49759b"
+  },
+  {
+    "Model": "Bus_Model_3d22",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 29.83,
+    "PassengerCapacity": 46,
+    "Id": "5d49a7ce-15e1-4d7d-897d-5bb89023eefc"
+  },
+  {
+    "Model": "Bus_Model_6f88",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 19,
+    "PassengerCapacity": 23,
+    "Id": "e0948d4c-c6f9-43ab-9ea1-b88961e4165e"
+  },
+  {
+    "Model": "Bus_Model_6cad",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 27.34,
+    "PassengerCapacity": 59,
+    "Id": "cc612cac-d139-4d6a-92fc-b120070771bd"
+  },
+  {
+    "Model": "Bus_Model_db2c",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 25.87,
+    "PassengerCapacity": 55,
+    "Id": "4c6702f3-2670-4f29-bc1d-d71e323130a6"
+  },
+  {
+    "Model": "Bus_Model_1cfd",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 15.21,
+    "PassengerCapacity": 86,
+    "Id": "a44f8937-8cc6-4286-a549-91a651769880"
+  },
+  {
+    "Model": "Bus_Model_9e2f",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 27.89,
+    "PassengerCapacity": 45,
+    "Id": "1be8f64c-4d06-44fc-a30e-c07ee25924fc"
+  },
+  {
+    "Model": "Bus_Model_24d0",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 27.78,
+    "PassengerCapacity": 44,
+    "Id": "158f3089-2874-402d-89fb-161b8b02fe1a"
+  },
+  {
+    "Model": "Bus_Model_78a9",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 15.93,
+    "PassengerCapacity": 42,
+    "Id": "c5915e57-d681-47de-85c9-63eb0fd17d15"
+  },
+  {
+    "Model": "Bus_Model_6e6e",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 19.12,
+    "PassengerCapacity": 34,
+    "Id": "621874f2-8801-4a41-a48f-48c9717181d4"
+  },
+  {
+    "Model": "Bus_Model_2092",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 26.02,
+    "PassengerCapacity": 56,
+    "Id": "16c5c6bc-5fe7-4585-a058-cfebc762f9fe"
+  },
+  {
+    "Model": "Bus_Model_a4c3",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.5,
+    "PassengerCapacity": 75,
+    "Id": "97b8bb8b-e308-4b20-bcce-983f914944a0"
+  },
+  {
+    "Model": "Bus_Model_ebbc",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 19.27,
+    "PassengerCapacity": 63,
+    "Id": "7d2875bf-4267-47d8-9a15-744132da4206"
+  },
+  {
+    "Model": "Bus_Model_22a4",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 29.93,
+    "PassengerCapacity": 90,
+    "Id": "27e61a26-27b5-4f4a-a740-7e6c1e9f728e"
+  },
+  {
+    "Model": "Bus_Model_5a83",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 29.85,
+    "PassengerCapacity": 95,
+    "Id": "e6dbd7d3-59f6-4417-b77e-2ff830bc05e0"
+  },
+  {
+    "Model": "Bus_Model_2ec1",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 20.06,
+    "PassengerCapacity": 62,
+    "Id": "5a5bcacd-31b6-449e-b911-afeb3f4f4ff8"
+  },
+  {
+    "Model": "Bus_Model_4571",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 23.64,
+    "PassengerCapacity": 70,
+    "Id": "d3efc9a1-d117-4581-9ad0-e73bca8dcc66"
+  },
+  {
+    "Model": "Bus_Model_2a55",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 25.74,
+    "PassengerCapacity": 76,
+    "Id": "6794a091-b994-4338-8f1d-7a47100721cd"
+  },
+  {
+    "Model": "Bus_Model_706b",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 24.13,
+    "PassengerCapacity": 39,
+    "Id": "e5054d44-c274-4ac1-9c29-3af04298a3fd"
+  },
+  {
+    "Model": "Bus_Model_b16d",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 17.31,
+    "PassengerCapacity": 41,
+    "Id": "1737ea1a-dac6-4ec1-8731-2d2a9aa7b26d"
+  },
+  {
+    "Model": "Bus_Model_3471",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 16.65,
+    "PassengerCapacity": 38,
+    "Id": "858708dc-b1f4-49be-943d-b018256f6f63"
+  },
+  {
+    "Model": "Bus_Model_24d5",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 16.78,
+    "PassengerCapacity": 70,
+    "Id": "e10da912-03e1-437a-b6eb-8d6518d14438"
+  },
+  {
+    "Model": "Bus_Model_16c7",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 19.16,
+    "PassengerCapacity": 96,
+    "Id": "914a8dbb-34c0-4557-8f31-7a98cf254c53"
+  },
+  {
+    "Model": "Bus_Model_20d5",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 20.51,
+    "PassengerCapacity": 46,
+    "Id": "e1985223-ad8a-48ef-be8e-8b196a5435d7"
+  },
+  {
+    "Model": "Bus_Model_962c",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 16.33,
+    "PassengerCapacity": 70,
+    "Id": "f69392cb-9f83-4006-b03c-dec1e8555f11"
+  },
+  {
+    "Model": "Bus_Model_3574",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 17.05,
+    "PassengerCapacity": 56,
+    "Id": "d0199b84-55bb-493b-8018-ad92c0704021"
+  },
+  {
+    "Model": "Bus_Model_2832",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 15.17,
+    "PassengerCapacity": 20,
+    "Id": "2e7ead1a-f0bc-40b8-bfee-bf8def9ef5eb"
+  },
+  {
+    "Model": "Bus_Model_73b7",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 22.12,
+    "PassengerCapacity": 64,
+    "Id": "6be98dd6-2f68-45f0-82ff-de6487c8fe71"
+  },
+  {
+    "Model": "Bus_Model_f775",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.51,
+    "PassengerCapacity": 91,
+    "Id": "4ab66aa7-8911-4de1-8bff-1d325545f6ee"
+  },
+  {
+    "Model": "Bus_Model_4df5",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 25.68,
+    "PassengerCapacity": 83,
+    "Id": "e0aa3b8d-5567-40c6-8eae-a1d396892cce"
+  },
+  {
+    "Model": "Bus_Model_f987",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 17.41,
+    "PassengerCapacity": 49,
+    "Id": "0bdb7782-05e0-45eb-a057-69d7fdb015b1"
+  },
+  {
+    "Model": "Bus_Model_5843",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 25.28,
+    "PassengerCapacity": 99,
+    "Id": "275c0e91-b441-4caf-8427-367519610301"
+  },
+  {
+    "Model": "Bus_Model_bdde",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.64,
+    "PassengerCapacity": 72,
+    "Id": "6d1ca3d1-e345-4a71-afc9-d852069a7bd1"
+  },
+  {
+    "Model": "Bus_Model_9191",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 24.89,
+    "PassengerCapacity": 33,
+    "Id": "902c8336-eddc-413b-8437-a2e9c7b96e96"
+  },
+  {
+    "Model": "Bus_Model_2695",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 18.57,
+    "PassengerCapacity": 95,
+    "Id": "406cd731-9e5b-4013-9cbc-46838707b39d"
+  },
+  {
+    "Model": "Bus_Model_39fb",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 15.79,
+    "PassengerCapacity": 38,
+    "Id": "06baa99b-84f9-4756-9d7d-ec61877510e0"
+  },
+  {
+    "Model": "Bus_Model_9026",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 15.93,
+    "PassengerCapacity": 68,
+    "Id": "2bc67540-992b-4e8e-9582-0d155747a937"
+  },
+  {
+    "Model": "Bus_Model_be93",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 22.52,
+    "PassengerCapacity": 52,
+    "Id": "cb9eee83-1b89-4f01-9283-cf06e1c82f9b"
+  },
+  {
+    "Model": "Bus_Model_4d0a",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 22.89,
+    "PassengerCapacity": 51,
+    "Id": "39ec44c1-5645-4dec-82d5-bf5e34257ce1"
+  },
+  {
+    "Model": "Bus_Model_f7be",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 27.69,
+    "PassengerCapacity": 47,
+    "Id": "4acf9ecb-f106-4c6c-80a4-4237decccddd"
+  },
+  {
+    "Model": "Bus_Model_19ef",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 28.51,
+    "PassengerCapacity": 25,
+    "Id": "b42fc375-50c0-499d-9f9a-e3a3bc9d2198"
+  },
+  {
+    "Model": "Bus_Model_2034",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 25.71,
+    "PassengerCapacity": 45,
+    "Id": "29478e3e-cbd5-4b64-ac21-08d8375cac30"
+  },
+  {
+    "Model": "Bus_Model_7404",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 15.77,
+    "PassengerCapacity": 24,
+    "Id": "9c772358-19bf-4440-b6d8-2a4c69e93426"
+  },
+  {
+    "Model": "Bus_Model_d4c1",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 22.79,
+    "PassengerCapacity": 41,
+    "Id": "7c3fdcfd-b98c-4a1a-8039-5ac59886ec08"
+  },
+  {
+    "Model": "Bus_Model_d455",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 19.88,
+    "PassengerCapacity": 94,
+    "Id": "2e43252d-dca5-4427-8c9a-cc23b430060f"
+  },
+  {
+    "Model": "Bus_Model_d73c",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 26.26,
+    "PassengerCapacity": 38,
+    "Id": "701e4aee-bc29-474e-8b01-a976b35b8224"
+  },
+  {
+    "Model": "Bus_Model_57f8",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 25.47,
+    "PassengerCapacity": 95,
+    "Id": "51115e36-9944-407e-9b9f-aac61a2fd388"
+  },
+  {
+    "Model": "Bus_Model_785d",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 25.37,
+    "PassengerCapacity": 27,
+    "Id": "dc017d86-01e0-4d22-b3b0-b202411890c6"
+  },
+  {
+    "Model": "Bus_Model_1119",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 15.57,
+    "PassengerCapacity": 78,
+    "Id": "a521d42c-87b0-40ad-a3d2-ef07acc4227a"
+  },
+  {
+    "Model": "Bus_Model_41b0",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 23.3,
+    "PassengerCapacity": 35,
+    "Id": "be619cc9-7c3d-4f8a-a9de-9ca6aad5079d"
+  },
+  {
+    "Model": "Bus_Model_7375",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 25.14,
+    "PassengerCapacity": 20,
+    "Id": "56c0b96e-d65b-4d67-a606-690620701ac5"
+  },
+  {
+    "Model": "Bus_Model_5a94",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 29.14,
+    "PassengerCapacity": 94,
+    "Id": "61d99921-8b8a-45e3-87f6-cbf09ba7e1c6"
+  },
+  {
+    "Model": "Bus_Model_a0a7",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 28.62,
+    "PassengerCapacity": 60,
+    "Id": "65198f4d-de28-4e3b-80b2-07e79b932600"
+  },
+  {
+    "Model": "Bus_Model_7d89",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 27.17,
+    "PassengerCapacity": 57,
+    "Id": "61814eef-1926-437c-b2c8-fe2cce082b21"
+  },
+  {
+    "Model": "Bus_Model_158c",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 28.23,
+    "PassengerCapacity": 63,
+    "Id": "b9cf14f4-6cd5-41ac-803e-715fc62fe32d"
+  },
+  {
+    "Model": "Bus_Model_aa63",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 17.82,
+    "PassengerCapacity": 48,
+    "Id": "c8b637a1-3234-46e1-8d98-c3a2782de4cf"
+  },
+  {
+    "Model": "Bus_Model_cf55",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 21.56,
+    "PassengerCapacity": 39,
+    "Id": "f195fe05-0efc-4693-984b-9341ab14562d"
+  },
+  {
+    "Model": "Bus_Model_6337",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 26.04,
+    "PassengerCapacity": 91,
+    "Id": "6d5252a1-5f09-4c61-9193-c0a0b2327f06"
+  },
+  {
+    "Model": "Bus_Model_e79d",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 28.11,
+    "PassengerCapacity": 53,
+    "Id": "6a18d896-44d1-4345-9434-aab727bbc44b"
+  },
+  {
+    "Model": "Bus_Model_616f",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 29.4,
+    "PassengerCapacity": 91,
+    "Id": "13ae60a0-eb80-48c1-ad85-ee908e37eb76"
+  },
+  {
+    "Model": "Bus_Model_1c17",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 15.61,
+    "PassengerCapacity": 93,
+    "Id": "b6da5f8a-0580-4962-bd5e-b6e7de47c297"
+  },
+  {
+    "Model": "Bus_Model_0088",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 22.97,
+    "PassengerCapacity": 44,
+    "Id": "7b2372c8-2ef6-479c-9b58-ed6eb4898962"
+  },
+  {
+    "Model": "Bus_Model_e135",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 26.73,
+    "PassengerCapacity": 28,
+    "Id": "c1ed5234-933b-4c9c-82ab-2e4227ca9ead"
+  },
+  {
+    "Model": "Bus_Model_038e",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 17.68,
+    "PassengerCapacity": 21,
+    "Id": "247888ea-0116-46a6-b66b-18ff59a8e786"
+  },
+  {
+    "Model": "Bus_Model_29bd",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 24.29,
+    "PassengerCapacity": 80,
+    "Id": "f54d9e08-8f05-44cb-9c66-37c03bd2bd66"
+  },
+  {
+    "Model": "Bus_Model_6ccc",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 21.69,
+    "PassengerCapacity": 29,
+    "Id": "5faaa035-39aa-4320-bef7-fd95ce04d905"
+  },
+  {
+    "Model": "Bus_Model_2278",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 28.98,
+    "PassengerCapacity": 22,
+    "Id": "124b22b5-3e7e-4cd4-84fa-6fae0e0cb8e3"
+  },
+  {
+    "Model": "Bus_Model_b60c",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 26.95,
+    "PassengerCapacity": 22,
+    "Id": "6110a78e-3a27-4def-8622-ac56513248f8"
+  },
+  {
+    "Model": "Bus_Model_f388",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 27.74,
+    "PassengerCapacity": 49,
+    "Id": "7f47b10e-cdaf-41e2-b118-dd43b522d705"
+  },
+  {
+    "Model": "Bus_Model_7daf",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 21.25,
+    "PassengerCapacity": 87,
+    "Id": "93e5859b-4c11-4dba-a3f9-5567cb3b3a45"
+  },
+  {
+    "Model": "Bus_Model_d409",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 21.07,
+    "PassengerCapacity": 96,
+    "Id": "c8cb5447-1c76-4987-9a9d-478ffe7be55f"
+  },
+  {
+    "Model": "Bus_Model_2bbc",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 29.35,
+    "PassengerCapacity": 35,
+    "Id": "bf1da856-12c7-4395-ae0d-d62dd8714bb7"
+  },
+  {
+    "Model": "Bus_Model_f66a",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 28.56,
+    "PassengerCapacity": 94,
+    "Id": "31017005-a2b7-4a5e-8665-987670a18788"
+  },
+  {
+    "Model": "Bus_Model_4cd6",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.35,
+    "PassengerCapacity": 74,
+    "Id": "30e11e76-d427-408c-9252-f7ce7107449a"
+  },
+  {
+    "Model": "Bus_Model_407c",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 21.35,
+    "PassengerCapacity": 72,
+    "Id": "71a6ae7b-6b90-4bdc-8c2e-4f336a9af152"
+  },
+  {
+    "Model": "Bus_Model_14f9",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 29.45,
+    "PassengerCapacity": 38,
+    "Id": "e6ee5403-2b0e-4a82-86aa-174bc535cec6"
+  },
+  {
+    "Model": "Bus_Model_b8e0",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 22.94,
+    "PassengerCapacity": 37,
+    "Id": "42289321-6d43-4071-8f87-4fdca68154c6"
+  },
+  {
+    "Model": "Bus_Model_3746",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 27.51,
+    "PassengerCapacity": 95,
+    "Id": "067a3f2b-e8c8-4347-ae3a-f6a06a161555"
+  },
+  {
+    "Model": "Bus_Model_6d11",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 18.23,
+    "PassengerCapacity": 78,
+    "Id": "516d32f8-a5b9-43cc-bb54-3de8b0541067"
+  },
+  {
+    "Model": "Bus_Model_4e57",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 28.67,
+    "PassengerCapacity": 24,
+    "Id": "8108bddd-4b52-4d7e-9cbb-6e8bcfa5582b"
+  },
+  {
+    "Model": "Bus_Model_f421",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 21.48,
+    "PassengerCapacity": 29,
+    "Id": "3362a878-2c6b-426d-9b55-d7272b2a3e0b"
+  },
+  {
+    "Model": "Bus_Model_c8fb",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 28,
+    "PassengerCapacity": 59,
+    "Id": "f6e6e242-dfa0-42d6-81a3-76e4b7c28704"
+  },
+  {
+    "Model": "Bus_Model_020c",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 17.96,
+    "PassengerCapacity": 81,
+    "Id": "c5e189b5-3a56-44f0-a3a2-76aeed6260fb"
+  },
+  {
+    "Model": "Bus_Model_43af",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 19.31,
+    "PassengerCapacity": 59,
+    "Id": "c40d6d37-9819-4ba9-b316-4454ef819c11"
+  },
+  {
+    "Model": "Bus_Model_94ed",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 25.4,
+    "PassengerCapacity": 61,
+    "Id": "d3d37175-68b5-4eaa-bf45-d2352c809682"
+  },
+  {
+    "Model": "Bus_Model_4e2d",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 25.56,
+    "PassengerCapacity": 70,
+    "Id": "d6f9bacb-0241-4d2c-9b03-42a4cc034341"
+  },
+  {
+    "Model": "Bus_Model_dc39",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 16.8,
+    "PassengerCapacity": 23,
+    "Id": "20900585-6b83-4648-b2f2-e6e2053e47e7"
+  },
+  {
+    "Model": "Bus_Model_ba4b",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 19.75,
+    "PassengerCapacity": 26,
+    "Id": "6a34b45d-b0da-4cd7-8cda-7444367bfb9f"
+  },
+  {
+    "Model": "Bus_Model_10b0",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 22.54,
+    "PassengerCapacity": 55,
+    "Id": "6d17a3d0-fb6c-4901-b26e-1de9400ae3c0"
+  },
+  {
+    "Model": "Bus_Model_dea5",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 28.43,
+    "PassengerCapacity": 26,
+    "Id": "75dc5c7b-59d4-41ba-9a42-f0d3e341ece7"
+  },
+  {
+    "Model": "Bus_Model_61c3",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 27.13,
+    "PassengerCapacity": 85,
+    "Id": "c29a5830-ed44-4cff-b357-3effef861692"
+  },
+  {
+    "Model": "Bus_Model_506f",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 20.09,
+    "PassengerCapacity": 64,
+    "Id": "b49a1330-f949-4a2c-884a-819a58430294"
+  },
+  {
+    "Model": "Bus_Model_8f99",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 28.43,
+    "PassengerCapacity": 33,
+    "Id": "aa139b48-d641-48cf-8656-3f634cb34d83"
+  },
+  {
+    "Model": "Bus_Model_d0a8",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 28.23,
+    "PassengerCapacity": 31,
+    "Id": "26d5ba8c-1db8-4049-986f-6c1789e8c5d5"
+  },
+  {
+    "Model": "Bus_Model_a3ff",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 28.98,
+    "PassengerCapacity": 82,
+    "Id": "5acf0523-91df-4106-8c6c-369a90236578"
+  },
+  {
+    "Model": "Bus_Model_ead1",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 25.98,
+    "PassengerCapacity": 47,
+    "Id": "5f862f35-f274-413e-8f25-801a3fd36e7a"
+  },
+  {
+    "Model": "Bus_Model_5be9",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 20.83,
+    "PassengerCapacity": 29,
+    "Id": "fc0a86a6-9097-4204-8e19-0ca8fa12a8dc"
+  },
+  {
+    "Model": "Bus_Model_ebd4",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 22.06,
+    "PassengerCapacity": 21,
+    "Id": "8b07395a-969d-4bc7-b8f4-4f2ebab4e4bc"
+  },
+  {
+    "Model": "Bus_Model_b3ae",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 16.46,
+    "PassengerCapacity": 43,
+    "Id": "93bfc5af-917e-49f7-a38b-9188ddc8a019"
+  },
+  {
+    "Model": "Bus_Model_fb8d",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 19.06,
+    "PassengerCapacity": 47,
+    "Id": "f36220b6-c50e-475a-a555-c338a2554803"
+  },
+  {
+    "Model": "Bus_Model_60d2",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.93,
+    "PassengerCapacity": 80,
+    "Id": "fd90d0aa-ea61-46fc-8dc0-3443a58154a4"
+  },
+  {
+    "Model": "Bus_Model_f1ea",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 19.92,
+    "PassengerCapacity": 87,
+    "Id": "f99c2492-3104-4776-9033-41bce2f159af"
+  },
+  {
+    "Model": "Bus_Model_75d8",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 15.33,
+    "PassengerCapacity": 45,
+    "Id": "04ff8d7b-e232-40fb-98b8-0d6085b3affd"
+  },
+  {
+    "Model": "Bus_Model_23d1",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 23.52,
+    "PassengerCapacity": 83,
+    "Id": "1bd8255c-2ef4-4faf-8e66-63df83ad4459"
+  },
+  {
+    "Model": "Bus_Model_d204",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 17.24,
+    "PassengerCapacity": 51,
+    "Id": "672bf12a-d8b8-4ebf-a08e-666e080466a4"
+  },
+  {
+    "Model": "Bus_Model_3513",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 15.44,
+    "PassengerCapacity": 59,
+    "Id": "7854aaf2-b2b1-40a7-9f0f-7e89a3844b8a"
+  },
+  {
+    "Model": "Bus_Model_d67b",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 29.23,
+    "PassengerCapacity": 98,
+    "Id": "d2bbab28-fd61-43b0-a4a6-89e88565d4d2"
+  },
+  {
+    "Model": "Bus_Model_b9c9",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 20.44,
+    "PassengerCapacity": 78,
+    "Id": "0c4deb84-4c75-4616-bddf-3db84112c9d0"
+  },
+  {
+    "Model": "Bus_Model_b819",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 18.95,
+    "PassengerCapacity": 62,
+    "Id": "4f854979-a310-4cf7-a392-5b4123de055d"
+  },
+  {
+    "Model": "Bus_Model_befc",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 25.11,
+    "PassengerCapacity": 57,
+    "Id": "3e7555fa-ab08-4fca-ad18-0206781058c1"
+  },
+  {
+    "Model": "Bus_Model_15e3",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 18.85,
+    "PassengerCapacity": 47,
+    "Id": "ad8a9600-c891-4a08-8bda-44c23f987776"
+  },
+  {
+    "Model": "Bus_Model_5795",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 17.95,
+    "PassengerCapacity": 33,
+    "Id": "206020ca-7242-4604-b642-18d73656e3ba"
+  },
+  {
+    "Model": "Bus_Model_d2f3",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 27.42,
+    "PassengerCapacity": 43,
+    "Id": "41b88190-0bf1-490d-8ff6-07a36312d5bf"
+  },
+  {
+    "Model": "Bus_Model_06a5",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 24.36,
+    "PassengerCapacity": 68,
+    "Id": "9f20edab-f525-44f7-bde8-d4e50a063910"
+  },
+  {
+    "Model": "Bus_Model_35a3",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 26.3,
+    "PassengerCapacity": 48,
+    "Id": "95e7fc9d-e083-4292-963e-5dcc0927435c"
+  },
+  {
+    "Model": "Bus_Model_c727",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 21.35,
+    "PassengerCapacity": 99,
+    "Id": "778d8b96-3dee-4c85-975d-b572edad371f"
+  },
+  {
+    "Model": "Bus_Model_af16",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 20.53,
+    "PassengerCapacity": 85,
+    "Id": "595cf022-edaa-48ae-8ec8-66adfe81b805"
+  },
+  {
+    "Model": "Bus_Model_bbbf",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 21.93,
+    "PassengerCapacity": 31,
+    "Id": "69549be6-71a2-445b-8bf5-6a290752de84"
+  },
+  {
+    "Model": "Bus_Model_c830",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 18.43,
+    "PassengerCapacity": 28,
+    "Id": "4bd68ad8-0d43-406e-8125-b6830a1b83db"
+  },
+  {
+    "Model": "Bus_Model_8ea4",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 21.58,
+    "PassengerCapacity": 58,
+    "Id": "df4d010d-1490-4591-9041-3e12da897b2c"
+  },
+  {
+    "Model": "Bus_Model_f7b6",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 29.38,
+    "PassengerCapacity": 49,
+    "Id": "3b5e94a1-6fa3-47e8-8244-46dc0a645583"
+  },
+  {
+    "Model": "Bus_Model_7bf7",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 17.03,
+    "PassengerCapacity": 51,
+    "Id": "97b49c57-6c67-41dd-8958-51509dda0ca0"
+  },
+  {
+    "Model": "Bus_Model_fc6c",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 17.2,
+    "PassengerCapacity": 39,
+    "Id": "d49e14be-0a7c-4b69-b09c-35347f471356"
+  },
+  {
+    "Model": "Bus_Model_a331",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 28.85,
+    "PassengerCapacity": 26,
+    "Id": "b7d73e17-7785-434d-ab02-cce2e653e03d"
+  },
+  {
+    "Model": "Bus_Model_6052",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 16.07,
+    "PassengerCapacity": 49,
+    "Id": "5c91e4a4-1483-4a89-9d97-c70a46ac77be"
+  },
+  {
+    "Model": "Bus_Model_89f5",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 24.62,
+    "PassengerCapacity": 91,
+    "Id": "402b63e3-0fc8-459d-a9fc-16f28fe2cfb6"
+  },
+  {
+    "Model": "Bus_Model_d50d",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 26.06,
+    "PassengerCapacity": 32,
+    "Id": "d8488ea9-f576-4762-b499-62dff42e6a7f"
+  },
+  {
+    "Model": "Bus_Model_7ee7",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 27.16,
+    "PassengerCapacity": 21,
+    "Id": "34e213b3-edc8-419d-8a68-7e16a21e75fa"
+  },
+  {
+    "Model": "Bus_Model_1c6c",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 22.85,
+    "PassengerCapacity": 96,
+    "Id": "b9c4810a-e8c9-482c-a9b1-773847834613"
+  },
+  {
+    "Model": "Bus_Model_79a3",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 20.45,
+    "PassengerCapacity": 36,
+    "Id": "ca2b71fb-186a-441d-87c3-9267eeb5475d"
+  },
+  {
+    "Model": "Bus_Model_75a8",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 19.09,
+    "PassengerCapacity": 63,
+    "Id": "f6d59382-a3fa-4574-98bc-88341d345a70"
+  },
+  {
+    "Model": "Bus_Model_c4bf",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 15.19,
+    "PassengerCapacity": 21,
+    "Id": "695cdace-85d0-4cd7-b337-04f15b60732d"
+  },
+  {
+    "Model": "Bus_Model_eac1",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 19.59,
+    "PassengerCapacity": 44,
+    "Id": "51e6bf26-4f32-4d64-a005-72a685e4a28c"
+  },
+  {
+    "Model": "Bus_Model_4a7a",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 25.78,
+    "PassengerCapacity": 70,
+    "Id": "1958ad4d-a35a-48ae-93d9-32b2adc33279"
+  },
+  {
+    "Model": "Bus_Model_17ed",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 18.88,
+    "PassengerCapacity": 52,
+    "Id": "ff803db1-5a4a-4f7a-8368-e0ca05f36c05"
+  },
+  {
+    "Model": "Bus_Model_6a50",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 25.7,
+    "PassengerCapacity": 45,
+    "Id": "673b1b46-51bb-4573-b944-0337bd96dea8"
+  },
+  {
+    "Model": "Bus_Model_0f92",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 29.02,
+    "PassengerCapacity": 55,
+    "Id": "b978e6cd-4433-4e7d-bcf5-120f59f4bbd8"
+  },
+  {
+    "Model": "Bus_Model_8f23",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 19.72,
+    "PassengerCapacity": 74,
+    "Id": "1230d8fb-fd9e-46e7-b6ae-5df0620dbec9"
+  },
+  {
+    "Model": "Bus_Model_fea3",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 23.91,
+    "PassengerCapacity": 95,
+    "Id": "84c48efd-f3b8-4bd3-8d86-99ca4229b1da"
+  },
+  {
+    "Model": "Bus_Model_5f7e",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 19.97,
+    "PassengerCapacity": 59,
+    "Id": "5bca06c6-ee0d-41f0-bbeb-c949a4dc36df"
+  },
+  {
+    "Model": "Bus_Model_7400",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 15.97,
+    "PassengerCapacity": 23,
+    "Id": "23d544cb-637a-4b17-abd0-eea6deb3fcb7"
+  },
+  {
+    "Model": "Bus_Model_6fe8",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 21.97,
+    "PassengerCapacity": 83,
+    "Id": "445051bc-7121-4102-8841-39bfa4ed568d"
+  },
+  {
+    "Model": "Bus_Model_bb88",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 17.21,
+    "PassengerCapacity": 46,
+    "Id": "8e3618da-e172-441c-9215-3452b4d8bc47"
+  },
+  {
+    "Model": "Bus_Model_d0f6",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 17.79,
+    "PassengerCapacity": 63,
+    "Id": "0694209d-82e4-4bbd-83dd-2873337f3bbf"
+  },
+  {
+    "Model": "Bus_Model_615f",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 20.1,
+    "PassengerCapacity": 66,
+    "Id": "3d8f489f-f072-43a5-9485-70623c92568e"
+  },
+  {
+    "Model": "Bus_Model_a3fb",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 17.78,
+    "PassengerCapacity": 31,
+    "Id": "e2092848-5e75-469d-85f5-e46ba1313495"
+  },
+  {
+    "Model": "Bus_Model_2936",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 26.87,
+    "PassengerCapacity": 74,
+    "Id": "3d0dc28c-c351-4c51-b101-48ce4434b580"
+  },
+  {
+    "Model": "Bus_Model_1d36",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 19.94,
+    "PassengerCapacity": 85,
+    "Id": "fe3973c1-67bb-4b0a-8f10-def919959134"
+  },
+  {
+    "Model": "Bus_Model_1616",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 27.85,
+    "PassengerCapacity": 67,
+    "Id": "9a701a44-6328-49c3-8c5c-225838048afe"
+  },
+  {
+    "Model": "Bus_Model_acae",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 21.48,
+    "PassengerCapacity": 95,
+    "Id": "d6a55706-3174-41d3-9b99-89527a21770e"
+  },
+  {
+    "Model": "Bus_Model_54fd",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 17.11,
+    "PassengerCapacity": 21,
+    "Id": "d6d7375a-44af-4550-b92e-bd9e67665a62"
+  },
+  {
+    "Model": "Bus_Model_d57f",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.94,
+    "PassengerCapacity": 99,
+    "Id": "a70820b1-aadf-4433-91f8-06d5c15faa17"
+  },
+  {
+    "Model": "Bus_Model_f9d4",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 16.18,
+    "PassengerCapacity": 55,
+    "Id": "8c175858-1fae-45e0-8c19-10153fd671b8"
+  },
+  {
+    "Model": "Bus_Model_e647",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.65,
+    "PassengerCapacity": 58,
+    "Id": "c955a3af-3d9d-4654-befb-dc14d2570524"
+  },
+  {
+    "Model": "Bus_Model_3858",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 21.71,
+    "PassengerCapacity": 90,
+    "Id": "61b878d9-8954-4468-ac95-fc36d453d140"
+  },
+  {
+    "Model": "Bus_Model_d933",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 21.69,
+    "PassengerCapacity": 29,
+    "Id": "25bab75c-5e8e-41b6-9f9e-e6085206a6bf"
+  },
+  {
+    "Model": "Bus_Model_3945",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 18.17,
+    "PassengerCapacity": 93,
+    "Id": "0f7e5408-ca99-4cd8-899d-3fc4b7b61d77"
+  },
+  {
+    "Model": "Bus_Model_1457",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 17.45,
+    "PassengerCapacity": 77,
+    "Id": "14805f4c-d903-4b87-8798-b8b98443ff1c"
+  },
+  {
+    "Model": "Bus_Model_7bc6",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 16.69,
+    "PassengerCapacity": 87,
+    "Id": "66337ea3-3820-4109-b949-be059bf8cf77"
+  },
+  {
+    "Model": "Bus_Model_14d0",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 21.66,
+    "PassengerCapacity": 86,
+    "Id": "b4b22ec9-c5d0-4d5b-b884-009024b90c85"
+  },
+  {
+    "Model": "Bus_Model_4f6e",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 25.41,
+    "PassengerCapacity": 51,
+    "Id": "5bb79764-933e-4f2e-96a2-bcb2ed929a53"
+  },
+  {
+    "Model": "Bus_Model_10de",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 22.67,
+    "PassengerCapacity": 31,
+    "Id": "a95b08b6-e532-492e-a85e-b43f711beac9"
+  },
+  {
+    "Model": "Bus_Model_dd4c",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 20.82,
+    "PassengerCapacity": 26,
+    "Id": "0dac96ba-a3e5-4890-b1bd-a3ecf42c5da4"
+  },
+  {
+    "Model": "Bus_Model_af83",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 18.48,
+    "PassengerCapacity": 60,
+    "Id": "ac8cfa50-b378-437d-b053-95e48ddc5d73"
+  },
+  {
+    "Model": "Bus_Model_d09c",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.24,
+    "PassengerCapacity": 26,
+    "Id": "7750a1c6-f8c7-43e2-bf57-0defd4cff079"
+  },
+  {
+    "Model": "Bus_Model_8090",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 25.71,
+    "PassengerCapacity": 59,
+    "Id": "3a69d3f0-9e1f-4d7d-8b0e-71f8d00f46df"
+  },
+  {
+    "Model": "Bus_Model_2c6c",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 27.29,
+    "PassengerCapacity": 24,
+    "Id": "b3de9870-4db4-4257-a8bf-5ea83ceae40f"
+  },
+  {
+    "Model": "Bus_Model_9f31",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 21.65,
+    "PassengerCapacity": 33,
+    "Id": "3a693471-d96e-40f9-b429-49e48b26d56b"
+  },
+  {
+    "Model": "Bus_Model_a74c",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 28.4,
+    "PassengerCapacity": 45,
+    "Id": "6120e2a4-5775-48ec-b811-183814bb79e5"
+  },
+  {
+    "Model": "Bus_Model_b5cb",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 26.42,
+    "PassengerCapacity": 69,
+    "Id": "787158da-90df-4a96-ad67-298b9dfe7650"
+  },
+  {
+    "Model": "Bus_Model_4a92",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 18.57,
+    "PassengerCapacity": 84,
+    "Id": "71d7f74f-9896-4589-96f3-7d294252e01b"
+  },
+  {
+    "Model": "Bus_Model_4f94",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 29.13,
+    "PassengerCapacity": 77,
+    "Id": "2aeb80f5-b575-42f6-973f-3d29ee61d094"
+  },
+  {
+    "Model": "Bus_Model_9057",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 23.12,
+    "PassengerCapacity": 44,
+    "Id": "1e9fe765-06ab-4425-839d-ab239450f2a8"
+  },
+  {
+    "Model": "Bus_Model_d5ad",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 28.17,
+    "PassengerCapacity": 77,
+    "Id": "bf8d2983-0e2a-497b-b38d-269aba97fb3b"
+  },
+  {
+    "Model": "Bus_Model_a92f",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 18.16,
+    "PassengerCapacity": 58,
+    "Id": "16ef8f00-1b1d-42cd-98aa-fd05f9f4b7ee"
+  },
+  {
+    "Model": "Bus_Model_56fa",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 29.25,
+    "PassengerCapacity": 35,
+    "Id": "c8320671-0435-46e9-ab7b-70bc963d3b28"
+  },
+  {
+    "Model": "Bus_Model_8f44",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 21.37,
+    "PassengerCapacity": 23,
+    "Id": "e4f0d38a-3ab5-4f4e-8cb2-b75dad2e8acd"
+  },
+  {
+    "Model": "Bus_Model_524e",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.43,
+    "PassengerCapacity": 29,
+    "Id": "5c62caf9-e34e-47dd-b453-593fe6d1a8c6"
+  },
+  {
+    "Model": "Bus_Model_5652",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 17.31,
+    "PassengerCapacity": 99,
+    "Id": "8b9496e0-d3a2-4d6c-96fa-4d64ac7a38c7"
+  },
+  {
+    "Model": "Bus_Model_9f0a",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.03,
+    "PassengerCapacity": 54,
+    "Id": "23bdb4f8-bb1c-4518-85f4-2b3919103438"
+  },
+  {
+    "Model": "Bus_Model_f57f",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 17.42,
+    "PassengerCapacity": 21,
+    "Id": "7ec26c56-17ec-4eea-9a67-e99febd21fbf"
+  },
+  {
+    "Model": "Bus_Model_3810",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 27.9,
+    "PassengerCapacity": 41,
+    "Id": "f2533d8e-e08c-40f6-bdb4-3cef55aeef95"
+  },
+  {
+    "Model": "Bus_Model_825e",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 26.39,
+    "PassengerCapacity": 38,
+    "Id": "be97d8dc-a39b-429e-8481-c3357946f320"
+  },
+  {
+    "Model": "Bus_Model_f756",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 24.22,
+    "PassengerCapacity": 92,
+    "Id": "379149e3-8f76-4e03-abd0-db0882c729b8"
+  },
+  {
+    "Model": "Bus_Model_5155",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 23.66,
+    "PassengerCapacity": 93,
+    "Id": "23561f0d-65e1-4285-86a6-dc61da31109d"
+  },
+  {
+    "Model": "Bus_Model_414c",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 22.54,
+    "PassengerCapacity": 27,
+    "Id": "8a423059-04ed-456a-889d-988b71f113cd"
+  },
+  {
+    "Model": "Bus_Model_a358",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 21.38,
+    "PassengerCapacity": 44,
+    "Id": "bd0375f3-1f63-4408-9d5b-aea1571e9f7c"
+  },
+  {
+    "Model": "Bus_Model_ce11",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 23.73,
+    "PassengerCapacity": 51,
+    "Id": "606c416f-4fce-465f-bb1e-4315388c6c60"
+  },
+  {
+    "Model": "Bus_Model_e2ce",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 16.12,
+    "PassengerCapacity": 74,
+    "Id": "3bc7077b-b89d-4c6c-83be-fb3faaa4c91c"
+  },
+  {
+    "Model": "Bus_Model_816a",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 25.46,
+    "PassengerCapacity": 60,
+    "Id": "98d759d9-b140-47f9-9686-c2d7c4308354"
+  },
+  {
+    "Model": "Bus_Model_0d96",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 22.43,
+    "PassengerCapacity": 60,
+    "Id": "1ccb8ef5-6459-4c02-b7a6-08373c92f592"
+  },
+  {
+    "Model": "Bus_Model_83a0",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 27.89,
+    "PassengerCapacity": 58,
+    "Id": "ccc0c5e9-b710-4745-aca5-ad279e342bb4"
+  },
+  {
+    "Model": "Bus_Model_c5ee",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 27.71,
+    "PassengerCapacity": 88,
+    "Id": "92563481-f623-4702-b568-472c22a2f9a5"
+  },
+  {
+    "Model": "Bus_Model_4561",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 16.26,
+    "PassengerCapacity": 73,
+    "Id": "017603c1-de18-49ae-9136-3f52085f7df6"
+  },
+  {
+    "Model": "Bus_Model_4ee8",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 23.15,
+    "PassengerCapacity": 44,
+    "Id": "6d23833e-b98f-4bb8-9b0e-62309a97965e"
+  },
+  {
+    "Model": "Bus_Model_228f",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 22.33,
+    "PassengerCapacity": 66,
+    "Id": "518295ec-443d-42f2-9460-010a73168d59"
+  },
+  {
+    "Model": "Bus_Model_2124",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 24.91,
+    "PassengerCapacity": 38,
+    "Id": "25ec9266-01bc-465d-8554-332eaf25f56c"
+  },
+  {
+    "Model": "Bus_Model_c452",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 19.36,
+    "PassengerCapacity": 50,
+    "Id": "3200b74f-ef35-4e28-888c-3f0b4a547ba7"
+  },
+  {
+    "Model": "Bus_Model_d66b",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 28.26,
+    "PassengerCapacity": 86,
+    "Id": "5a0e01f5-96af-4fcc-9b0e-8434b995b971"
+  },
+  {
+    "Model": "Bus_Model_96ec",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 18.36,
+    "PassengerCapacity": 69,
+    "Id": "0d0a6e20-a038-4b89-884a-100259fbe70f"
+  },
+  {
+    "Model": "Bus_Model_6c22",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 28.09,
+    "PassengerCapacity": 68,
+    "Id": "dfacf42e-6d7c-45fa-ab83-3e9b1449d233"
+  },
+  {
+    "Model": "Bus_Model_9b60",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 19.76,
+    "PassengerCapacity": 75,
+    "Id": "43c6e020-2bbe-42eb-8824-dd9740c44e7b"
+  },
+  {
+    "Model": "Bus_Model_2073",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 28.48,
+    "PassengerCapacity": 23,
+    "Id": "872f8025-e10b-464c-8c03-28a948dc418b"
+  },
+  {
+    "Model": "Bus_Model_5ea1",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 18.49,
+    "PassengerCapacity": 53,
+    "Id": "4837a039-b708-4249-9c16-03412c6290d1"
+  },
+  {
+    "Model": "Bus_Model_6d70",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 19.5,
+    "PassengerCapacity": 82,
+    "Id": "c92f517b-26b3-4f9e-830a-49743a5ca498"
+  },
+  {
+    "Model": "Bus_Model_6355",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 22.59,
+    "PassengerCapacity": 76,
+    "Id": "4f9d992a-6055-4bb9-98da-320b8cc235cb"
+  },
+  {
+    "Model": "Bus_Model_8dbb",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 29.63,
+    "PassengerCapacity": 86,
+    "Id": "3d62a983-2f4c-48ef-b37f-1e6404fac1a5"
+  },
+  {
+    "Model": "Bus_Model_3e9d",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 29.08,
+    "PassengerCapacity": 33,
+    "Id": "a07963f2-9985-45d7-9bcb-09d133f55bb8"
+  },
+  {
+    "Model": "Bus_Model_93ff",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 22.95,
+    "PassengerCapacity": 77,
+    "Id": "15acd53e-23c8-4e60-9c47-a59ea05a46d2"
+  },
+  {
+    "Model": "Bus_Model_eea2",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 17.04,
+    "PassengerCapacity": 43,
+    "Id": "e4f5ef75-f57c-4e50-b27c-0fc32b910a4f"
+  },
+  {
+    "Model": "Bus_Model_e49e",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 18.61,
+    "PassengerCapacity": 94,
+    "Id": "60ade2e1-2b39-40fe-8c45-a35789bfdf84"
+  },
+  {
+    "Model": "Bus_Model_aac1",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 26.06,
+    "PassengerCapacity": 99,
+    "Id": "e2de3217-cca0-4247-8952-567e23ddc3f5"
+  },
+  {
+    "Model": "Bus_Model_a13c",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 15.57,
+    "PassengerCapacity": 73,
+    "Id": "982d01d2-ceff-4b92-a757-943ab5527b01"
+  },
+  {
+    "Model": "Bus_Model_3ab5",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 17.11,
+    "PassengerCapacity": 80,
+    "Id": "7a36968a-028d-458e-98a4-1c7b0b1ad9b7"
+  },
+  {
+    "Model": "Bus_Model_bfd4",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 25.82,
+    "PassengerCapacity": 60,
+    "Id": "135265ce-d328-4de1-aee1-e77539f9a275"
+  },
+  {
+    "Model": "Bus_Model_03a6",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 23.82,
+    "PassengerCapacity": 94,
+    "Id": "cf0660e7-c99a-49c3-be1c-ec48872c909d"
+  },
+  {
+    "Model": "Bus_Model_d7c2",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 23.02,
+    "PassengerCapacity": 37,
+    "Id": "bfbf224c-c64e-4e30-a6bc-6210af1ada8f"
+  },
+  {
+    "Model": "Bus_Model_17c8",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 27.68,
+    "PassengerCapacity": 66,
+    "Id": "46c68214-96aa-467a-92a1-ffd8d16315be"
+  },
+  {
+    "Model": "Bus_Model_d1c7",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 28.49,
+    "PassengerCapacity": 45,
+    "Id": "9dbfe8a6-c811-4182-8083-acbf5a37274e"
+  },
+  {
+    "Model": "Bus_Model_7a43",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 29.49,
+    "PassengerCapacity": 78,
+    "Id": "99607ce7-c772-423d-ad0a-92708f82fca3"
+  },
+  {
+    "Model": "Bus_Model_32c0",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 26.79,
+    "PassengerCapacity": 62,
+    "Id": "7bef5b5a-9986-44ff-a6b9-fece376931bf"
+  },
+  {
+    "Model": "Bus_Model_9136",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 29.71,
+    "PassengerCapacity": 20,
+    "Id": "45d2ff1b-03a1-48d0-8147-79db0998d2fe"
+  },
+  {
+    "Model": "Bus_Model_0ad9",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 25.54,
+    "PassengerCapacity": 90,
+    "Id": "00ffd90a-8dd2-4919-86c3-5d00697c653a"
+  },
+  {
+    "Model": "Bus_Model_fbbf",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 27.36,
+    "PassengerCapacity": 35,
+    "Id": "385e2720-5ab1-49a3-853f-f40d19e219d3"
+  },
+  {
+    "Model": "Bus_Model_ccf2",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 26.83,
+    "PassengerCapacity": 99,
+    "Id": "e53bea84-6a86-4f4b-9c39-9ac911bd843a"
+  },
+  {
+    "Model": "Bus_Model_c7d7",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 20.89,
+    "PassengerCapacity": 44,
+    "Id": "d293910f-8582-4a33-96ac-30aa5eb05bf5"
+  },
+  {
+    "Model": "Bus_Model_fecd",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 26.16,
+    "PassengerCapacity": 70,
+    "Id": "94d2517f-4199-49c6-b65f-483a56bc20df"
+  },
+  {
+    "Model": "Bus_Model_2d0f",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 23.26,
+    "PassengerCapacity": 89,
+    "Id": "04bed475-fbc6-47f0-9ba1-b2571352799f"
+  },
+  {
+    "Model": "Bus_Model_9ffd",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.37,
+    "PassengerCapacity": 41,
+    "Id": "a6571f6c-a1b4-4bce-bfcb-78706e257f30"
+  },
+  {
+    "Model": "Bus_Model_ad13",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 16.17,
+    "PassengerCapacity": 44,
+    "Id": "38f776e1-9306-48a7-a185-c7b683618fe2"
+  },
+  {
+    "Model": "Bus_Model_2cf6",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 16.86,
+    "PassengerCapacity": 95,
+    "Id": "373b0c07-9592-4548-8ab6-2062d4dfb83d"
+  },
+  {
+    "Model": "Bus_Model_0d48",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 28.49,
+    "PassengerCapacity": 42,
+    "Id": "91e02d75-1c05-416b-acf4-ef3b6e1d7388"
+  },
+  {
+    "Model": "Bus_Model_0965",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 27.87,
+    "PassengerCapacity": 73,
+    "Id": "128fac7d-943d-4d14-aac2-9403774f0432"
+  },
+  {
+    "Model": "Bus_Model_0ee0",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 20.11,
+    "PassengerCapacity": 60,
+    "Id": "42d98c81-6819-441f-8910-f26befda7997"
+  },
+  {
+    "Model": "Bus_Model_2631",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 16.79,
+    "PassengerCapacity": 48,
+    "Id": "1c5eb710-d738-42a7-8eb7-08e1b582651e"
+  },
+  {
+    "Model": "Bus_Model_7292",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 24.16,
+    "PassengerCapacity": 34,
+    "Id": "51b33892-ec8c-468a-979b-d725987e732c"
+  },
+  {
+    "Model": "Bus_Model_f494",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 19.39,
+    "PassengerCapacity": 43,
+    "Id": "fccdc195-f835-44f2-a664-e0fce861e6e4"
+  },
+  {
+    "Model": "Bus_Model_1d70",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 24.96,
+    "PassengerCapacity": 82,
+    "Id": "08646c71-97eb-4b82-9bee-a841b9be9443"
+  },
+  {
+    "Model": "Bus_Model_9adb",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 22.3,
+    "PassengerCapacity": 44,
+    "Id": "0db432c8-b32e-4ec9-b5da-8c362f1431e2"
+  },
+  {
+    "Model": "Bus_Model_c82b",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 26.45,
+    "PassengerCapacity": 57,
+    "Id": "8b192bae-6420-45b0-9fe2-6f04d2124de6"
+  },
+  {
+    "Model": "Bus_Model_12fc",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 16.17,
+    "PassengerCapacity": 25,
+    "Id": "bd0c89d2-6ca0-4be9-bb1f-91d42713c601"
+  },
+  {
+    "Model": "Bus_Model_838c",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 20.35,
+    "PassengerCapacity": 69,
+    "Id": "cb39451a-82cd-4f4e-bc58-fd510f1e2277"
+  },
+  {
+    "Model": "Bus_Model_6ea2",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 20.5,
+    "PassengerCapacity": 78,
+    "Id": "d4e779b4-bca1-41e5-ad9d-fb0ef330dced"
+  },
+  {
+    "Model": "Bus_Model_5def",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 19.84,
+    "PassengerCapacity": 23,
+    "Id": "1fba8493-244c-45c8-98d3-67da0ff2a365"
+  },
+  {
+    "Model": "Bus_Model_b9bd",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 19.54,
+    "PassengerCapacity": 69,
+    "Id": "70077ad5-8f5f-4e99-98bc-19de0d4d3f70"
+  },
+  {
+    "Model": "Bus_Model_b37b",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 15.4,
+    "PassengerCapacity": 96,
+    "Id": "eb6df187-f58a-4409-8a7c-7757e72b8b4e"
+  },
+  {
+    "Model": "Bus_Model_1431",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 21.3,
+    "PassengerCapacity": 83,
+    "Id": "111cd190-98ac-483b-b617-245896eae6ea"
+  },
+  {
+    "Model": "Bus_Model_a227",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 20.87,
+    "PassengerCapacity": 73,
+    "Id": "8ca6bf38-88f6-445b-b8fa-ce5f16cc5ac8"
+  },
+  {
+    "Model": "Bus_Model_15d1",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 22.68,
+    "PassengerCapacity": 35,
+    "Id": "09564b80-8a29-4f3a-81dc-57d1deecd857"
+  },
+  {
+    "Model": "Bus_Model_f2d3",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 20.16,
+    "PassengerCapacity": 89,
+    "Id": "87f3d02f-d169-4538-ac7a-732ec7fe8e24"
+  },
+  {
+    "Model": "Bus_Model_1c6b",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 29.18,
+    "PassengerCapacity": 94,
+    "Id": "f249e689-7f9f-47ce-93e9-2db2a07afa46"
+  },
+  {
+    "Model": "Bus_Model_f976",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 16.15,
+    "PassengerCapacity": 71,
+    "Id": "ac44aa40-dcbe-4434-94a1-fb7d7a924f78"
+  },
+  {
+    "Model": "Bus_Model_9c53",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 24.75,
+    "PassengerCapacity": 91,
+    "Id": "26b939c0-b9e4-4934-9060-a99c8dfa0eaa"
+  },
+  {
+    "Model": "Bus_Model_807f",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 24.19,
+    "PassengerCapacity": 87,
+    "Id": "23526da5-ffce-46ae-a791-3a8134a76320"
+  },
+  {
+    "Model": "Bus_Model_3a84",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.52,
+    "PassengerCapacity": 83,
+    "Id": "b7c1b9e0-df26-416c-bdf0-c75fc86bfc46"
+  },
+  {
+    "Model": "Bus_Model_ca67",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 26.51,
+    "PassengerCapacity": 97,
+    "Id": "e37789ea-c5bc-4be0-89d8-f1c86b2e8872"
+  },
+  {
+    "Model": "Bus_Model_b80a",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 23.62,
+    "PassengerCapacity": 93,
+    "Id": "416da686-26b9-4fef-ad47-daca7099b850"
+  },
+  {
+    "Model": "Bus_Model_9877",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 23.02,
+    "PassengerCapacity": 69,
+    "Id": "f3be3470-af4c-4515-9ee3-38041ea2621d"
+  },
+  {
+    "Model": "Bus_Model_f791",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 24.1,
+    "PassengerCapacity": 27,
+    "Id": "1fae3ec4-ab5a-4af3-b9d1-d4ddc62a3227"
+  },
+  {
+    "Model": "Bus_Model_7c22",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 28.05,
+    "PassengerCapacity": 21,
+    "Id": "e0001370-0ccd-4091-9621-7fa744b71666"
+  },
+  {
+    "Model": "Bus_Model_3628",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 17.39,
+    "PassengerCapacity": 40,
+    "Id": "c9cdc76e-ba48-436f-9d3a-455e21acb778"
+  },
+  {
+    "Model": "Bus_Model_6d83",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 17.46,
+    "PassengerCapacity": 35,
+    "Id": "14ebe217-78ad-424c-b1cc-b01150efe8ea"
+  },
+  {
+    "Model": "Bus_Model_78b3",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 27.73,
+    "PassengerCapacity": 64,
+    "Id": "5380dc58-fbda-4f19-a6e5-655ede60d6a7"
+  },
+  {
+    "Model": "Bus_Model_cc5c",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 22.06,
+    "PassengerCapacity": 78,
+    "Id": "29060f38-d7fe-470c-af93-7f4eee0fdd12"
+  },
+  {
+    "Model": "Bus_Model_94d4",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 24.17,
+    "PassengerCapacity": 42,
+    "Id": "9b71689a-0997-4412-aa4f-2a26f55cd7a4"
+  },
+  {
+    "Model": "Bus_Model_c312",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 15.95,
+    "PassengerCapacity": 60,
+    "Id": "9b2015ec-a1e6-4b5a-8874-9da1db4c2c3c"
+  },
+  {
+    "Model": "Bus_Model_f81f",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 18.11,
+    "PassengerCapacity": 90,
+    "Id": "394b7a02-d407-4a45-b954-124f0b85ed98"
+  },
+  {
+    "Model": "Bus_Model_f1e5",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 28.37,
+    "PassengerCapacity": 98,
+    "Id": "e3aa36fa-b622-431c-8651-6e7e831337b7"
+  },
+  {
+    "Model": "Bus_Model_11c5",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 28.72,
+    "PassengerCapacity": 20,
+    "Id": "5e98eb9b-a328-4c78-9202-ede39a67b85c"
+  },
+  {
+    "Model": "Bus_Model_dda1",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 29.02,
+    "PassengerCapacity": 29,
+    "Id": "d47e5100-e0de-4493-b574-0d9f0b6ac4ea"
+  },
+  {
+    "Model": "Bus_Model_3f2d",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 26.12,
+    "PassengerCapacity": 39,
+    "Id": "e203d2a7-665e-4be9-b096-b6908c345440"
+  },
+  {
+    "Model": "Bus_Model_7cd6",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 26.14,
+    "PassengerCapacity": 85,
+    "Id": "301d2259-7b7d-458c-a0f0-4dd1f2c22834"
+  },
+  {
+    "Model": "Bus_Model_db69",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 24.26,
+    "PassengerCapacity": 80,
+    "Id": "93985fef-e340-44a6-8d07-5698b9bb335b"
+  },
+  {
+    "Model": "Bus_Model_84a8",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 18.47,
+    "PassengerCapacity": 48,
+    "Id": "15bbf9c7-5304-4a9d-8408-83c8c0eee5fe"
+  },
+  {
+    "Model": "Bus_Model_0ac6",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 25.3,
+    "PassengerCapacity": 65,
+    "Id": "6dea30aa-f598-489e-9a5e-40ebadf95917"
+  },
+  {
+    "Model": "Bus_Model_0b9a",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 19.85,
+    "PassengerCapacity": 37,
+    "Id": "17b73a17-5fb0-4dce-aa5a-9af74e4cd439"
+  },
+  {
+    "Model": "Bus_Model_7f81",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 27.7,
+    "PassengerCapacity": 70,
+    "Id": "a97955f6-d3b5-437b-8c36-c96f0de52fd7"
+  },
+  {
+    "Model": "Bus_Model_9a4d",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 22.89,
+    "PassengerCapacity": 88,
+    "Id": "3d3cd65d-e32c-4411-84a5-dadaf970abf0"
+  },
+  {
+    "Model": "Bus_Model_d890",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 26.65,
+    "PassengerCapacity": 47,
+    "Id": "ccca0f95-d4f9-463f-afdf-44821740217c"
+  },
+  {
+    "Model": "Bus_Model_2ba6",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 29.23,
+    "PassengerCapacity": 97,
+    "Id": "6fe4a2bd-0bea-44b4-9f6b-371bb44c0081"
+  },
+  {
+    "Model": "Bus_Model_e102",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 27.53,
+    "PassengerCapacity": 78,
+    "Id": "de1004be-7d82-4639-bbf5-cb0d9942d0bb"
+  },
+  {
+    "Model": "Bus_Model_9bac",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 27.01,
+    "PassengerCapacity": 70,
+    "Id": "7d879c8b-443d-4673-ba87-ca1104521616"
+  },
+  {
+    "Model": "Bus_Model_b53a",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 24.09,
+    "PassengerCapacity": 77,
+    "Id": "df2399b6-9c33-4263-b8ed-0bbdc3a5c158"
+  },
+  {
+    "Model": "Bus_Model_0508",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 16.47,
+    "PassengerCapacity": 85,
+    "Id": "65a42426-83b8-416a-bd22-05b53f445568"
+  },
+  {
+    "Model": "Bus_Model_2150",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 19.78,
+    "PassengerCapacity": 79,
+    "Id": "21139d5c-3993-47d9-87ad-4d262e011629"
+  },
+  {
+    "Model": "Bus_Model_38b0",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 17.24,
+    "PassengerCapacity": 98,
+    "Id": "cfb69936-566b-47f8-8474-45007ccd6dbb"
+  },
+  {
+    "Model": "Bus_Model_3d11",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 28.22,
+    "PassengerCapacity": 20,
+    "Id": "9eea8ac7-73d9-4afd-9e5e-95237bda9bf0"
+  },
+  {
+    "Model": "Bus_Model_cc0c",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 18.41,
+    "PassengerCapacity": 22,
+    "Id": "1c7abf09-77dd-4d25-8bfd-67da417a2cab"
+  },
+  {
+    "Model": "Bus_Model_9117",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 15.89,
+    "PassengerCapacity": 50,
+    "Id": "055b63a2-ca57-4398-b180-71664395a282"
+  },
+  {
+    "Model": "Bus_Model_c2ca",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 23.2,
+    "PassengerCapacity": 41,
+    "Id": "4c36c513-6b95-4359-a6f3-76ce1fa3b629"
+  },
+  {
+    "Model": "Bus_Model_4b2b",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 28.57,
+    "PassengerCapacity": 28,
+    "Id": "a911cbfb-0279-4cb0-a9ed-61577b31eaa0"
+  },
+  {
+    "Model": "Bus_Model_25ac",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 23.23,
+    "PassengerCapacity": 30,
+    "Id": "439163fb-5389-40cb-8c92-408a679a82b8"
+  },
+  {
+    "Model": "Bus_Model_dba8",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 27.85,
+    "PassengerCapacity": 27,
+    "Id": "f766621e-49fe-422c-9094-6d395c30ef35"
+  },
+  {
+    "Model": "Bus_Model_2509",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 24.19,
+    "PassengerCapacity": 50,
+    "Id": "9bdd0277-d98f-4261-b203-45a64f17db46"
+  },
+  {
+    "Model": "Bus_Model_4def",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 24.19,
+    "PassengerCapacity": 46,
+    "Id": "66db5185-b027-49f1-b546-b77eb4754f14"
+  },
+  {
+    "Model": "Bus_Model_4265",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 25.04,
+    "PassengerCapacity": 31,
+    "Id": "5e874dc2-22e6-4a6f-a94b-202dedb30f2a"
+  },
+  {
+    "Model": "Bus_Model_bd3e",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 29.35,
+    "PassengerCapacity": 29,
+    "Id": "67793fa5-5eae-4be1-a258-bad69ad68e39"
+  },
+  {
+    "Model": "Bus_Model_33a1",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 24.54,
+    "PassengerCapacity": 39,
+    "Id": "e74b1c94-bbb6-4de5-a717-70e694039e44"
+  },
+  {
+    "Model": "Bus_Model_1cf6",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 20.78,
+    "PassengerCapacity": 90,
+    "Id": "b89429db-fd00-44c1-8edf-1b672be3dcc7"
+  },
+  {
+    "Model": "Bus_Model_3261",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 16.97,
+    "PassengerCapacity": 89,
+    "Id": "5eac5ae2-8f2d-412a-ac87-e8d21cc13f6e"
+  },
+  {
+    "Model": "Bus_Model_7011",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 17.12,
+    "PassengerCapacity": 44,
+    "Id": "77a6c600-e699-4425-84e4-5c910c16f8f0"
+  },
+  {
+    "Model": "Bus_Model_ce54",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 26.57,
+    "PassengerCapacity": 20,
+    "Id": "ea0da5d7-ae63-4361-8545-94d3b7007f98"
+  },
+  {
+    "Model": "Bus_Model_36b0",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 26.8,
+    "PassengerCapacity": 70,
+    "Id": "d06d43e6-133c-4bd9-b725-0e855ba6a45c"
+  },
+  {
+    "Model": "Bus_Model_84cc",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 25.03,
+    "PassengerCapacity": 51,
+    "Id": "2d98e33d-43df-4281-ac7f-325555cddc06"
+  },
+  {
+    "Model": "Bus_Model_b594",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 17.96,
+    "PassengerCapacity": 87,
+    "Id": "2507b96d-f55a-4a86-9076-8dd688ab6b2d"
+  },
+  {
+    "Model": "Bus_Model_0722",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 26.9,
+    "PassengerCapacity": 95,
+    "Id": "88f65e63-65e0-4556-805b-8f2fd6f84e4d"
+  },
+  {
+    "Model": "Bus_Model_0bef",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 17.91,
+    "PassengerCapacity": 85,
+    "Id": "e3cef276-9fb5-419c-9b80-cd7ed483ee28"
+  },
+  {
+    "Model": "Bus_Model_5b04",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 26.95,
+    "PassengerCapacity": 92,
+    "Id": "7c5bf54c-67ce-4195-b6e7-f9fcff2883e9"
+  },
+  {
+    "Model": "Bus_Model_48ca",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 16.52,
+    "PassengerCapacity": 27,
+    "Id": "4e3eabee-56a0-4aaa-a66d-d1ff4535c1b5"
+  },
+  {
+    "Model": "Bus_Model_f4a2",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 24.59,
+    "PassengerCapacity": 28,
+    "Id": "01eb9d4c-fb3e-45ef-9279-b89c91df4607"
+  },
+  {
+    "Model": "Bus_Model_b6bb",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 17.82,
+    "PassengerCapacity": 99,
+    "Id": "48e3520b-d817-4fde-b5f5-5cb7721140f9"
+  },
+  {
+    "Model": "Bus_Model_eac8",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 21.46,
+    "PassengerCapacity": 58,
+    "Id": "31f1c539-27da-46ae-85e4-d75be322e970"
+  },
+  {
+    "Model": "Bus_Model_ad77",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 25.89,
+    "PassengerCapacity": 40,
+    "Id": "664665a1-9a56-47fb-92ae-9349c473c829"
+  },
+  {
+    "Model": "Bus_Model_da59",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 24.71,
+    "PassengerCapacity": 60,
+    "Id": "43d11246-e14f-4a04-b8ac-53b29b25abc4"
+  },
+  {
+    "Model": "Bus_Model_dc0c",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 23.77,
+    "PassengerCapacity": 20,
+    "Id": "c0092d3c-f030-48b5-a072-c04c1b57a8e8"
+  },
+  {
+    "Model": "Bus_Model_694f",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 27.42,
+    "PassengerCapacity": 84,
+    "Id": "67a24d1e-cbd5-493b-ad53-6a65efcc0f12"
+  },
+  {
+    "Model": "Bus_Model_02d1",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 15.23,
+    "PassengerCapacity": 88,
+    "Id": "3a14e4ff-632a-438e-af77-aa46b3e81075"
+  },
+  {
+    "Model": "Bus_Model_7500",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 27.47,
+    "PassengerCapacity": 49,
+    "Id": "38e01add-51d4-47e6-bc4b-44ea3ac3e76a"
+  },
+  {
+    "Model": "Bus_Model_bfaa",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 18.49,
+    "PassengerCapacity": 89,
+    "Id": "30642a41-0098-41ed-8356-904e223520d2"
+  },
+  {
+    "Model": "Bus_Model_e6e9",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.51,
+    "PassengerCapacity": 80,
+    "Id": "05b00303-fb39-4e9e-a44b-b71084c03909"
+  },
+  {
+    "Model": "Bus_Model_c985",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 25.18,
+    "PassengerCapacity": 80,
+    "Id": "94db233e-cba6-42bd-99b3-0acba946a183"
+  },
+  {
+    "Model": "Bus_Model_3a61",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.8,
+    "PassengerCapacity": 39,
+    "Id": "d0c41ac9-0868-44be-92ea-8676b0f5fcfb"
+  },
+  {
+    "Model": "Bus_Model_171a",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 15.9,
+    "PassengerCapacity": 83,
+    "Id": "4da444a1-2cd6-42cf-967f-329263b7ba68"
+  },
+  {
+    "Model": "Bus_Model_b5fb",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 23.27,
+    "PassengerCapacity": 58,
+    "Id": "9da0787a-8690-4119-9371-1a0643e7b166"
+  },
+  {
+    "Model": "Bus_Model_16e0",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 25.12,
+    "PassengerCapacity": 22,
+    "Id": "7911b1fc-f569-452d-8323-a3c6d30e8b3d"
+  },
+  {
+    "Model": "Bus_Model_b3e0",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 15.43,
+    "PassengerCapacity": 72,
+    "Id": "7d0d1371-cf62-40d5-9808-b1f3d83c9e99"
+  },
+  {
+    "Model": "Bus_Model_2a90",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 19.69,
+    "PassengerCapacity": 61,
+    "Id": "1daef771-13ee-4d68-a74d-1bb77016e58d"
+  },
+  {
+    "Model": "Bus_Model_67b8",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 27.97,
+    "PassengerCapacity": 38,
+    "Id": "5aa9a6d3-f5de-4e0b-acb9-58db4353b811"
+  },
+  {
+    "Model": "Bus_Model_bcdb",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 24.33,
+    "PassengerCapacity": 93,
+    "Id": "9a77794f-0e34-4cd5-a000-5c3c7f38f538"
+  },
+  {
+    "Model": "Bus_Model_c20b",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 23.21,
+    "PassengerCapacity": 60,
+    "Id": "0ad30aea-e96a-41ba-9a13-38e483722357"
+  },
+  {
+    "Model": "Bus_Model_1344",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 21.98,
+    "PassengerCapacity": 78,
+    "Id": "8a1642fa-04e1-4d47-92dc-ad6f953f0388"
+  },
+  {
+    "Model": "Bus_Model_cab8",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 24.11,
+    "PassengerCapacity": 54,
+    "Id": "f9b4099f-28cb-4a1e-878b-770bd1b6ee9a"
+  },
+  {
+    "Model": "Bus_Model_230b",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 27.61,
+    "PassengerCapacity": 56,
+    "Id": "ea798f89-4ada-43de-a743-77422cc12b60"
+  },
+  {
+    "Model": "Bus_Model_3e58",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 26.4,
+    "PassengerCapacity": 41,
+    "Id": "0678117a-9824-439c-8873-36e73ba2a89e"
+  },
+  {
+    "Model": "Bus_Model_2e73",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 26,
+    "PassengerCapacity": 88,
+    "Id": "e29afcb0-accf-4ab5-a923-f8c66b36a275"
+  },
+  {
+    "Model": "Bus_Model_88bd",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 21.79,
+    "PassengerCapacity": 81,
+    "Id": "e48cc9d2-0e79-4f08-af2b-e41eefa3e5ca"
+  },
+  {
+    "Model": "Bus_Model_4a41",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.52,
+    "PassengerCapacity": 39,
+    "Id": "a28dba1d-e299-4c8f-a688-5174999a2642"
+  },
+  {
+    "Model": "Bus_Model_5786",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 20.41,
+    "PassengerCapacity": 85,
+    "Id": "c5ac584f-83a6-4271-a55d-9dbcec222561"
+  },
+  {
+    "Model": "Bus_Model_0abc",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 17.72,
+    "PassengerCapacity": 94,
+    "Id": "40c2be80-c917-4d06-81b3-1926442dcb9f"
+  },
+  {
+    "Model": "Bus_Model_50e7",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 21.46,
+    "PassengerCapacity": 49,
+    "Id": "df76a463-a2b6-495f-aa8a-ecfea9585b29"
+  },
+  {
+    "Model": "Bus_Model_ddff",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 23.51,
+    "PassengerCapacity": 51,
+    "Id": "9ccf6593-191f-42d0-b81d-5ac0646ed84b"
+  },
+  {
+    "Model": "Bus_Model_af4f",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 24.75,
+    "PassengerCapacity": 36,
+    "Id": "1d049cdf-43f9-458d-b3e0-d08944438837"
+  },
+  {
+    "Model": "Bus_Model_32f9",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 21.13,
+    "PassengerCapacity": 65,
+    "Id": "2a98fd86-21bd-4a83-a11c-8bf7341cd55b"
+  },
+  {
+    "Model": "Bus_Model_7ebc",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 18.46,
+    "PassengerCapacity": 39,
+    "Id": "3e180d13-fb00-4e4c-afdf-8f58a5dbeed9"
+  },
+  {
+    "Model": "Bus_Model_5c8c",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 19.74,
+    "PassengerCapacity": 97,
+    "Id": "0ae6941f-055a-4ecf-a894-50b23707deee"
+  },
+  {
+    "Model": "Bus_Model_4965",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 26.85,
+    "PassengerCapacity": 99,
+    "Id": "4c12d28b-d4fa-4e31-94e9-dc61c81de0fa"
+  },
+  {
+    "Model": "Bus_Model_2f3a",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 17.51,
+    "PassengerCapacity": 60,
+    "Id": "9873e51c-08bc-4c8c-898a-4f024d57b51f"
+  },
+  {
+    "Model": "Bus_Model_4259",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 23.68,
+    "PassengerCapacity": 89,
+    "Id": "ea13a23d-d26a-4270-bfba-8b109eaa97df"
+  },
+  {
+    "Model": "Bus_Model_c933",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 15.57,
+    "PassengerCapacity": 22,
+    "Id": "be3bed5f-3103-46ed-b680-540f79569631"
+  },
+  {
+    "Model": "Bus_Model_8a8f",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 16.47,
+    "PassengerCapacity": 97,
+    "Id": "79ac0ac7-a466-4dba-ae49-aeda6b441f54"
+  },
+  {
+    "Model": "Bus_Model_d4e1",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 15.05,
+    "PassengerCapacity": 77,
+    "Id": "ea541baf-829a-42f6-9b7b-585d561654c0"
+  },
+  {
+    "Model": "Bus_Model_06f8",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 26.17,
+    "PassengerCapacity": 72,
+    "Id": "d6d34298-69ae-4f08-8dc6-d95f496d6ac8"
+  },
+  {
+    "Model": "Bus_Model_0aca",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 19.19,
+    "PassengerCapacity": 59,
+    "Id": "453ed937-89eb-405c-9de5-d117c146bdf5"
+  },
+  {
+    "Model": "Bus_Model_6f67",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 20.33,
+    "PassengerCapacity": 35,
+    "Id": "1c543df5-2009-48e8-8560-d0e89712f27a"
+  },
+  {
+    "Model": "Bus_Model_7590",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 27.65,
+    "PassengerCapacity": 25,
+    "Id": "45a70c95-e652-4ec2-8e57-bb102edfb5e9"
+  },
+  {
+    "Model": "Bus_Model_95d1",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 20.15,
+    "PassengerCapacity": 87,
+    "Id": "a370b3d3-3402-4de6-9585-e30b23461b39"
+  },
+  {
+    "Model": "Bus_Model_7842",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 23.22,
+    "PassengerCapacity": 42,
+    "Id": "5ae2647f-f3aa-42ed-8afa-7e64839d2d27"
+  },
+  {
+    "Model": "Bus_Model_8435",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 24.66,
+    "PassengerCapacity": 57,
+    "Id": "7f8a84f0-94ea-4b9b-bb1d-59bef70bc787"
+  },
+  {
+    "Model": "Bus_Model_5111",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 28.46,
+    "PassengerCapacity": 42,
+    "Id": "84297155-a15e-487e-9a46-f22269469d31"
+  },
+  {
+    "Model": "Bus_Model_3a70",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 20.29,
+    "PassengerCapacity": 55,
+    "Id": "0eb14af4-a797-4076-a1a2-76c50a69f7c8"
+  },
+  {
+    "Model": "Bus_Model_912a",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 15.68,
+    "PassengerCapacity": 91,
+    "Id": "a3d4b545-3c05-404b-9ae1-026fabc5473d"
+  },
+  {
+    "Model": "Bus_Model_b7a9",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 21.8,
+    "PassengerCapacity": 45,
+    "Id": "f8eb2535-3500-4c5d-b027-d3443953137e"
+  },
+  {
+    "Model": "Bus_Model_8296",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 17.96,
+    "PassengerCapacity": 39,
+    "Id": "cbd7add6-bf53-4144-89e4-bd344dc963af"
+  },
+  {
+    "Model": "Bus_Model_4453",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 22.82,
+    "PassengerCapacity": 89,
+    "Id": "d8959ecf-d850-4a20-837b-29cbd528be0d"
+  },
+  {
+    "Model": "Bus_Model_41f4",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 23.86,
+    "PassengerCapacity": 68,
+    "Id": "6c383095-1960-4818-ad2f-7c84e2bc5697"
+  },
+  {
+    "Model": "Bus_Model_6276",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 23.49,
+    "PassengerCapacity": 34,
+    "Id": "f1d30b8b-889c-42b6-991d-47a27dfb86c7"
+  },
+  {
+    "Model": "Bus_Model_fa4e",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 21.82,
+    "PassengerCapacity": 79,
+    "Id": "af768fdb-7178-4f2d-89e6-b55b45aa9c04"
+  },
+  {
+    "Model": "Bus_Model_70d7",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 21.61,
+    "PassengerCapacity": 52,
+    "Id": "26a8a02e-1d97-450f-9f42-2601c91f01e4"
+  },
+  {
+    "Model": "Bus_Model_2baf",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 17.79,
+    "PassengerCapacity": 49,
+    "Id": "b00dc122-b56c-43f9-92e6-f2a77cf78065"
+  },
+  {
+    "Model": "Bus_Model_bda3",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 27.77,
+    "PassengerCapacity": 99,
+    "Id": "e39caed5-822d-4210-a8f4-4a31527acfa2"
+  },
+  {
+    "Model": "Bus_Model_98f5",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 28.72,
+    "PassengerCapacity": 21,
+    "Id": "732d09f1-8fe5-4263-899e-3ca6cd048eb9"
+  },
+  {
+    "Model": "Bus_Model_5ec1",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 22.99,
+    "PassengerCapacity": 20,
+    "Id": "6920264a-ac43-4415-ba46-4c7c37f1ca65"
+  },
+  {
+    "Model": "Bus_Model_cb3f",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 22.24,
+    "PassengerCapacity": 25,
+    "Id": "1362015c-4660-47ac-8ef3-94aff57760db"
+  },
+  {
+    "Model": "Bus_Model_2a23",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 20.54,
+    "PassengerCapacity": 71,
+    "Id": "ebb60bdb-23dd-46c8-9d73-600dfc4f4c1f"
+  },
+  {
+    "Model": "Bus_Model_eb46",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 26.01,
+    "PassengerCapacity": 27,
+    "Id": "09462af2-4cdd-4f8d-8ece-e9b1073ed0fd"
+  },
+  {
+    "Model": "Bus_Model_8e49",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 18.7,
+    "PassengerCapacity": 44,
+    "Id": "0cf6d9d8-38bf-4713-86e1-5ce228d4f134"
+  },
+  {
+    "Model": "Bus_Model_ba8c",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 24.59,
+    "PassengerCapacity": 89,
+    "Id": "c628876a-5a42-4224-bb75-04e094c7b2aa"
+  },
+  {
+    "Model": "Bus_Model_e272",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 28.84,
+    "PassengerCapacity": 38,
+    "Id": "21bf2435-ccf7-4ba5-87a3-91b6149b7d3d"
+  },
+  {
+    "Model": "Bus_Model_09eb",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 26.42,
+    "PassengerCapacity": 47,
+    "Id": "a658d3d8-f1f8-4aa8-9227-568c54dae7ad"
+  },
+  {
+    "Model": "Bus_Model_b76e",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 20.54,
+    "PassengerCapacity": 26,
+    "Id": "7eee2e66-5c1c-4015-8263-4a96e86a4468"
+  },
+  {
+    "Model": "Bus_Model_aaa5",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 29.28,
+    "PassengerCapacity": 64,
+    "Id": "8bd9289c-d3f6-4804-949c-455e2340ead0"
+  },
+  {
+    "Model": "Bus_Model_71eb",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 26.54,
+    "PassengerCapacity": 56,
+    "Id": "fc7bb507-92be-4a8e-9580-0325eb8868df"
+  },
+  {
+    "Model": "Bus_Model_0030",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 25.82,
+    "PassengerCapacity": 79,
+    "Id": "1796d3b3-20b4-464f-b50a-77a04f025967"
+  },
+  {
+    "Model": "Bus_Model_b2bd",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 21.75,
+    "PassengerCapacity": 42,
+    "Id": "d3d76faf-0f53-4250-8e59-876418772aa1"
+  },
+  {
+    "Model": "Bus_Model_63a6",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 15.3,
+    "PassengerCapacity": 43,
+    "Id": "2e1935d8-ad10-4034-80d8-27cd7a7df429"
+  },
+  {
+    "Model": "Bus_Model_a8b0",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 24.64,
+    "PassengerCapacity": 59,
+    "Id": "90cd2479-9cbb-4d63-a82d-72f37718aebc"
+  },
+  {
+    "Model": "Bus_Model_eb21",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 18.79,
+    "PassengerCapacity": 93,
+    "Id": "84fbef83-4c03-43c9-a23a-a3f2f40aa588"
+  },
+  {
+    "Model": "Bus_Model_2751",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 26.9,
+    "PassengerCapacity": 83,
+    "Id": "b89bc1bc-f4ff-4577-97b0-5663abe640c1"
+  },
+  {
+    "Model": "Bus_Model_fa9b",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 21.33,
+    "PassengerCapacity": 77,
+    "Id": "10698a21-1884-4a6b-affa-34d993dfa671"
+  },
+  {
+    "Model": "Bus_Model_a083",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 22.7,
+    "PassengerCapacity": 23,
+    "Id": "cc94d4f4-e0c2-4302-a59c-1bb27072faaf"
+  },
+  {
+    "Model": "Bus_Model_7bb6",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 25.39,
+    "PassengerCapacity": 50,
+    "Id": "2378d33f-23e9-4e1f-b9f9-9349e62e8e98"
+  },
+  {
+    "Model": "Bus_Model_a38c",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 27.76,
+    "PassengerCapacity": 28,
+    "Id": "818e96c2-03e3-498a-9c1e-61d1a8cb60ea"
+  },
+  {
+    "Model": "Bus_Model_ab7a",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 16.25,
+    "PassengerCapacity": 35,
+    "Id": "00da4cba-c9da-4e5e-8858-3e4f0b9a834a"
+  },
+  {
+    "Model": "Bus_Model_fba4",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 20.64,
+    "PassengerCapacity": 57,
+    "Id": "0a4d30bd-f812-400c-9bad-ff1599c03a1c"
+  },
+  {
+    "Model": "Bus_Model_4615",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 27.77,
+    "PassengerCapacity": 86,
+    "Id": "02a8835e-c5f3-45aa-b8e1-2d0f144d610a"
+  },
+  {
+    "Model": "Bus_Model_17fa",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 22.2,
+    "PassengerCapacity": 21,
+    "Id": "a5a68211-a855-45e8-a1c4-d7d3d1121a55"
+  },
+  {
+    "Model": "Bus_Model_7b4b",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 24.75,
+    "PassengerCapacity": 72,
+    "Id": "28cb14d9-c745-46f7-94e9-4b36b4fd8ea8"
+  },
+  {
+    "Model": "Bus_Model_03c5",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 21.67,
+    "PassengerCapacity": 57,
+    "Id": "0f33a695-735d-462f-81bd-dd84ddff244e"
+  },
+  {
+    "Model": "Bus_Model_4eba",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 24.63,
+    "PassengerCapacity": 86,
+    "Id": "125356d5-5e68-4f68-be99-1857d20d2039"
+  },
+  {
+    "Model": "Bus_Model_bc36",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 19.71,
+    "PassengerCapacity": 41,
+    "Id": "41e90077-81f4-4a1b-9359-05b1ca9bef92"
+  },
+  {
+    "Model": "Bus_Model_7ac3",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 28.15,
+    "PassengerCapacity": 74,
+    "Id": "8fb0e0d0-7374-4659-821a-6b749b05b4e6"
+  },
+  {
+    "Model": "Bus_Model_b3b2",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 19.83,
+    "PassengerCapacity": 87,
+    "Id": "4340cf97-7f93-4591-9f67-71154070861b"
+  },
+  {
+    "Model": "Bus_Model_1a3c",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 20.88,
+    "PassengerCapacity": 31,
+    "Id": "715a4dac-3f1d-43c1-841a-a5a8215342ae"
+  },
+  {
+    "Model": "Bus_Model_d664",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 27.14,
+    "PassengerCapacity": 57,
+    "Id": "8faa8aa9-081b-4577-9c38-24ac9a1110ae"
+  },
+  {
+    "Model": "Bus_Model_2a0b",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 28.32,
+    "PassengerCapacity": 32,
+    "Id": "1c2bc7f2-a574-4d0a-8ae0-e1ba039b4986"
+  },
+  {
+    "Model": "Bus_Model_31dc",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 18.27,
+    "PassengerCapacity": 67,
+    "Id": "a0dc9b32-528f-47af-8c5c-424d94a08529"
+  },
+  {
+    "Model": "Bus_Model_2392",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 20.5,
+    "PassengerCapacity": 41,
+    "Id": "be10da20-9943-44e5-8292-c6505ad3082e"
+  },
+  {
+    "Model": "Bus_Model_36a3",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 16.1,
+    "PassengerCapacity": 88,
+    "Id": "4f94c335-10d5-4345-94cb-1c05386c42d9"
+  },
+  {
+    "Model": "Bus_Model_761b",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 20.52,
+    "PassengerCapacity": 90,
+    "Id": "2fc4c73e-0d43-4cb8-8012-cca9ea7ef006"
+  },
+  {
+    "Model": "Bus_Model_1a41",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 15.18,
+    "PassengerCapacity": 22,
+    "Id": "a9a1bbee-38c3-4553-ab15-38c619241067"
+  },
+  {
+    "Model": "Bus_Model_2e4a",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 21.98,
+    "PassengerCapacity": 78,
+    "Id": "a522276d-cea2-452f-a208-ad9496ad87be"
+  },
+  {
+    "Model": "Bus_Model_2487",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 19.35,
+    "PassengerCapacity": 78,
+    "Id": "1a55fb02-2f65-42c0-9a7f-cdd3a6038323"
+  },
+  {
+    "Model": "Bus_Model_4265",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 27.9,
+    "PassengerCapacity": 66,
+    "Id": "1410d745-abdb-4a41-a4ee-26bedf40cd80"
+  },
+  {
+    "Model": "Bus_Model_0c6d",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 15.52,
+    "PassengerCapacity": 70,
+    "Id": "4e7ffc87-4880-4d8e-a607-72d4458ea10d"
+  },
+  {
+    "Model": "Bus_Model_ff61",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 17.61,
+    "PassengerCapacity": 44,
+    "Id": "7c9554cc-a414-4291-94f9-fa81c6323a8a"
+  },
+  {
+    "Model": "Bus_Model_5f78",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 23.11,
+    "PassengerCapacity": 46,
+    "Id": "5e3f40f6-c2ce-47ab-beb5-23cf96265f2f"
+  },
+  {
+    "Model": "Bus_Model_ba5c",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 17.77,
+    "PassengerCapacity": 59,
+    "Id": "ef3fe07c-d049-4f3a-8dc3-5c485b52e870"
+  },
+  {
+    "Model": "Bus_Model_9d06",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 25.81,
+    "PassengerCapacity": 43,
+    "Id": "59b8b694-b793-421b-8370-b724f45c0bbc"
+  },
+  {
+    "Model": "Bus_Model_6869",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 29.88,
+    "PassengerCapacity": 89,
+    "Id": "a92f4dce-ff52-4299-b8a0-3791189ce4b8"
+  },
+  {
+    "Model": "Bus_Model_42c3",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 26.45,
+    "PassengerCapacity": 87,
+    "Id": "084b29cc-2324-4fb6-adac-a0fcc5a6af8f"
+  },
+  {
+    "Model": "Bus_Model_c8d5",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 23.28,
+    "PassengerCapacity": 88,
+    "Id": "4b688b81-75be-40b4-8827-81a838529a72"
+  },
+  {
+    "Model": "Bus_Model_1dd5",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 26.62,
+    "PassengerCapacity": 80,
+    "Id": "8c0f087d-eac1-4915-86a3-cbc5254e4f31"
+  },
+  {
+    "Model": "Bus_Model_79db",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 23.23,
+    "PassengerCapacity": 23,
+    "Id": "215a1b78-35c3-40a5-9b83-a790c8d7f236"
+  },
+  {
+    "Model": "Bus_Model_2f0d",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 25,
+    "PassengerCapacity": 77,
+    "Id": "11fb43ec-e88c-41a0-a8ef-253c68ce058a"
+  },
+  {
+    "Model": "Bus_Model_5ba3",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 28.31,
+    "PassengerCapacity": 51,
+    "Id": "6988ee7f-e521-4b7f-bce1-9e205585c0c9"
+  },
+  {
+    "Model": "Bus_Model_3a45",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 22.02,
+    "PassengerCapacity": 84,
+    "Id": "113b4b61-31d4-46b6-bb77-6eea9e77731c"
+  },
+  {
+    "Model": "Bus_Model_19b1",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 19.77,
+    "PassengerCapacity": 49,
+    "Id": "2cfe3241-4aa5-41fd-b32a-b75537f80608"
+  },
+  {
+    "Model": "Bus_Model_03b7",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 20.74,
+    "PassengerCapacity": 64,
+    "Id": "0227582d-f5d9-4456-8d81-d4ccbe054c13"
+  },
+  {
+    "Model": "Bus_Model_feaf",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 24.93,
+    "PassengerCapacity": 87,
+    "Id": "eb4fbf0e-7a66-4b3f-b29d-d8a0297ed0bc"
+  },
+  {
+    "Model": "Bus_Model_3132",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 18.09,
+    "PassengerCapacity": 78,
+    "Id": "62b7ff76-995a-444d-8124-8008918a6dad"
+  },
+  {
+    "Model": "Bus_Model_b827",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 16.06,
+    "PassengerCapacity": 39,
+    "Id": "8b5f8c8d-d3e1-4fa8-b9ec-3dbba17ba0dd"
+  },
+  {
+    "Model": "Bus_Model_b16c",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 26.39,
+    "PassengerCapacity": 21,
+    "Id": "4c2fca6a-c02c-46d3-ae25-881953d421be"
+  },
+  {
+    "Model": "Bus_Model_6526",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 27.27,
+    "PassengerCapacity": 45,
+    "Id": "6fc7a696-9f0c-4318-8466-3e101489bc28"
+  },
+  {
+    "Model": "Bus_Model_1cb4",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 17.62,
+    "PassengerCapacity": 75,
+    "Id": "ec62f6dc-1917-4af6-837c-4c0cac6dfb4b"
+  },
+  {
+    "Model": "Bus_Model_5017",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 21.09,
+    "PassengerCapacity": 86,
+    "Id": "b4337d76-0775-4013-a54e-f3ccaa64a0dc"
+  },
+  {
+    "Model": "Bus_Model_0411",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 23.75,
+    "PassengerCapacity": 77,
+    "Id": "4ab36bb7-f3b8-4745-9fd4-f73d56edaf90"
+  },
+  {
+    "Model": "Bus_Model_e2c5",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 16.96,
+    "PassengerCapacity": 61,
+    "Id": "8544fb44-9fe3-4a86-9fb8-e17ce1d24f6c"
+  },
+  {
+    "Model": "Bus_Model_8820",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 27.97,
+    "PassengerCapacity": 29,
+    "Id": "e1c52240-c2c0-405f-8e7d-da5d47c6f45e"
+  },
+  {
+    "Model": "Bus_Model_d310",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 22.71,
+    "PassengerCapacity": 92,
+    "Id": "90b8fa25-fe3b-4cf3-b92c-0912dcc8f7a5"
+  },
+  {
+    "Model": "Bus_Model_0158",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 16.55,
+    "PassengerCapacity": 57,
+    "Id": "818c58be-5e2e-40fb-af6c-2f813eafe77c"
+  },
+  {
+    "Model": "Bus_Model_c5fd",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 26.95,
+    "PassengerCapacity": 39,
+    "Id": "f118c4a6-3d79-427f-84c8-7b715b1cdec0"
+  },
+  {
+    "Model": "Bus_Model_da95",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 20.85,
+    "PassengerCapacity": 70,
+    "Id": "c7c4393e-603a-4628-a193-d075d5784b19"
+  },
+  {
+    "Model": "Bus_Model_b379",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 29.38,
+    "PassengerCapacity": 61,
+    "Id": "c2edebd4-1393-461a-bae4-ab14d114ea61"
+  },
+  {
+    "Model": "Bus_Model_bce5",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 22.24,
+    "PassengerCapacity": 45,
+    "Id": "00aef65d-5627-4ad3-bc0a-715598c39e1a"
+  },
+  {
+    "Model": "Bus_Model_0435",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 18.48,
+    "PassengerCapacity": 64,
+    "Id": "ba07be61-2caa-4808-8e7b-99ffa4a683ef"
+  },
+  {
+    "Model": "Bus_Model_1c3f",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 23.16,
+    "PassengerCapacity": 25,
+    "Id": "eef8a849-dccf-4035-a2d7-8be66761c4da"
+  },
+  {
+    "Model": "Bus_Model_b7d7",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 24.87,
+    "PassengerCapacity": 92,
+    "Id": "c100d0c4-a241-484e-ae78-0f4bbccc45ed"
+  },
+  {
+    "Model": "Bus_Model_e482",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 18.2,
+    "PassengerCapacity": 64,
+    "Id": "7a649c1f-e9a8-4730-bc68-c5eb6a82f495"
+  },
+  {
+    "Model": "Bus_Model_413a",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 24.68,
+    "PassengerCapacity": 52,
+    "Id": "bbe0cb0b-4c0c-4019-9399-9be6fac2a1ff"
+  },
+  {
+    "Model": "Bus_Model_536b",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 18.31,
+    "PassengerCapacity": 80,
+    "Id": "60aa0734-12f3-417d-b189-8e9c23823b53"
+  },
+  {
+    "Model": "Bus_Model_8d28",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 15.39,
+    "PassengerCapacity": 22,
+    "Id": "4452e65e-39bf-4942-8e6b-5b424c2ec777"
+  },
+  {
+    "Model": "Bus_Model_af26",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 20.11,
+    "PassengerCapacity": 88,
+    "Id": "2efbda29-3c55-4a92-a050-01895774bb70"
+  },
+  {
+    "Model": "Bus_Model_c8d5",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 17.94,
+    "PassengerCapacity": 63,
+    "Id": "d30de4fb-10f5-4699-ae63-c1da93381e21"
+  },
+  {
+    "Model": "Bus_Model_5478",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 21.47,
+    "PassengerCapacity": 40,
+    "Id": "4209ea32-279b-4d43-915a-124dfec40b02"
+  },
+  {
+    "Model": "Bus_Model_e726",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 15.66,
+    "PassengerCapacity": 28,
+    "Id": "022f3923-0568-4e19-b66f-d88ba4f46fba"
+  },
+  {
+    "Model": "Bus_Model_baa2",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 29.44,
+    "PassengerCapacity": 52,
+    "Id": "5b26c1d0-d0e9-48b1-88c5-10e91289d07c"
+  },
+  {
+    "Model": "Bus_Model_3c68",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 20.66,
+    "PassengerCapacity": 66,
+    "Id": "7e2246b0-5dff-49cd-a545-697ddf92b8f2"
+  },
+  {
+    "Model": "Bus_Model_4a1c",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 20.47,
+    "PassengerCapacity": 29,
+    "Id": "39ca99de-14bc-455d-bbcc-db515f67e1bd"
+  },
+  {
+    "Model": "Bus_Model_3540",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 28.55,
+    "PassengerCapacity": 32,
+    "Id": "970193c7-ac81-4eeb-81c5-2688fe327586"
+  },
+  {
+    "Model": "Bus_Model_d5dc",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 26.38,
+    "PassengerCapacity": 99,
+    "Id": "d722f8ab-6968-4656-acbd-851a6c524bdb"
+  },
+  {
+    "Model": "Bus_Model_db81",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 20.31,
+    "PassengerCapacity": 83,
+    "Id": "7bac5406-c592-42ab-aa2c-e431a12ef1e2"
+  },
+  {
+    "Model": "Bus_Model_7c77",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 18.52,
+    "PassengerCapacity": 51,
+    "Id": "da264e28-e879-4cac-9ebf-68858f3f37b6"
+  },
+  {
+    "Model": "Bus_Model_f9b1",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 21.34,
+    "PassengerCapacity": 81,
+    "Id": "d99bbb0e-ef09-41d6-b42a-35183f489618"
+  },
+  {
+    "Model": "Bus_Model_cd0c",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 18.69,
+    "PassengerCapacity": 26,
+    "Id": "ff4cc3c9-393d-4428-9581-fa852efb7002"
+  },
+  {
+    "Model": "Bus_Model_363c",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 27.56,
+    "PassengerCapacity": 68,
+    "Id": "78beab6a-3854-4c47-b648-763b1fa12604"
+  },
+  {
+    "Model": "Bus_Model_ce98",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.89,
+    "PassengerCapacity": 37,
+    "Id": "d99091e9-e50b-49ae-a0d1-ada81e543487"
+  },
+  {
+    "Model": "Bus_Model_33aa",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 16.38,
+    "PassengerCapacity": 83,
+    "Id": "a5d5c0c5-15b5-49fc-8880-f5117ce832e7"
+  },
+  {
+    "Model": "Bus_Model_a7fc",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 21.57,
+    "PassengerCapacity": 98,
+    "Id": "0805a499-3b8e-4b1d-a048-f2be84e092ac"
+  },
+  {
+    "Model": "Bus_Model_be7d",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 20.33,
+    "PassengerCapacity": 63,
+    "Id": "7311caab-2549-4d9a-8df9-2ba52c99ed23"
+  },
+  {
+    "Model": "Bus_Model_005e",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 28.97,
+    "PassengerCapacity": 81,
+    "Id": "bbabac18-489c-4e80-a010-65bb13aba4ac"
+  },
+  {
+    "Model": "Bus_Model_803e",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 24.95,
+    "PassengerCapacity": 90,
+    "Id": "8de65abc-a20a-46a2-94da-f04edbc787e9"
+  },
+  {
+    "Model": "Bus_Model_0bf0",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 25.47,
+    "PassengerCapacity": 26,
+    "Id": "6a69ff8b-92c5-43d7-b944-537005bafd0b"
+  },
+  {
+    "Model": "Bus_Model_0221",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 19.42,
+    "PassengerCapacity": 67,
+    "Id": "97e60df4-26f8-4fca-b939-1302e9e8d27c"
+  },
+  {
+    "Model": "Bus_Model_455b",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 23.17,
+    "PassengerCapacity": 86,
+    "Id": "8d07fbea-0656-4601-bfce-902385c48c53"
+  },
+  {
+    "Model": "Bus_Model_3417",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 24.64,
+    "PassengerCapacity": 90,
+    "Id": "3f6a3494-8cef-4cca-870d-b64ccfa651c9"
+  },
+  {
+    "Model": "Bus_Model_870c",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 27.94,
+    "PassengerCapacity": 97,
+    "Id": "dd8e36df-61a6-44e0-afa8-ff88318f9cdd"
+  },
+  {
+    "Model": "Bus_Model_c622",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 23.22,
+    "PassengerCapacity": 46,
+    "Id": "13dfd305-f30b-4291-a0c6-1659f42945f5"
+  },
+  {
+    "Model": "Bus_Model_031f",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 21.44,
+    "PassengerCapacity": 81,
+    "Id": "6e9725d8-f409-42cf-bde0-69e9e62fdc5b"
+  },
+  {
+    "Model": "Bus_Model_7556",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 22.71,
+    "PassengerCapacity": 75,
+    "Id": "7a170669-0962-45d1-83e1-fc3d0da8cd82"
+  },
+  {
+    "Model": "Bus_Model_2016",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 21.33,
+    "PassengerCapacity": 55,
+    "Id": "dfa89455-dc24-429a-8a34-170611f68f5f"
+  },
+  {
+    "Model": "Bus_Model_c57e",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 17.73,
+    "PassengerCapacity": 86,
+    "Id": "1178020c-7cc7-46e8-81d7-bdd43343d00e"
+  },
+  {
+    "Model": "Bus_Model_dc50",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 21.6,
+    "PassengerCapacity": 24,
+    "Id": "882e1fa3-956e-49c4-b6de-3365db4c9443"
+  },
+  {
+    "Model": "Bus_Model_13a8",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 22.73,
+    "PassengerCapacity": 69,
+    "Id": "0b5bc07b-6dc6-411b-86f7-cb61fdae312e"
+  },
+  {
+    "Model": "Bus_Model_cfd2",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 23.07,
+    "PassengerCapacity": 31,
+    "Id": "68eddbe6-d452-4d39-af18-cc3849b56873"
+  },
+  {
+    "Model": "Bus_Model_1c6c",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 27.1,
+    "PassengerCapacity": 24,
+    "Id": "621e9b88-89db-480d-9a26-1df293368bad"
+  },
+  {
+    "Model": "Bus_Model_41cf",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 19.74,
+    "PassengerCapacity": 90,
+    "Id": "abac3149-bc29-496a-9f65-ffef029f9e87"
+  },
+  {
+    "Model": "Bus_Model_9337",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 18.46,
+    "PassengerCapacity": 45,
+    "Id": "9624ce89-fad0-4bcd-b43e-f6b0db808a25"
+  },
+  {
+    "Model": "Bus_Model_2441",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 23.01,
+    "PassengerCapacity": 26,
+    "Id": "61880354-31d7-4c63-926e-7000bc7026d3"
+  },
+  {
+    "Model": "Bus_Model_78f7",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 20.35,
+    "PassengerCapacity": 32,
+    "Id": "9f514f59-4eea-4756-a8ae-8310ac4afbb4"
+  },
+  {
+    "Model": "Bus_Model_956e",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 21.24,
+    "PassengerCapacity": 99,
+    "Id": "5047774e-54fa-4ef2-823e-013c938cce19"
+  },
+  {
+    "Model": "Bus_Model_7b3c",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 16.04,
+    "PassengerCapacity": 88,
+    "Id": "096f92dd-eb11-4ae3-b312-df3b0bd14325"
+  },
+  {
+    "Model": "Bus_Model_e5c5",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 18.81,
+    "PassengerCapacity": 47,
+    "Id": "50e5fafa-17de-4373-93f2-6550e384d685"
+  },
+  {
+    "Model": "Bus_Model_5229",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 17,
+    "PassengerCapacity": 74,
+    "Id": "bf875f49-106f-4a7c-8145-84f8ce46d50b"
+  },
+  {
+    "Model": "Bus_Model_cb4c",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 27.28,
+    "PassengerCapacity": 89,
+    "Id": "6075b98a-fc74-4e43-965f-b2878049538e"
+  },
+  {
+    "Model": "Bus_Model_e83e",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 20.04,
+    "PassengerCapacity": 69,
+    "Id": "e129ea21-53b2-469e-8a61-86ec9e2c1bcf"
+  },
+  {
+    "Model": "Bus_Model_823c",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 16.34,
+    "PassengerCapacity": 41,
+    "Id": "13853c40-7d1f-479e-ba9a-1fa644528dbb"
+  },
+  {
+    "Model": "Bus_Model_38ba",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 17.84,
+    "PassengerCapacity": 52,
+    "Id": "fb84b49b-05fb-45f8-8561-1438e1812f93"
+  },
+  {
+    "Model": "Bus_Model_44af",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 20.52,
+    "PassengerCapacity": 62,
+    "Id": "f26432f0-ae4a-42a5-a9d4-3aef57ef8fb1"
+  },
+  {
+    "Model": "Bus_Model_08ff",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 25.97,
+    "PassengerCapacity": 43,
+    "Id": "36982601-0342-4ac2-9f63-aad95a7f12a6"
+  },
+  {
+    "Model": "Bus_Model_abe9",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 27.71,
+    "PassengerCapacity": 82,
+    "Id": "6840d27b-3377-4898-9f4b-86dab3010609"
+  },
+  {
+    "Model": "Bus_Model_82d8",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 18.45,
+    "PassengerCapacity": 93,
+    "Id": "4bd2fe12-d677-4ce2-ac7c-886fc3069f1f"
+  },
+  {
+    "Model": "Bus_Model_66f5",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 28.23,
+    "PassengerCapacity": 97,
+    "Id": "35001034-f2c9-4fbe-967d-36be5786a583"
+  },
+  {
+    "Model": "Bus_Model_302c",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 26.44,
+    "PassengerCapacity": 62,
+    "Id": "d256bded-92b2-4eb9-928a-a3ccd4f96af0"
+  },
+  {
+    "Model": "Bus_Model_71d5",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 24.59,
+    "PassengerCapacity": 39,
+    "Id": "7c1740ef-8b3b-4c25-bd6c-55c28f98e2ea"
+  },
+  {
+    "Model": "Bus_Model_1436",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 20.46,
+    "PassengerCapacity": 35,
+    "Id": "1a094aac-6719-4d2d-925c-ed3e00c7f8ef"
+  },
+  {
+    "Model": "Bus_Model_9d6d",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 15.77,
+    "PassengerCapacity": 69,
+    "Id": "e83a0a93-f2aa-4cad-b96d-e9721d552b6e"
+  },
+  {
+    "Model": "Bus_Model_53ec",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 19.23,
+    "PassengerCapacity": 79,
+    "Id": "6728f13c-aa7d-4431-8387-910bfcbd8190"
+  },
+  {
+    "Model": "Bus_Model_4d63",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 20.13,
+    "PassengerCapacity": 50,
+    "Id": "7014d71a-f30a-4a7b-aaf2-23b41bc8c37d"
+  },
+  {
+    "Model": "Bus_Model_bf9a",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 21.65,
+    "PassengerCapacity": 54,
+    "Id": "e8e561f0-c0e3-4daf-870e-d87154fbbbe7"
+  },
+  {
+    "Model": "Bus_Model_c944",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 25.12,
+    "PassengerCapacity": 75,
+    "Id": "a4671743-6a89-4c14-841f-cfe3e7226b71"
+  },
+  {
+    "Model": "Bus_Model_eca0",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 24.27,
+    "PassengerCapacity": 32,
+    "Id": "f0c9f15b-11c1-4f22-ba9b-c8aa1be4a0fb"
+  },
+  {
+    "Model": "Bus_Model_2651",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 21.31,
+    "PassengerCapacity": 74,
+    "Id": "8f5a61c1-b419-42bd-a95f-64f94f59f5e4"
+  },
+  {
+    "Model": "Bus_Model_1f52",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 25.73,
+    "PassengerCapacity": 22,
+    "Id": "330a5750-c9cc-4ed6-84d2-da0cf49043b5"
+  },
+  {
+    "Model": "Bus_Model_3bd0",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 29.7,
+    "PassengerCapacity": 21,
+    "Id": "f928cdee-3a35-43b7-9203-537b09883698"
+  },
+  {
+    "Model": "Bus_Model_be68",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 16.58,
+    "PassengerCapacity": 75,
+    "Id": "13edda48-3af6-4117-a203-964efcb27d22"
+  },
+  {
+    "Model": "Bus_Model_c476",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 23.07,
+    "PassengerCapacity": 93,
+    "Id": "8ebea05a-a2fa-4668-952c-12157799ea86"
+  },
+  {
+    "Model": "Bus_Model_13e7",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 18.1,
+    "PassengerCapacity": 27,
+    "Id": "1d7446ab-8516-473e-a046-980613eec8bb"
+  },
+  {
+    "Model": "Bus_Model_3588",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 27.91,
+    "PassengerCapacity": 48,
+    "Id": "389e5b64-b466-4771-93c5-4335faecf4f6"
+  },
+  {
+    "Model": "Bus_Model_b96d",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 26.64,
+    "PassengerCapacity": 22,
+    "Id": "e94112a2-8069-4f75-ac7e-e59535b8f805"
+  },
+  {
+    "Model": "Bus_Model_653f",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 17.99,
+    "PassengerCapacity": 47,
+    "Id": "b7ff1f33-bbbb-42e9-b65a-85470b63a2e8"
+  },
+  {
+    "Model": "Bus_Model_6dd2",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 23.95,
+    "PassengerCapacity": 38,
+    "Id": "47a98464-cdba-44ef-b4a4-3493c9e5595e"
+  },
+  {
+    "Model": "Bus_Model_d5fa",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 16.04,
+    "PassengerCapacity": 99,
+    "Id": "3c384f11-a0e6-4595-898b-fa322748e9bd"
+  },
+  {
+    "Model": "Bus_Model_0f11",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 21.04,
+    "PassengerCapacity": 97,
+    "Id": "b2a1ac0b-af1c-4ee7-8dec-48e01900d718"
+  },
+  {
+    "Model": "Bus_Model_e1a6",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 19.17,
+    "PassengerCapacity": 41,
+    "Id": "d651326c-85db-4f9b-974b-d89f4bb39c5c"
+  },
+  {
+    "Model": "Bus_Model_0680",
+    "Year": 2000,
+    "FuelConsumptionPer100Km": 24.65,
+    "PassengerCapacity": 98,
+    "Id": "689109d9-13db-47fe-a59e-ea858664f134"
+  },
+  {
+    "Model": "Bus_Model_4ce1",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 25,
+    "PassengerCapacity": 62,
+    "Id": "b016614b-730e-4279-bd4c-00a433b8baeb"
+  },
+  {
+    "Model": "Bus_Model_d5d9",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 27.79,
+    "PassengerCapacity": 24,
+    "Id": "0d85c68d-8a1b-4c8a-9db4-c496c3db8fca"
+  },
+  {
+    "Model": "Bus_Model_bbfd",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 25.84,
+    "PassengerCapacity": 31,
+    "Id": "cb0db646-a8e6-48fe-8c26-2f8049420272"
+  },
+  {
+    "Model": "Bus_Model_4d6c",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 29.42,
+    "PassengerCapacity": 49,
+    "Id": "5c2ac4f5-6f47-4da4-ada7-1a710aa6bd83"
+  },
+  {
+    "Model": "Bus_Model_d56e",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 26.35,
+    "PassengerCapacity": 39,
+    "Id": "f3983ec9-5643-4e82-98ae-101fa9280c0f"
+  },
+  {
+    "Model": "Bus_Model_a2de",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 22.79,
+    "PassengerCapacity": 52,
+    "Id": "6d889192-130f-49c2-bb27-044f2e9aca66"
+  },
+  {
+    "Model": "Bus_Model_755e",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 19.5,
+    "PassengerCapacity": 64,
+    "Id": "a2365ff4-d0a0-4f64-a192-49542c154b14"
+  },
+  {
+    "Model": "Bus_Model_9c5e",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 25.7,
+    "PassengerCapacity": 30,
+    "Id": "9eb2361f-e54d-4f4e-a8b9-ab5f1db92560"
+  },
+  {
+    "Model": "Bus_Model_be18",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 24.17,
+    "PassengerCapacity": 34,
+    "Id": "780be608-51ca-4d0b-9e79-5fb153d36783"
+  },
+  {
+    "Model": "Bus_Model_b71c",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 27.89,
+    "PassengerCapacity": 79,
+    "Id": "c0a71884-8466-48ee-812c-06218c1c7dc1"
+  },
+  {
+    "Model": "Bus_Model_deb5",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 20.56,
+    "PassengerCapacity": 84,
+    "Id": "6df5ac44-b558-4e87-b4ca-6ea291868706"
+  },
+  {
+    "Model": "Bus_Model_1d94",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 16.35,
+    "PassengerCapacity": 60,
+    "Id": "f19aa629-5504-4a5c-8de2-5707ea5a6671"
+  },
+  {
+    "Model": "Bus_Model_f42c",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 29.89,
+    "PassengerCapacity": 90,
+    "Id": "73807672-28ae-43bf-9540-2fedd6ade867"
+  },
+  {
+    "Model": "Bus_Model_22bc",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 17.02,
+    "PassengerCapacity": 39,
+    "Id": "c42b5499-9b9d-4b18-9a93-fa5cc9cf2875"
+  },
+  {
+    "Model": "Bus_Model_e6bb",
+    "Year": 2008,
+    "FuelConsumptionPer100Km": 18.7,
+    "PassengerCapacity": 68,
+    "Id": "f7c9e6b7-4488-42a6-9863-28ce80fca931"
+  },
+  {
+    "Model": "Bus_Model_a1d9",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 27.01,
+    "PassengerCapacity": 89,
+    "Id": "f49586de-807a-4515-ac25-1a157173c9b9"
+  },
+  {
+    "Model": "Bus_Model_ecac",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 25.41,
+    "PassengerCapacity": 68,
+    "Id": "12e82d51-6fd9-4c44-8279-1355c0c4cd6e"
+  },
+  {
+    "Model": "Bus_Model_6f0e",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 15.11,
+    "PassengerCapacity": 94,
+    "Id": "b0a1acce-5cfb-40a5-ae0c-d28009e88041"
+  },
+  {
+    "Model": "Bus_Model_5ef0",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 25.97,
+    "PassengerCapacity": 34,
+    "Id": "ef274754-6c17-4e40-a86a-a696a77673f4"
+  },
+  {
+    "Model": "Bus_Model_e736",
+    "Year": 2004,
+    "FuelConsumptionPer100Km": 29.95,
+    "PassengerCapacity": 95,
+    "Id": "9893dcb7-0533-44e0-8858-20a451c0af42"
+  },
+  {
+    "Model": "Bus_Model_25df",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 21.44,
+    "PassengerCapacity": 59,
+    "Id": "dc9973b8-a261-4e99-b7f3-dcc10d03e55d"
+  },
+  {
+    "Model": "Bus_Model_aa97",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 22.86,
+    "PassengerCapacity": 81,
+    "Id": "2532758c-863a-46a4-bb61-04672d3210f2"
+  },
+  {
+    "Model": "Bus_Model_72da",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 23.35,
+    "PassengerCapacity": 25,
+    "Id": "e483b6f8-f920-4fdb-8eee-b7cc3c98c070"
+  },
+  {
+    "Model": "Bus_Model_3db8",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 18.33,
+    "PassengerCapacity": 44,
+    "Id": "18feb542-d53d-4b37-97d5-f59ead45049d"
+  },
+  {
+    "Model": "Bus_Model_7fd9",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 17.7,
+    "PassengerCapacity": 87,
+    "Id": "77702de5-083c-4fb0-af63-c7550d289bbf"
+  },
+  {
+    "Model": "Bus_Model_3167",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 23.55,
+    "PassengerCapacity": 98,
+    "Id": "063c6e0a-67b8-41a0-839c-dc0ff81c29a4"
+  },
+  {
+    "Model": "Bus_Model_d3b9",
+    "Year": 1996,
+    "FuelConsumptionPer100Km": 17.24,
+    "PassengerCapacity": 20,
+    "Id": "f9e1f753-2775-4c9c-a57f-789a3ae6d9af"
+  },
+  {
+    "Model": "Bus_Model_d778",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 17.14,
+    "PassengerCapacity": 65,
+    "Id": "cec8e3b4-2ae4-47da-9da4-bf35271957be"
+  },
+  {
+    "Model": "Bus_Model_451b",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 29.79,
+    "PassengerCapacity": 74,
+    "Id": "a26d2014-4972-4359-94f1-68294f5f8531"
+  },
+  {
+    "Model": "Bus_Model_b20c",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 18.06,
+    "PassengerCapacity": 52,
+    "Id": "3a4c6d52-d795-4b8c-9878-482eefb83fa0"
+  },
+  {
+    "Model": "Bus_Model_7573",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 20.92,
+    "PassengerCapacity": 73,
+    "Id": "7a5782e7-55fb-49c7-8d41-e672318820f5"
+  },
+  {
+    "Model": "Bus_Model_74ee",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 21.75,
+    "PassengerCapacity": 45,
+    "Id": "8f2a650e-a43e-4602-b24e-3395f919b160"
+  },
+  {
+    "Model": "Bus_Model_5310",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 15.32,
+    "PassengerCapacity": 88,
+    "Id": "b1042327-2d81-4604-9352-c98070b853e2"
+  },
+  {
+    "Model": "Bus_Model_673f",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 27.42,
+    "PassengerCapacity": 67,
+    "Id": "7d857fab-b789-4b7f-94cf-12b0838a04d0"
+  },
+  {
+    "Model": "Bus_Model_063d",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 25.99,
+    "PassengerCapacity": 47,
+    "Id": "8b496b9a-aac2-468f-bc7a-8431b59944dd"
+  },
+  {
+    "Model": "Bus_Model_878d",
+    "Year": 1993,
+    "FuelConsumptionPer100Km": 16.01,
+    "PassengerCapacity": 89,
+    "Id": "d70a9e2f-93e1-45b0-9842-b39d9bb41412"
+  },
+  {
+    "Model": "Bus_Model_420d",
+    "Year": 2022,
+    "FuelConsumptionPer100Km": 23.93,
+    "PassengerCapacity": 97,
+    "Id": "ca3b0392-741d-4ebd-8d74-634ac347bdc7"
+  },
+  {
+    "Model": "Bus_Model_1b10",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 25.5,
+    "PassengerCapacity": 72,
+    "Id": "ee11ae22-0115-49e6-88c5-54d99976079a"
+  },
+  {
+    "Model": "Bus_Model_3964",
+    "Year": 2017,
+    "FuelConsumptionPer100Km": 25.43,
+    "PassengerCapacity": 53,
+    "Id": "9bb3e928-a39a-4d78-9d67-ea17644d6bd1"
+  },
+  {
+    "Model": "Bus_Model_673f",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 15.19,
+    "PassengerCapacity": 65,
+    "Id": "c4da6982-510a-42a6-a3c8-17387af7b469"
+  },
+  {
+    "Model": "Bus_Model_1362",
+    "Year": 1997,
+    "FuelConsumptionPer100Km": 24.53,
+    "PassengerCapacity": 94,
+    "Id": "b1495d28-9c6c-4007-9e44-7fe82f0cc0c5"
+  },
+  {
+    "Model": "Bus_Model_db85",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 18.69,
+    "PassengerCapacity": 21,
+    "Id": "3ea9c167-43ab-4e9f-b13d-0bc18bfd8f57"
+  },
+  {
+    "Model": "Bus_Model_d3a3",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 16.2,
+    "PassengerCapacity": 42,
+    "Id": "88c86b57-d39a-4f83-9a23-594b37887ab1"
+  },
+  {
+    "Model": "Bus_Model_8674",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 15,
+    "PassengerCapacity": 69,
+    "Id": "13475eb4-d214-4ed0-9dd9-61cbbcde0237"
+  },
+  {
+    "Model": "Bus_Model_b6a1",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 20.44,
+    "PassengerCapacity": 45,
+    "Id": "8a51730f-31d5-4fed-a722-be82304ec07d"
+  },
+  {
+    "Model": "Bus_Model_d270",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 25.95,
+    "PassengerCapacity": 75,
+    "Id": "90e09109-738d-44e4-ae3b-5ba9f0deaaf1"
+  },
+  {
+    "Model": "Bus_Model_8f67",
+    "Year": 2016,
+    "FuelConsumptionPer100Km": 29.66,
+    "PassengerCapacity": 25,
+    "Id": "aa64946f-9606-464b-a928-6d8b19ec0496"
+  },
+  {
+    "Model": "Bus_Model_b11b",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 15.64,
+    "PassengerCapacity": 82,
+    "Id": "288cd44c-b234-4dce-858d-8ef26d3b4b8f"
+  },
+  {
+    "Model": "Bus_Model_87fd",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 26.79,
+    "PassengerCapacity": 23,
+    "Id": "ee6cae40-57b8-478d-b234-7365b7db00e8"
+  },
+  {
+    "Model": "Bus_Model_3a25",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 15.1,
+    "PassengerCapacity": 73,
+    "Id": "4dd93e93-c481-4369-8910-ac4ff803afce"
+  },
+  {
+    "Model": "Bus_Model_83d5",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 20.7,
+    "PassengerCapacity": 71,
+    "Id": "81834f23-950e-448f-8fae-c226c9b49884"
+  },
+  {
+    "Model": "Bus_Model_b6ff",
+    "Year": 1994,
+    "FuelConsumptionPer100Km": 20.7,
+    "PassengerCapacity": 26,
+    "Id": "ed353459-f1dd-49b9-a8c7-1561de164b8c"
+  },
+  {
+    "Model": "Bus_Model_1318",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 24.14,
+    "PassengerCapacity": 85,
+    "Id": "53e3874f-951d-4da4-a63b-bbb540436fe5"
+  },
+  {
+    "Model": "Bus_Model_51fb",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 26.77,
+    "PassengerCapacity": 23,
+    "Id": "07a86a4e-d65e-4280-8139-9b5940e79ae4"
+  },
+  {
+    "Model": "Bus_Model_9d9f",
+    "Year": 2012,
+    "FuelConsumptionPer100Km": 28.07,
+    "PassengerCapacity": 61,
+    "Id": "42baea0d-c5c6-47b9-8137-f70b20968846"
+  },
+  {
+    "Model": "Bus_Model_bb09",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 18.33,
+    "PassengerCapacity": 63,
+    "Id": "1d8778bd-95d4-48fe-a85a-9a2677592450"
+  },
+  {
+    "Model": "Bus_Model_16d7",
+    "Year": 2007,
+    "FuelConsumptionPer100Km": 26.46,
+    "PassengerCapacity": 92,
+    "Id": "75b86306-1d17-4961-9a80-52aac4b0bc0b"
+  },
+  {
+    "Model": "Bus_Model_e056",
+    "Year": 2003,
+    "FuelConsumptionPer100Km": 16.62,
+    "PassengerCapacity": 83,
+    "Id": "e7eb0c6a-18ce-4772-a9db-c79d7307c7d6"
+  },
+  {
+    "Model": "Bus_Model_2641",
+    "Year": 2014,
+    "FuelConsumptionPer100Km": 26.7,
+    "PassengerCapacity": 90,
+    "Id": "e5c3e638-62e9-47a4-bfb7-2f2441afab92"
+  },
+  {
+    "Model": "Bus_Model_a775",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 21.67,
+    "PassengerCapacity": 43,
+    "Id": "cde2b617-0425-4bc8-9fb8-df8021e8bef6"
+  },
+  {
+    "Model": "Bus_Model_8672",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 23.79,
+    "PassengerCapacity": 77,
+    "Id": "95b3cbad-6ec1-4b73-a18d-411e447d78d6"
+  },
+  {
+    "Model": "Bus_Model_9414",
+    "Year": 2023,
+    "FuelConsumptionPer100Km": 27.49,
+    "PassengerCapacity": 71,
+    "Id": "9a2b3641-045a-4495-84d2-d0f9bc90a580"
+  },
+  {
+    "Model": "Bus_Model_5b7c",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 29.46,
+    "PassengerCapacity": 89,
+    "Id": "5a420bc4-08af-49fd-bce5-c9bead25fcb8"
+  },
+  {
+    "Model": "Bus_Model_da31",
+    "Year": 2021,
+    "FuelConsumptionPer100Km": 22.49,
+    "PassengerCapacity": 28,
+    "Id": "edb4e3eb-4c65-4082-a67e-6729123bbae7"
+  },
+  {
+    "Model": "Bus_Model_02fd",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 18.9,
+    "PassengerCapacity": 68,
+    "Id": "19e6340b-cd1f-4d49-9fb3-166877d69d64"
+  },
+  {
+    "Model": "Bus_Model_d29c",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 18.53,
+    "PassengerCapacity": 66,
+    "Id": "c5f8c4cf-ba34-4f18-8dd3-24207dc995e2"
+  },
+  {
+    "Model": "Bus_Model_5270",
+    "Year": 1998,
+    "FuelConsumptionPer100Km": 17.73,
+    "PassengerCapacity": 35,
+    "Id": "dbe56a3b-cef8-4ef1-bb8a-f76daf9f3f3c"
+  },
+  {
+    "Model": "Bus_Model_8321",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 24.26,
+    "PassengerCapacity": 98,
+    "Id": "37f35f49-5504-4202-9f4f-5704546a118e"
+  },
+  {
+    "Model": "Bus_Model_ef6b",
+    "Year": 2002,
+    "FuelConsumptionPer100Km": 27.29,
+    "PassengerCapacity": 84,
+    "Id": "507f86b8-953f-468f-b7c1-eea30952e770"
+  },
+  {
+    "Model": "Bus_Model_db34",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 24.13,
+    "PassengerCapacity": 21,
+    "Id": "dd0919da-06b9-4fbe-a5ff-fa4db273ed68"
+  },
+  {
+    "Model": "Bus_Model_696d",
+    "Year": 2010,
+    "FuelConsumptionPer100Km": 25.75,
+    "PassengerCapacity": 30,
+    "Id": "bf26ec44-a01d-40a3-8694-c58d01ae8aca"
+  },
+  {
+    "Model": "Bus_Model_1d4c",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 25.74,
+    "PassengerCapacity": 89,
+    "Id": "f27840bd-8b10-4a24-91e8-4364ada2afc4"
+  },
+  {
+    "Model": "Bus_Model_e92a",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 21.58,
+    "PassengerCapacity": 48,
+    "Id": "5a81c75a-9e3d-466d-adde-86f1004657a4"
+  },
+  {
+    "Model": "Bus_Model_d286",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 18.53,
+    "PassengerCapacity": 22,
+    "Id": "e7119c7a-b452-4822-82d0-879dca4adbe2"
+  },
+  {
+    "Model": "Bus_Model_7140",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 15.67,
+    "PassengerCapacity": 69,
+    "Id": "84b40c6f-b82b-4c03-bab4-8e4bf68beb10"
+  },
+  {
+    "Model": "Bus_Model_b4f2",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 16.62,
+    "PassengerCapacity": 67,
+    "Id": "d31e0706-1644-4f6b-a88b-1d8e340ec8fb"
+  },
+  {
+    "Model": "Bus_Model_b45a",
+    "Year": 1990,
+    "FuelConsumptionPer100Km": 28.49,
+    "PassengerCapacity": 46,
+    "Id": "208a9198-e973-4a46-92cb-0cbce96f2c4e"
+  },
+  {
+    "Model": "Bus_Model_2dd8",
+    "Year": 2013,
+    "FuelConsumptionPer100Km": 18.96,
+    "PassengerCapacity": 66,
+    "Id": "8d5f2285-e7b2-4a8e-ab6f-86e01e395eed"
+  },
+  {
+    "Model": "Bus_Model_fe12",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 24.21,
+    "PassengerCapacity": 61,
+    "Id": "66af2a79-8191-40bd-96eb-d78c91d15831"
+  },
+  {
+    "Model": "Bus_Model_495a",
+    "Year": 2001,
+    "FuelConsumptionPer100Km": 23.77,
+    "PassengerCapacity": 20,
+    "Id": "753aba40-b97b-4fbf-baa7-9161560af339"
+  },
+  {
+    "Model": "Bus_Model_3fb4",
+    "Year": 2009,
+    "FuelConsumptionPer100Km": 29.24,
+    "PassengerCapacity": 26,
+    "Id": "991c823c-a485-4712-8875-daf65fc00006"
+  },
+  {
+    "Model": "Bus_Model_e214",
+    "Year": 1992,
+    "FuelConsumptionPer100Km": 23.93,
+    "PassengerCapacity": 70,
+    "Id": "b19f8f5e-dde5-4cc6-b63e-e6bfd6b8fb49"
+  },
+  {
+    "Model": "Bus_Model_0f94",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 26.09,
+    "PassengerCapacity": 41,
+    "Id": "bf8cfd4e-f218-4ece-a925-ed00a5c38e40"
+  },
+  {
+    "Model": "Bus_Model_d3bd",
+    "Year": 2011,
+    "FuelConsumptionPer100Km": 25.69,
+    "PassengerCapacity": 54,
+    "Id": "f197faa8-8980-4be8-8637-c58b1dfe6336"
+  },
+  {
+    "Model": "Bus_Model_a922",
+    "Year": 1995,
+    "FuelConsumptionPer100Km": 18.68,
+    "PassengerCapacity": 96,
+    "Id": "4ec66eb3-7e91-4ae4-828a-c3bf6807ae9c"
+  },
+  {
+    "Model": "Bus_Model_0b11",
+    "Year": 2018,
+    "FuelConsumptionPer100Km": 26.18,
+    "PassengerCapacity": 96,
+    "Id": "3e83a2d6-0da6-460e-9267-f070c2d70841"
+  },
+  {
+    "Model": "Bus_Model_9bbe",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 24.55,
+    "PassengerCapacity": 50,
+    "Id": "22f585bf-ae98-44a7-94d0-3d1d7b57a3bd"
+  },
+  {
+    "Model": "Bus_Model_10d4",
+    "Year": 2015,
+    "FuelConsumptionPer100Km": 17.35,
+    "PassengerCapacity": 72,
+    "Id": "4b1515ad-e01a-47f1-afbb-a666f9eb756b"
+  },
+  {
+    "Model": "Bus_Model_db42",
+    "Year": 1999,
+    "FuelConsumptionPer100Km": 24.13,
+    "PassengerCapacity": 45,
+    "Id": "7009c2f6-de26-4960-81cc-df74ad0f4357"
+  },
+  {
+    "Model": "Bus_Model_c5ec",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 26.47,
+    "PassengerCapacity": 74,
+    "Id": "3dc06643-511d-4d33-9d98-2e5b4b073fa3"
+  },
+  {
+    "Model": "Bus_Model_8ef0",
+    "Year": 2019,
+    "FuelConsumptionPer100Km": 25.38,
+    "PassengerCapacity": 28,
+    "Id": "d73ff900-b4eb-4e01-86ef-36011f3c2998"
+  },
+  {
+    "Model": "Bus_Model_3525",
+    "Year": 2025,
+    "FuelConsumptionPer100Km": 22.45,
+    "PassengerCapacity": 64,
+    "Id": "8459b197-3dda-4264-8c90-0b681c925529"
+  },
+  {
+    "Model": "Bus_Model_e881",
+    "Year": 2005,
+    "FuelConsumptionPer100Km": 21.52,
+    "PassengerCapacity": 91,
+    "Id": "0598214a-01ed-47ab-b7fb-f534dfe84ed2"
+  },
+  {
+    "Model": "Bus_Model_a130",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 25.02,
+    "PassengerCapacity": 42,
+    "Id": "5ca245f1-43e1-495d-a2a5-538ac57914fc"
+  },
+  {
+    "Model": "Bus_Model_4732",
+    "Year": 2006,
+    "FuelConsumptionPer100Km": 23.17,
+    "PassengerCapacity": 36,
+    "Id": "c69c49f2-9f79-4afd-bb03-df3b262b5e19"
+  },
+  {
+    "Model": "Bus_Model_d80a",
+    "Year": 2020,
+    "FuelConsumptionPer100Km": 17.92,
+    "PassengerCapacity": 81,
+    "Id": "a74764bb-fcf2-469a-8071-90c9ac1d22bb"
+  },
+  {
+    "Model": "Bus_Model_4f0d",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 29.2,
+    "PassengerCapacity": 28,
+    "Id": "6445c57c-afeb-449f-a23f-c2f40a1877a9"
+  },
+  {
+    "Model": "Bus_Model_f4a8",
+    "Year": 2024,
+    "FuelConsumptionPer100Km": 26.56,
+    "PassengerCapacity": 41,
+    "Id": "2cb0b354-03e9-4523-a98d-a6ac72825bca"
+  },
+  {
+    "Model": "Bus_Model_62d6",
+    "Year": 1991,
+    "FuelConsumptionPer100Km": 19.37,
+    "PassengerCapacity": 49,
+    "Id": "80fd955a-ecc8-4572-a6fe-8917cfbbe3cb"
+  }
+]
