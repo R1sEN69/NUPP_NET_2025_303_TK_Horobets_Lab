@@ -1,0 +1,14 @@
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.AssemblyInfo.cs
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\bin\Debug\net8.0\Transport.Infrastructure.deps.json
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\bin\Debug\net8.0\Transport.Infrastructure.runtimeconfig.json
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\bin\Debug\net8.0\Transport.Infrastructure.dll
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\bin\Debug\net8.0\Transport.Infrastructure.pdb
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.dll
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\refint\Transport.Infrastructure.dll
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.pdb
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\Transport.Infrastructure.genruntimeconfig.cache
+C:\Users\rgoro\source\repos\Transport.Infrastructure\Transport.Infrastructure\obj\Debug\net8.0\ref\Transport.Infrastructure.dll
