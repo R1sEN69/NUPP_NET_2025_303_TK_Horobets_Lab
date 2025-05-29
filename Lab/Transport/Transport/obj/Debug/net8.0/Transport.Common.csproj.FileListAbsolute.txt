@@ -1,0 +1,11 @@
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\bin\Debug\net8.0\Transport.Common.deps.json
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\bin\Debug\net8.0\Transport.Common.dll
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\bin\Debug\net8.0\Transport.Common.pdb
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.AssemblyInfoInputs.cache
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.AssemblyInfo.cs
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.csproj.CoreCompileInputs.cache
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.dll
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\refint\Transport.Common.dll
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\Transport.Common.pdb
+C:\Users\rgoro\OneDrive\Рабочий стол\Labs\Lab\Transport\Transport\obj\Debug\net8.0\ref\Transport.Common.dll
