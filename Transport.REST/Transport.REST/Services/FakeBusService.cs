@@ -8,9 +8,7 @@ using System.Threading.Tasks;
 
 namespace Transport.REST.Services
 {
-    // У реальному проекті тут буде логіка, яка використовує ваш DAL та Repositories
-    // Припустимо, що наша BusEntity (з DAL) має ті ж властивості, що і BusModel для простоти
-    // В реальності тут була б маппінг між BusModel та BusEntity
+
     public class FakeBusService : ICrudServiceAsync<BusModel>
     {
         private readonly ConcurrentDictionary<Guid, BusModel> _buses = new ConcurrentDictionary<Guid, BusModel>();
@@ -67,7 +65,6 @@ namespace Transport.REST.Services
 
         public Task<bool> SaveAsync()
         {
-            // У цьому фейковому сервісі SaveAsync нічого не робить, оскільки дані в пам'яті
             return Task.FromResult(true);
         }
     }
